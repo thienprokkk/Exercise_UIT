@@ -1,16 +1,1 @@
-VẤN ĐỀ/BÀI TOÃN
-1.1 Khái niệm
-- Trong lập trình, bài toán được hiểu là một vấn đề hoặc một tình huống cần được giải quyết bằng cách sử dụng các thuật toán và ngôn ngữ lập trình. Một bài toán lập trình thường được mô tả bằng cách xác định đầu vào (input), yêu cầu ra (output) và các ràng buộc liên quan.
-- Các bài toán trong lập trình có thể thuộc vào các lĩnh vực khác nhau như máy tính, khoa học dữ liệu, trí tuệ nhân tạo, trò chơi điện tử, v.v. Mỗi bài toán đều yêu cầu một phương pháp giải quyết riêng và có thể sử dụng các ngôn ngữ lập trình khác nhau tùy thuộc vào mục tiêu và yêu cầu cụ thể của bài toán.
-Vd: một bài toán đơn giản có thể là tính tổng của hai số nguyên. Đầu vào của bài toán là hai số nguyên và yêu cầu ra là tổng của hai số đó. Để giải quyết bài toán này, người lập trình có thể sử dụng công thức đơn giản như sau: tổng = số1 + số2. Sau đó, người lập trình có thể sử dụng một ngôn ngữ lập trình như Python, Java hoặc C++ để triển khai mã giải trong chương trình.
-1.2 Phân loại
-Có nhiều cách phân loại bài toán trong lập trình dựa trên các tiêu chí khác nhau, dưới đây là một số phân loại phổ biến:
-1. Tính toán và số học: Bài toán liên quan đến tính toán và xử lý các phép tính số học, như tính tổng, hiệu, tích, thương, căn bậc hai, v.v.
-2. Chuỗi và xâu ký tự: Bài toán liên quan đến xử lý các chuỗi và xâu ký tự, như tìm kiếm, sắp xếp, xóa, thay thế, v.v.
-3. Cấu trúc dữ liệu: Bài toán liên quan đến sử dụng và thiết kế các cấu trúc dữ liệu, như danh sách liên kết, hàng đợi, ngăn xếp, cây, đồ thị, v.v.
-4. Kiểm tra điều kiện: Bài toán liên quan đến kiểm tra điều kiện và đưa ra quyết định dựa trên kết quả của các kiểm tra, như kiểm tra số chẵn/lẻ, kiểm tra chuỗi đối xứng, kiểm tra phần tử trong một danh sách, v.v.
-5. Quy hoạch động: Bài toán liên quan đến việc tìm lời giải tối ưu cho các vấn đề tối ưu hóa, như tìm đường đi ngắn nhất, phân chia tài nguyên tối ưu, tìm dãy con tăng dài nhất, v.v.
-6. Cơ sở dữ liệu: Bài toán liên quan đến truy vấn và chỉnh sửa cơ sở dữ liệu, như thêm, sửa, xóa dữ liệu, truy vấn dữ liệu, tối ưu hóa cơ sở dữ liệu, v.v.
-7. Khoa học dữ liệu: Bài toán liên quan đến phân tích và khai thác dữ liệu, như gom cụm, phân loại, dự đoán, phân tích thông tin, v.v.
-8. Trò chơi và đồ họa: Bài toán liên quan đến phát triển trò chơi, đồ họa máy tính, về cơ bản là giải quyết các bài toán thú vị và tạo ra trải nghiệm người dùng tốt.
-Đây chỉ là một số phân loại phổ biến và không phải là toàn bộ. Các bài toán trong lập trình có thể có sự kết hợp giữa các phân loại khác nhau và có thể thuộc vào nhiều lĩnh vực khác nhau.
+
