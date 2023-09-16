@@ -28,6 +28,19 @@ Mô tả thuật toán:
 2.2 Tính chất
 
 2.3 Vai trò
+- Thuật toán xuất hiện và được áp dụng vào rất nhiều những khía cạnh cũng như nhiều lĩnh vực khác nhau , tiêu biểu là:
+	  + Toán học : Tìm số nguyên tố, tính toán giá trị hàm số
+	  + Khoa học máy tính: Phát triển các hệ thống trí tuệ nhân tạo,…
+	  + Kinh doanh: Phân tích hành vi, nhu cầu khách hàng, quản lý rủi ro, tối ưu hóa quy trình sản xuất… 
+-	Riêng ngành IT của chúng ta:
+    + Thuật toán là nền tảng của lập trình, các chương trình đều được viết dựa trên các thuật toán (Đóng vai trò rất quan trọng trong việc tối ưu hóa hệ thống/phần mềm)
+    + Học thuật toán giúp sinh viên/lập trình viên nâng cao khả năng tư duy và giải quyết vấn đề 
+    + Thuật toán được sử dụng rất nhiều trong các bài phỏng vấn vị trí liên quan đến IT
+
+===>	Từ đó ta thấy vai trò của thuật toán bao gồm:
+-	Cung cấp phương pháp hiệu quả để giải quyết các vấn đề
+-	Giúp tiết kiệm tài nguyên máy tính (tiết kiệm bộ nhớ, tăng hiệu quả hoạt động của máy,…)
+-	Đảm bảo sự chính xác trong kết quả khi giải quyết vấn đề.
 
 2.4 Biểu diễn
 
