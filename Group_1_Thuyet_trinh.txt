@@ -3,82 +3,121 @@ VẤN ĐỀ:
 1.1 Định nghĩa
 - Trong lập trình, bài toán được hiểu là một vấn đề hoặc một tình huống cần được giải quyết bằng cách sử dụng các thuật toán và ngôn ngữ lập trình. Một bài toán lập trình thường được mô tả bằng cách xác định đầu vào (input), yêu cầu ra (output) và các ràng buộc liên quan.
 - Các bài toán trong lập trình có thể thuộc vào các lĩnh vực khác nhau như máy tính, khoa học dữ liệu, trí tuệ nhân tạo, trò chơi điện tử, v.v. Mỗi bài toán đều yêu cầu một phương pháp giải quyết riêng và có thể sử dụng các ngôn ngữ lập trình khác nhau tùy thuộc vào mục tiêu và yêu cầu cụ thể của bài toán.
-Vd: một bài toán đơn giản có thể là tính tổng của hai số nguyên. Đầu vào của bài toán là hai số nguyên và yêu cầu ra là tổng của hai số đó. Để giải quyết bài toán này, người lập trình có thể sử dụng công thức đơn giản như sau: tổng = số1 + số2. Sau đó, người lập trình có thể sử dụng một ngôn ngữ lập trình như Python, Java hoặc C++ để triển khai mã giải trong chương trình.
+	Vd: một bài toán đơn giản có thể là tính tổng của hai số nguyên. Đầu vào của bài toán là hai số nguyên và yêu cầu ra là tổng của hai số đó. Để giải quyết bài toán này, người lập trình có thể sử dụng công thức đơn giản như sau: tổng = số1 + số2. Sau đó, người lập trình có thể sử dụng một ngôn ngữ lập trình như Python, Java hoặc C++ để triển khai mã giải trong chương trình.
 
 1.2 Phân loại
 - Có nhiều cách phân loại bài toán trong lập trình dựa trên các tiêu chí khác nhau, dưới đây là một số phân loại phổ biến:
-+ Tính toán và số học: Bài toán liên quan đến tính toán và xử lý các phép tính số học, như tính tổng, hiệu, tích, thương, căn bậc hai, v.v.
-+ Chuỗi và xâu ký tự: Bài toán liên quan đến xử lý các chuỗi và xâu ký tự, như tìm kiếm, sắp xếp, xóa, thay thế, v.v.
-+ Cấu trúc dữ liệu: Bài toán liên quan đến sử dụng và thiết kế các cấu trúc dữ liệu, như danh sách liên kết, hàng đợi, ngăn xếp, cây, đồ thị, v.v.
-+ Kiểm tra điều kiện: Bài toán liên quan đến kiểm tra điều kiện và đưa ra quyết định dựa trên kết quả của các kiểm tra, như kiểm tra số chẵn/lẻ, kiểm tra chuỗi đối xứng, kiểm tra phần tử trong một danh sách, v.v.
-+ Quy hoạch động: Bài toán liên quan đến việc tìm lời giải tối ưu cho các vấn đề tối ưu hóa, như tìm đường đi ngắn nhất, phân chia tài nguyên tối ưu, tìm dãy con tăng dài nhất, v.v.
-+ Cơ sở dữ liệu: Bài toán liên quan đến truy vấn và chỉnh sửa cơ sở dữ liệu, như thêm, sửa, xóa dữ liệu, truy vấn dữ liệu, tối ưu hóa cơ sở dữ liệu, v.v.
-+ Khoa học dữ liệu: Bài toán liên quan đến phân tích và khai thác dữ liệu, như gom cụm, phân loại, dự đoán, phân tích thông tin, v.v.
-+ Trò chơi và đồ họa: Bài toán liên quan đến phát triển trò chơi, đồ họa máy tính, về cơ bản là giải quyết các bài toán thú vị và tạo ra trải nghiệm người dùng tốt.
+	+ Tính toán và số học: Bài toán liên quan đến tính toán và xử lý các phép tính số học, như tính tổng, hiệu, tích, thương, căn bậc hai, v.v.
+	+ Chuỗi và xâu ký tự: Bài toán liên quan đến xử lý các chuỗi và xâu ký tự, như tìm kiếm, sắp xếp, xóa, thay thế, v.v.
+	+ Cấu trúc dữ liệu: Bài toán liên quan đến sử dụng và thiết kế các cấu trúc dữ liệu, như danh sách liên kết, hàng đợi, ngăn xếp, cây, đồ thị, v.v.
+	+ Kiểm tra điều kiện: Bài toán liên quan đến kiểm tra điều kiện và đưa ra quyết định dựa trên kết quả của các kiểm tra, như kiểm tra số chẵn/lẻ, kiểm tra chuỗi đối xứng, kiểm tra phần tử trong một danh sách, v.v.
+	+ Quy hoạch động: Bài toán liên quan đến việc tìm lời giải tối ưu cho các vấn đề tối ưu hóa, như tìm đường đi ngắn nhất, phân chia tài nguyên tối ưu, tìm dãy con tăng dài nhất, v.v.
+	+ Cơ sở dữ liệu: Bài toán liên quan đến truy vấn và chỉnh sửa cơ sở dữ liệu, như thêm, sửa, xóa dữ liệu, truy vấn dữ liệu, tối ưu hóa cơ sở dữ liệu, v.v.
+	+ Khoa học dữ liệu: Bài toán liên quan đến phân tích và khai thác dữ liệu, như gom cụm, phân loại, dự đoán, phân tích thông tin, v.v.
+	+ Trò chơi và đồ họa: Bài toán liên quan đến phát triển trò chơi, đồ họa máy tính, về cơ bản là giải quyết các bài toán thú vị và tạo ra trải nghiệm người dùng tốt.
 * Đây chỉ là một số phân loại phổ biến và không phải là toàn bộ. Các bài toán trong lập trình có thể có sự kết hợp giữa các phân loại khác nhau và có thể thuộc vào nhiều lĩnh vực khác nhau.
 
 1.3 Các bước thực hiện
 Khả năng xử lý của máy tính không ngừng nâng cao và ngày càng thông minh hơn. Tuy nhiên, máy tính không thể tự suy nghĩ, phân tích và đưa ra phương pháp để giải quyết vấn đề. Lập trình viên sẽ làm những việc đó và cài đặt các câu lệnh dựa trên ngôn ngữ lập trình để giải quyết một bài toán cụ thể. 
 Các bước để giải quyết vấn đề - bài toán bằng máy tính như sau: 
-	•Bước 1: Xác định vấn đề - bài toán (bước quan trọng)
+- Bước 1: Xác định vấn đề - bài toán (bước quan trọng)
 	+ Xác định rõ yêu cầu bài toán, các Input, Output và mối quan hệ giữa chúng
 	+ Lựa chọn thuật toán
 	+ Ngôn ngữ lập trình
-	•Bước 2: Lựa chọn phương pháp giải
+- Bước 2: Lựa chọn phương pháp giải
 	Cần lựa chọn phương pháp phù hợp với yêu cầu và hạ tầng máy tính tương ứng hoặc các tiêu chí cho trước như: thời gian thực hiện, chi phí lưu trữ, chi phí bộ nhớ khi thực hiện chương trình, độ chính xác...
-	•Bước 3: Xây dựng thuật toán 
+- Bước 3: Xây dựng thuật toán 
 	Sau khi có phương pháp giải, ta cần xây dựng thuật toán cho vấn đề - bài toán.
-	•Bước 4: Cài đặt chương trình
+- Bước 4: Cài đặt chương trình
 	Sử dụng ngôn ngữ lập trình đã chọn để cài đặt chương trình tương ứng theo đúng mô tả thuật toán.
-	•Bước 5: Hiệu chỉnh chương trình
+- Bước 5: Hiệu chỉnh chương trình
 	Cần hiệu chỉnh lại để chương trình đúng cú pháp của ngôn ngữ lập trình, không vi phạm các ràng buộc của bài toán và không sai về ngữ nghĩa. 
-	•Bước 6: Thực hiện chương trình
+- Bước 6: Thực hiện chương trình
 	+ Cho máy tính thực hiện chương trình.
 	+ Phân tích và kiểm tra kết quả có đúng với lời giải.
 	+ Nếu chưa đúng, cần kiểm tra lại toàn bộ các bước trên.
-Người lập trình nên tuân thủ các bước trên để nâng cao kĩ năng và hạn chế được các lỗi phát sinh trong quá trình thực hiện chương trình.
+==> Người lập trình nên tuân thủ các bước trên để nâng cao kĩ năng và hạn chế được các lỗi phát sinh trong quá trình thực hiện chương trình.
 
 THUẬT TOÁN
 2.1 Khái niệm
 - Thuật toán là một tập hữu hạn các bước, các phép toán cơ bản hoặc phức tạp được sắp xếp theo một trình tự nhất định để từ thông tin đầu vào của bài toán sau một tập hữu hạn các bước đó sẽ đạt được kết quả ở đầu ra như mong muốn
-  - Thuật toán phải có hữu hạn các bước, nếu chạy vô hạn sẽ không cho ra kết quả 
-  - Thuật toán không tạo ra để giải quyết 1 bài toán cụ thể, mà để giải quyết 1 nhóm các bài toán cụ thể cùng thuộc một dạng bài.
+  + Thuật toán phải có hữu hạn các bước, nếu chạy vô hạn sẽ không cho ra kết quả 
+  +Thuật toán không tạo ra để giải quyết 1 bài toán cụ thể, mà để giải quyết 1 nhóm các bài toán cụ thể cùng thuộc một dạng bài.
 (Ví dụ 1): Giải bài toán tính tổng khối lượng 2 kho hang
-  => Không dùng để tính cho 2 kho hàng cụ thể mà có thể dùng để tính cho 2 kho hàng bất kì 
+  	=> Không dùng để tính cho 2 kho hàng cụ thể mà có thể dùng để tính cho 2 kho hàng bất kì 
 (Ví dụ 2): Cho bài toán giải phương trình bậc nhất: ax + b = 0
   Đầu vào (input): a, b
   Đầu ra (output): Nghiệm của phương trình bậc nhất ax + b = 0;
 Mô tả thuật toán: 
-  -	Nếu a = 0 
-    o	Nếu b = 0 thì có vô hạn nghiệm x
-    o	Nếu b != 0 thì phương trình vô nghiệm
-  -	Nếu a != 0
-    o	Phương trình có nghiệm x = -b/a
+- Nếu a = 0 
+    + Nếu b = 0 thì có vô hạn nghiệm x
+    + Nếu b != 0 thì phương trình vô nghiệm
+- Nếu a != 0
+    + Phương trình có nghiệm x = -b/a
 
- ===> Qua đó có thể thấy, thuật toán đưa ra 1 quy trình các bước giải quyết một lớp vấn đề nào đấy.
+ ==> Qua đó có thể thấy, thuật toán đưa ra 1 quy trình các bước giải quyết một lớp vấn đề nào đấy.
 
 2.2 Tính chất
-Thuật toán có một số tính chất cơ bản sau:
-- Tính chính xác/đúng: Output của thuật toán phải chính xác hoàn toàn đối với yêu cầu của bài toán.
-- Tính xác định/khách quan: Dù được thực hiện nhiều lần bởi nhiều máy tính khác nhau, thuật toán phải có kết quả như nhau.
-- Tính hữu hạn/kết thúc: Phải đảm bảo đến một lúc nào đó thuật toán kết thúc quá trình tính toán.
-- Tính tổng quát/phổ dụng: Thuật toán đòi hỏi phải có tính ứng dụng cao. Với đầu vào tương tự, thuật toán vẫn đảm bảo đưa ra kết quả đúng.
-- Tính rõ ràng/hiệu quả: Các câu lệnh minh bạch và được sắp xếp theo một trình tự nhất định.
+* Thuật toán có một số tính chất cơ bản sau:
+	- Tính chính xác/đúng: Output của thuật toán phải chính xác hoàn toàn đối với yêu cầu của bài toán.
+	- Tính xác định/khách quan: Dù được thực hiện nhiều lần bởi nhiều máy tính khác nhau, thuật toán phải có kết quả như nhau.
+	- Tính hữu hạn/kết thúc: Phải đảm bảo đến một lúc nào đó thuật toán kết thúc quá trình tính toán.
+	- Tính tổng quát/phổ dụng: Thuật toán đòi hỏi phải có tính ứng dụng cao. Với đầu vào tương tự, thuật toán vẫn đảm bảo đưa ra kết quả đúng.
+	- Tính rõ ràng/hiệu quả: Các câu lệnh minh bạch và được sắp xếp theo một trình tự nhất định.
+* Đặc trưng về thuật toán
+	a) Vào dữ liệu(data input): tập hợp các dữ liệu được nạp vào thuật toán khi nó bắt đầu được thực thi.
+	b) Xử lí dữ liệu(data process): mọi thao tác trên dữ liệu vào (nói riêng là tính toán) để chúng ta đạt được kết quả của bài toán (chính là các bước thực thi của bài toán). Không có đặc trưng này thì bất thành thuật toán.
+	c) Xuất dữ liệu(data output): kết quả giải bài toán hay giải quyết vấn đề sau khi thực thi thuật toán.
+
 2.3 Vai trò
 - Thuật toán xuất hiện và được áp dụng vào rất nhiều những khía cạnh cũng như nhiều lĩnh vực khác nhau , tiêu biểu là:
-	  + Toán học : Tìm số nguyên tố, tính toán giá trị hàm số
-	  + Khoa học máy tính: Phát triển các hệ thống trí tuệ nhân tạo,…
-	  + Kinh doanh: Phân tích hành vi, nhu cầu khách hàng, quản lý rủi ro, tối ưu hóa quy trình sản xuất… 
--	Riêng ngành IT của chúng ta:
-    + Thuật toán là nền tảng của lập trình, các chương trình đều được viết dựa trên các thuật toán (Đóng vai trò rất quan trọng trong việc tối ưu hóa hệ thống/phần mềm)
-    + Học thuật toán giúp sinh viên/lập trình viên nâng cao khả năng tư duy và giải quyết vấn đề 
-    + Thuật toán được sử dụng rất nhiều trong các bài phỏng vấn vị trí liên quan đến IT
+	+ Toán học : Tìm số nguyên tố, tính toán giá trị hàm số
+	+ Khoa học máy tính: Phát triển các hệ thống trí tuệ nhân tạo,…
+	+ Kinh doanh: Phân tích hành vi, nhu cầu khách hàng, quản lý rủi ro, tối ưu hóa quy trình sản xuất… 
+- Riêng ngành IT của chúng ta:
+	+ Thuật toán là nền tảng của lập trình, các chương trình đều được viết dựa trên các thuật toán (Đóng vai trò rất quan trọng trong việc tối ưu hóa hệ thống/phần mềm)
+	+ Học thuật toán giúp sinh viên/lập trình viên nâng cao khả năng tư duy và giải quyết vấn đề 
+	+ Thuật toán được sử dụng rất nhiều trong các bài phỏng vấn vị trí liên quan đến IT
 
-===>	Từ đó ta thấy vai trò của thuật toán bao gồm:
--	Cung cấp phương pháp hiệu quả để giải quyết các vấn đề
--	Giúp tiết kiệm tài nguyên máy tính (tiết kiệm bộ nhớ, tăng hiệu quả hoạt động của máy,…)
--	Đảm bảo sự chính xác trong kết quả khi giải quyết vấn đề.
+==> Từ đó ta thấy vai trò của thuật toán bao gồm:
+	+ Cung cấp phương pháp hiệu quả để giải quyết các vấn đề
+	+ Giúp tiết kiệm tài nguyên máy tính (tiết kiệm bộ nhớ, tăng hiệu quả hoạt động của máy,…)
+	+ Đảm bảo sự chính xác trong kết quả khi giải quyết vấn đề.
 
 2.4 Biểu diễn
+2.4.1 Sử ngôn ngữ tự nhiên:
+- Ngôn ngữ tự nhiên là ngôn ngữ mà con người của một quốc bất kỳ dùng để diễn dạt và giao tiếp hằng ngày.
+- Ưu điểm: dễ viết
+- Nhược điểm: máy tính không hiểu
+2.4.2 Sử dụng lưu đồ (flow chart)
+- Lưu đồ được sử dụng để biểu diễn các bước giải quyết thuật toán qua các hình khối khác nhau
+- Tuân thủ:
+	+ Điểm cuối (start, end): hình oval
+	+ Điểm nối (connecter)
+	+ Thao tác nhập, xuất dữ liệu (input, output): hình bình hành
+	+ Thao tác xử lí (process): hình vuông
+	+ Thao tác chọn lựa (decision) : hình thoi
+	+ Dòng tính toán, đường đi (route) : mũi tên
+	+ khối lệnh gọi hàm (chương trình con)
+- Ưu điểm: giúp cho người đọc hiểu được các logic, phân tích vấn đề hiểu quả
+- Nhược điểm: tốn thời gian, đối với bài toán phức tạp đôi khi có chút thay đổi sẽ phải vẽ lại toàn bộ sơ đồ ( cồng kềnh)
+2.4.3 Sử dụng mã giả(pseudo-code):
+- Mã giả là một ngôn ngữ hình thức, gần giống với ngôn ngữ tự nhiên, nó sử dụng kết hợp ngôn ngữ tự nhiên, các ký hiệu toán học, và vay mượn một số cấu trúc của một ngôn ngữ lập trình nào đó để thể hiện bà.
+- Ưu điểm: giúp người đọc tập trung vào thuật toán mà không cần quan tâm đến các chi tiết của cú pháp
+- Nhược điểm: không được thực thi trên máy tính, không có tiêu chuẩn viết mã giả
+- Ví dụ:
+
+=> Note: Thuật toán tập trung vào cách cách diễn đạt thuật toán không quan trọng về cú pháp(syntax)
 
 2.5 Đánh giá
+Đánh giá thuật toán theo 2 tiêu chuẩn:
+* Thuật toán đơn giản, dễ hiểu, dễ cài đặt
+* Thuật toán thiệu quả:
+	- Thời gian thực hiện (Độ phức tạp thời gian):
+		+ Các lệnh đơn(khai báo, gán, nhập xuất dữ liệu, phép toán số học,…) : thời gian O(1)
+		+ Giả sử các khối lệnh gồm có S1, S2,… Sn có thời gian thực hiện là O(f1(n), f2(n),.. fm(n)) (time1, time2,…timen) thì độ phức tạp thời gian được tính bằng O(max(time1, time2,… timen).
+	=> Sau khi đánh giá được thời gian thực hiện của tất cả các câu lệnh trong chương trình, thời gian thực hiện của toàn bộ chương trình sẽ là thời gian thực hiện của câu lệnh có thời gian thực hiện lớn nhất
+	- Bộ nhớ cần thiết để lưu trữ dữ liệu (Độ phức tạp không gian):
+		+ Tổng bộ nhớ sử dụng trong toàn bộ chương trình sẽ hợp thành độ phức tạp không gian của chương trình là O(g(n)). Sau khi tính được O(g(n)), ta sẽ quy đổi nó ra dung lượng bộ nhớ tương ứng với kiểu dữ liệu của input để tính ra được bộ nhớ sử dụng một cách tương đối chính xác.
+
+=> Một thuật toán hiệu quả được đánh giá là độ phức tạp thời gian và độ phức tạp không gian thấp.
