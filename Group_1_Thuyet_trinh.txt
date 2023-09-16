@@ -6,6 +6,16 @@ VẤN ĐỀ:
 Vd: một bài toán đơn giản có thể là tính tổng của hai số nguyên. Đầu vào của bài toán là hai số nguyên và yêu cầu ra là tổng của hai số đó. Để giải quyết bài toán này, người lập trình có thể sử dụng công thức đơn giản như sau: tổng = số1 + số2. Sau đó, người lập trình có thể sử dụng một ngôn ngữ lập trình như Python, Java hoặc C++ để triển khai mã giải trong chương trình.
 
 1.2 Phân loại
+- Có nhiều cách phân loại bài toán trong lập trình dựa trên các tiêu chí khác nhau, dưới đây là một số phân loại phổ biến:
++ Tính toán và số học: Bài toán liên quan đến tính toán và xử lý các phép tính số học, như tính tổng, hiệu, tích, thương, căn bậc hai, v.v.
++ Chuỗi và xâu ký tự: Bài toán liên quan đến xử lý các chuỗi và xâu ký tự, như tìm kiếm, sắp xếp, xóa, thay thế, v.v.
++ Cấu trúc dữ liệu: Bài toán liên quan đến sử dụng và thiết kế các cấu trúc dữ liệu, như danh sách liên kết, hàng đợi, ngăn xếp, cây, đồ thị, v.v.
++ Kiểm tra điều kiện: Bài toán liên quan đến kiểm tra điều kiện và đưa ra quyết định dựa trên kết quả của các kiểm tra, như kiểm tra số chẵn/lẻ, kiểm tra chuỗi đối xứng, kiểm tra phần tử trong một danh sách, v.v.
++ Quy hoạch động: Bài toán liên quan đến việc tìm lời giải tối ưu cho các vấn đề tối ưu hóa, như tìm đường đi ngắn nhất, phân chia tài nguyên tối ưu, tìm dãy con tăng dài nhất, v.v.
++ Cơ sở dữ liệu: Bài toán liên quan đến truy vấn và chỉnh sửa cơ sở dữ liệu, như thêm, sửa, xóa dữ liệu, truy vấn dữ liệu, tối ưu hóa cơ sở dữ liệu, v.v.
++ Khoa học dữ liệu: Bài toán liên quan đến phân tích và khai thác dữ liệu, như gom cụm, phân loại, dự đoán, phân tích thông tin, v.v.
++ Trò chơi và đồ họa: Bài toán liên quan đến phát triển trò chơi, đồ họa máy tính, về cơ bản là giải quyết các bài toán thú vị và tạo ra trải nghiệm người dùng tốt.
+* Đây chỉ là một số phân loại phổ biến và không phải là toàn bộ. Các bài toán trong lập trình có thể có sự kết hợp giữa các phân loại khác nhau và có thể thuộc vào nhiều lĩnh vực khác nhau.
 
 1.3 Các bước thực hiện
 
