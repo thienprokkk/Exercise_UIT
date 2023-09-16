@@ -1,6 +1,9 @@
 Nhập nội dung theo mẫu sau:
 VẤN ĐỀ:
 1.1 Định nghĩa
+- Trong lập trình, bài toán được hiểu là một vấn đề hoặc một tình huống cần được giải quyết bằng cách sử dụng các thuật toán và ngôn ngữ lập trình. Một bài toán lập trình thường được mô tả bằng cách xác định đầu vào (input), yêu cầu ra (output) và các ràng buộc liên quan.
+- Các bài toán trong lập trình có thể thuộc vào các lĩnh vực khác nhau như máy tính, khoa học dữ liệu, trí tuệ nhân tạo, trò chơi điện tử, v.v. Mỗi bài toán đều yêu cầu một phương pháp giải quyết riêng và có thể sử dụng các ngôn ngữ lập trình khác nhau tùy thuộc vào mục tiêu và yêu cầu cụ thể của bài toán.
+Vd: một bài toán đơn giản có thể là tính tổng của hai số nguyên. Đầu vào của bài toán là hai số nguyên và yêu cầu ra là tổng của hai số đó. Để giải quyết bài toán này, người lập trình có thể sử dụng công thức đơn giản như sau: tổng = số1 + số2. Sau đó, người lập trình có thể sử dụng một ngôn ngữ lập trình như Python, Java hoặc C++ để triển khai mã giải trong chương trình.
 
 1.2 Phân loại
 
