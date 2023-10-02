@@ -1,9 +1,29 @@
     BÀI TẬP 2
 
-Name:
-a.
+Name: Phạm Thái Sơn
+a.Ưu và nhược điểm CNTT ở Việt Nam
+    - Ưu điểm:
+        1. Sự phát triển nhanh chóng: Công nghệ thông tin ở Việt Nam đang phát triển với tốc độ nhanh chóng, đặc biệt là trong những năm gần đây. Việt Nam đã trở thành một trong những quốc gia có tốc độ tăng trưởng nhanh nhất trong lĩnh vực công nghệ thông tin. 
+        2. Sự đa dạng về sản phẩm và dịch vụ: Các sản phẩm và dịch vụ công nghệ thông tin ở Việt Nam đang ngày càng đa dạng và phong phú, từ phần mềm, ứng dụng di động, đến các sản phẩm phần cứng như máy tính, điện thoại thông minh, máy tính bảng, và các thiết bị IoT.
+        3. Sự ủng hộ của chính phủ: Chính phủ Việt Nam đã đưa ra nhiều chính sách hỗ trợ cho các doanh nghiệp công nghệ thông tin, bao gồm cả việc đầu tư vào hạ tầng, cải thiện môi trường kinh doanh, và đào tạo nguồn nhân lực. 
+        4. Công nghệ thông tin là ngành phát triển mạnh mang lại giá trị gia tăng cao. Ở mỗi một lĩnh vực, vị trí làm việc sẽ có các mức thu nhập khác nhau. Nhưng nhìn chung mức thu nhập ngành này được xếp ở mức cao và ổn định, không chịu nhiều ảnh hưởng của biến động xã hội.
+     - Nhược điểm: 
+         1. Thiếu nguồn nhân lực chất lượng: Việt Nam đang gặp khó khăn trong việc đào tạo và giữ chân các chuyên gia công nghệ thông tin, do đó, các công ty công nghệ thông tin đang phải đối mặt với sự cạnh tranh khốc liệt để thu hút và giữ chân nhân tài. 
+        2. Thiếu hạ tầng kỹ thuật: Mặc dù Việt Nam đã đầu tư vào hạ tầng công nghệ thông tin, nhưng vẫn còn nhiều hạn chế về mặt kỹ thuật, đặc biệt là ở các vùng nông thôn. 
+        3. Vấn đề bảo mật thông tin: Với sự phát triển của công nghệ thông tin, các vấn đề về bảo mật thông tin cũng trở nên quan trọng hơn bao giờ hết. Tuy nhiên, Việt Nam vẫn còn nhiều thách thức trong việc đảm bảo an toàn thông tin cho người dùng.
 
-b.
+b.Ưu và nhược điểm của CNTT trong gia đình
+Ưu điểm:
+    1. Kết nối và giao tiếp: CNTT giúp cho các thành viên trong gia đình có thể kết nối và giao tiếp với nhau dễ dàng hơn, bất kể họ đang ở đâu trên thế giới. Ví dụ như qua các ứng dụng nhắn tin, cuộc gọi video, email, mạng xã hội, v.v.
+    2.Giải trí: CNTT cung cấp cho gia đình nhiều tùy chọn giải trí như xem phim, chơi game, nghe nhạc, đọc sách, v.v. qua các thiết bị như máy tính, điện thoại, máy chơi game, v.v.
+    3.Học tập và nghiên cứu: CNTT cung cấp cho các thành viên trong gia đình nhiều tài liệu học tập và nghiên cứu, giúp cho việc học tập và nghiên cứu trở nên dễ dàng hơn. Ví dụ như các trang web học tập, các ứng dụng học tập, các công cụ tìm kiếm, v.v.
+    4.Quản lý gia đình: CNTT cung cấp cho gia đình nhiều công cụ quản lý gia đình như lịch, danh sách công việc, danh sách mua sắm, v.v. giúp cho việc quản lý gia đình trở nên dễ dàng hơn.
+
+Nhược điểm:
+    1.Gây phân cách gia đình: CNTT có thể gây ra sự phân cách giữa các thành viên trong gia đình, khi mỗi người lại dành nhiều thời gian cho việc sử dụng thiết bị CNTT của mình.
+    2.Gây ảnh hưởng đến sức khỏe: Sử dụng CNTT quá nhiều có thể gây ảnh hưởng đến sức khỏe của các thành viên trong gia đình, đặc biệt là trẻ em. Ví dụ như gây mỏi mắt, đau đầu, thiếu chú ý, v.v.
+    3.Gây ảnh hưởng đến mối quan hệ: Sử dụng CNTT quá nhiều có thể gây ảnh hưởng đến mối quan hệ giữa các thành viên trong gia đình, khi mỗi người lại dành nhiều thời gian cho việc sử dụng thiết bị CNTT của mình thay vì tương tác với nhau.
+    4.Gây ảnh hưởng đến an ninh: Sử dụng CNTT không đúng cách có thể gây ảnh hưởng đến an ninh của gia đình, khi các thông tin cá nhân của gia đình bị lộ ra ngoài hoặc bị tấn công bởi các hacker.
 
 Name:
 c.
