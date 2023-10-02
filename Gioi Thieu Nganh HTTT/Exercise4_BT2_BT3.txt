@@ -38,5 +38,14 @@ a.
 Name's list:
 b.
 
-Name's list:
+Name's list:Nguyễn Đoàn Thùy Trâm
 c.
+Ngày nay, Hệ Thống Thông Tin rất cần thiết cho việc điều hành và quản lý một doanh nghiệp vì nó cung cấp hoạch định chiến lược kinh doanh, thay đổi bên trong doanh ngiệp tổ chức và cơ cấu quản lí, giúp cho việc quản lí và đưa ra quyết định dễ dàng hơn; HTTT còn giúp đổi mới các chiếc lược kinh doanh cho phép tạo ra mô hình kinh doanh phù hợp. Nó giúp cho hoạt động quản lí của doanh nghiệp như quản lí chuỗi cung ứng, doanh nghiệp, khách hàng,... diễn ra dễ dàng, hiệu quả.
+-Quản lý chuỗi cung ứng: Xử lí quy trình sản xuất một hàng hóa hoặc dịch vụ, điều phối các kía cạnh gồm (kế hoạch, nguồn nguyên liệu, sản xuất, giao hàng và hậu cần, hệ thống đổi trả). Chúng cho phép mua sắm, quản lý hàng tồn kho và thực hiện đơn hàng hiệu quả.
+-Quản trị doanh nghiệp: Giúp doanh nghiệp lưu trữ, sắp xếp và quản lý lượng dữ liệu khổng lồ một cách hiệu quả. Dữ liệu này có thể bao gồm thông tin khách hàng, hồ sơ bán hàng, dữ liệu hàng tồn kho, v.v.  HTTT giúp cho công tác quản lí trở nên dễ dàng, cho phép quản lí từ xa, trực tuyến, và gần như ngay lập tức có thể truy cập thông tin trên CSDL một cách chính xác và kịp thời, giúp cho việc quản lí trở nê dễ dàng, không còn rườm rà và phức tạp. HTTT còn cung cấp thông tin cho các nhà quản lí, đưa ra quyết định về chiến dịch kinh doanh, tạo ra sản phẩm dịch vụ và mô hình kinh doanh (quy trình sản xuất, phân phối, bán sản phẩm,..) phù hợp. Giúp tăng lợi nhuận, doanh thu, mang lại giá trị kinh tế cho doanh nghiệp.
+-Quản lý khách hàng: HTTT giúp giúp doanh nghiệp theo dõi các tương tác, sở thích và phản hồi của khách hàng, điều này có thể giúp cải thiện sự hài lòng và giữ chân khách hàng. Cung cấp những hiểu biết dựa trên dữ liệu về hành vi của khách hàng và xu hướng thị trường, giúp doanh nghiệp điều chỉnh chiến lược tiếp thị và nỗ lực bán hàng để nhắm đúng đối tượng và tăng doanh thu.
+-Quản lý kiến thức: Hệ thống được thiết kế để tích hợp và chia sẻ kiến thức.
+-Lập kế hoạch:  
+-Điều phối:
+-Điều khiển:
+-Mô hình hóa và ra quyết định
