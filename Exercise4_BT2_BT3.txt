@@ -8,13 +8,13 @@ a.Ưu và nhược điểm CNTT ở Việt Nam
         3. Sự ủng hộ của chính phủ: Chính phủ Việt Nam đã đưa ra nhiều chính sách hỗ trợ cho các doanh nghiệp công nghệ thông tin, bao gồm cả việc đầu tư vào hạ tầng, cải thiện môi trường kinh doanh, và đào tạo nguồn nhân lực. 
         4. Công nghệ thông tin là ngành phát triển mạnh mang lại giá trị gia tăng cao. Ở mỗi một lĩnh vực, vị trí làm việc sẽ có các mức thu nhập khác nhau. Nhưng nhìn chung mức thu nhập ngành này được xếp ở mức cao và ổn định, không chịu nhiều ảnh hưởng của biến động xã hội.
      - Nhược điểm: 
-         1. Thiếu nguồn nhân lực chất lượng: Việt Nam đang gặp khó khăn trong việc đào tạo và giữ chân các chuyên gia công nghệ thông tin, do đó, các công ty công nghệ thông tin đang phải đối mặt với sự cạnh tranh khốc liệt để thu hút và giữ chân nhân tài. 
+        1. Thiếu nguồn nhân lực chất lượng: Việt Nam đang gặp khó khăn trong việc đào tạo và giữ chân các chuyên gia công nghệ thông tin, do đó, các công ty công nghệ thông tin đang phải đối mặt với sự cạnh tranh khốc liệt để thu hút và giữ chân nhân tài. 
         2. Thiếu hạ tầng kỹ thuật: Mặc dù Việt Nam đã đầu tư vào hạ tầng công nghệ thông tin, nhưng vẫn còn nhiều hạn chế về mặt kỹ thuật, đặc biệt là ở các vùng nông thôn. 
         3. Vấn đề bảo mật thông tin: Với sự phát triển của công nghệ thông tin, các vấn đề về bảo mật thông tin cũng trở nên quan trọng hơn bao giờ hết. Tuy nhiên, Việt Nam vẫn còn nhiều thách thức trong việc đảm bảo an toàn thông tin cho người dùng.
 
 b.Ưu và nhược điểm của CNTT trong gia đình
 Ưu điểm:
-    1. Kết nối và giao tiếp: CNTT giúp cho các thành viên trong gia đình có thể kết nối và giao tiếp với nhau dễ dàng hơn, bất kể họ đang ở đâu trên thế giới. Ví dụ như qua các ứng dụng nhắn tin, cuộc gọi video, email, mạng xã hội, v.v.
+    1.Kết nối và giao tiếp: CNTT giúp cho các thành viên trong gia đình có thể kết nối và giao tiếp với nhau dễ dàng hơn, bất kể họ đang ở đâu trên thế giới. Ví dụ như qua các ứng dụng nhắn tin, cuộc gọi video, email, mạng xã hội, v.v.
     2.Giải trí: CNTT cung cấp cho gia đình nhiều tùy chọn giải trí như xem phim, chơi game, nghe nhạc, đọc sách, v.v. qua các thiết bị như máy tính, điện thoại, máy chơi game, v.v.
     3.Học tập và nghiên cứu: CNTT cung cấp cho các thành viên trong gia đình nhiều tài liệu học tập và nghiên cứu, giúp cho việc học tập và nghiên cứu trở nên dễ dàng hơn. Ví dụ như các trang web học tập, các ứng dụng học tập, các công cụ tìm kiếm, v.v.
     4.Quản lý gia đình: CNTT cung cấp cho gia đình nhiều công cụ quản lý gia đình như lịch, danh sách công việc, danh sách mua sắm, v.v. giúp cho việc quản lý gia đình trở nên dễ dàng hơn.
@@ -30,13 +30,43 @@ c.
 
 d.
 
+
     BÀI TẬP 3
 
 Name:
 a.
 
-Name's list:
-b.
+Name's list: Võ Lưu Chí Thiện
+b1. Hệ thống thông tin đã thay đồi cách thức hoạt động của các doanh nghiệp như thế nào.
+	ĐỔI MỚI VỀ CÔNG NGHỆ
+-	Công nghệ thông tin đang được cập nhật liên tục làm thay đổi thế giới kinh doanh truyền thống, chỉ sau vài năm gần đây các công nghệ ra mắt và trở nên phổ biến đối với con người như smartphone, máy tính bảng, điện toán đám mây, big data, inernet of Things(ioT),… chúng trợ giúp các doanh nghiệp trong việc phân tích kinh doanh và việc khai thác các mạng xã hội để dạt được mục tiêu kinh doanh.
+-	Những thay đổi này cho phép các doanh nghiệp và các công ty truyền thống có khả năng sáng tạo ra các sản phẩm và dịch vụ mới kèm theo đó là mô hình kinh doanh hiệu quả hơn, trái lại thì các doanh nghiệp cũ hay thậm chí là các nghành công nghiệp đang bị phá hủy thay vào đó là các công ty con mọc lên.
+
+	CÁC MÔ HÌNH KINH DOANH MỚI
+-	Có thể nói mô hình kinh doanh quyết định được sự tồn tại của một doanh nghiệp, việc các doanh nghiệp áp dụng được các hệ thống thông tin vào mô hình trở thành lợi thế so với các đối thủ cạnh tranh trong cuộc đua về công nghệ này.
+-	VD: Vào những năm trước khi mạng cáp được sử dụng rộng rãi để xem các chương trình truyền hình trực tuyến, sự xuất hiện của mô hình video trực tuyến mới là netflix đã làm quá tốt và gây nên “cuộc cách mạng truyền hình internet”, đe dọa đến vị thế của mạng cáp khi netflix chuyển sang sản xuất các chương trình truyền hình cao cấp với gần 1200 chương trình năm 2019 vì thế mà ngày càng có nhiều người rút khỏi cáp và chuyển sang sử dụng internet để giải trí.
+
+	SỰ MỞ RỘNG CỦA THƯƠNG MẠI ĐIỆN TỬ
+-	Nhờ vào hệ thống thông tin mà thương mại điện tử đã tái tạo lần một lần nữa, phá vỡ ngành tiếp thị và quảng cáo truyền thông, đồng thời đưa các công ty truyền thông vào vị thế đang bị đe dọa. Facebook và các mạng xã hội như Youtube, Twitter, netflix,… và các hãng truyền thông khác đã cho thấy bộ mặt mới của thương mại điện tử khi thứ họ bán ở đây là dịch vụ thay vì các sản phẩm như chúng ta thường nghĩ.
+-	Theo khảo sát có hơn 98% người dùng Facebook truy cập vào dịch vụ từ điện thoại và máy tính bảng. Hệ thống thông tin và công nghệ càng cho thấy sự quan trọng khi chúng là nền tảng của thương mại điện tử dựa trên dịch vụ mới này, tạo ra một mô hình dịch vụ trên toàn cầu.
+
+	THAY ĐỔI TRONG CÁCH QUẢN LÝ
+-	Cùng với sự xuất hiện smartphone, mạng Wi-Fi không dây tốc độ cao và máy tính bảng, mà chỉ mất vài giây người quản lý có thể giám sát và đặt câu hỏi cho nhân viên bán hàng của mình từ xa.
+-	Quản lý một cách di động:  các nhà quản lý đang di chuyển có thể tiếp xúc trực tiếp và liên tục với nhân viên của mình. Sự phát triển của hệ thống thông tin toàn doanh nghiệp với dữ liệu cực kỳ phong phú có nghĩa là các nhà quản lý không còn hoạt động trong tình trạng hỗn loạn mà thay vào đó có quyền truy cập trực tuyến, gần như ngay lập tức vào thông tin thực sự quan trọng mà họ cần để đưa ra quyết định chính xác và kịp thời.
+-	Ngoài việc sử dụng công khai trên web, các công cụ mạng xã hội, wiki và blog đang trở thành công cụ quan trọng của công ty để liên lạc, cộng tác và chia sẻ thông tin.
+
+	NHỮNG THAY ĐỔI TRONG CÔNG TY VÀ TỔ CHỨC
+-	Khác với thế kỷ trước, các công ty kinh doanh mới đang phát triển nhanh chóng ít chú trọng hơn đến hệ thống phân cấp và cơ cấu mà chú trọng hơn vào việc nhân viên đảm nhận nhiều vai trò, nhiệm vụ và cộng tác với những người khác trong một nhóm.
+-	Các công ty và tổ chức nhấn mạnh nhiều hơn vào năng lực và kỹ năng hơn là vị trí trong hệ thống phân cấp. Họ nhấn mạnh việc đưa ra quyết định nhanh hơn và chính xác hơn dựa trên dữ liệu và phân tích, hơn hết họ nhận thức rõ hơn về những thay đổi trong công nghệ, thái độ của người tiêu dùng. 
+-	Họ sử dụng mạng xã hội để trò chuyện với người tiêu dùng và thể hiện sự sẵn sàng lắng nghe người tiêu dùng hơn, một phần vì họ không có lựa chọn nào khác. 
+-	Họ thể hiện sự hiểu biết tốt hơn về tầm quan trọng của công nghệ thông tin trong việc thành lập và quản lý các công ty kinh doanh và các tổ chức khác.
+
+b2.
+
+b3.
+
+b4.
+
 
 Name's list:Nguyễn Đoàn Thùy Trâm, Từ Trương Tuấn Kiệt
 c.
