@@ -70,7 +70,7 @@ Danh sách 5 vị trí Công nghệ thông tin tại Việt Nam.
 a.Em đồng ý với phát biểu trên vì các chuyên gia máy tính là những người có kiến thức và kỹ năng chuyên sâu về quản lý, phát triển, và bảo mật hệ thống thông tin. Họ có khả năng giải quyết các vấn đề kỹ thuật và đảm bảo tính ổn định của hệ thống. Đồng thời, những chuyên gia máy tính cũng sẽ là người sẽ đảm bảo được những vấn đề về bảo mật, có thể đảm bảo rằng hệ thống được bảo vệ khỏi các mối đe dọa mạng và lỗ hổng bảo mật. Đây cũng là những người có thể tối ưu hóa hiệu suất hệ thống thông tin, giúp tổ chức làm việc hiệu quả hơn và tiết kiệm thời gian và nguồn lực.
 
 
-===Name's list: Võ Lưu Chí Thiện, Đinh Lâm Quốc Huy===
+===Name's list: Võ Lưu Chí Thiện, Đinh Lâm Quốc Huy, Nguyễn Đào Trọng Nhân===
 b1. Hệ thống thông tin đã thay đồi cách thức hoạt động của các doanh nghiệp như thế nào.
 	ĐỔI MỚI VỀ CÔNG NGHỆ
 -	Công nghệ thông tin đang được cập nhật liên tục làm thay đổi thế giới kinh doanh truyền thống, chỉ sau vài năm gần đây các công nghệ ra mắt và trở nên phổ biến đối với con người như smartphone, máy tính bảng, điện toán đám mây, big data, inernet of Things(ioT),… chúng trợ giúp các doanh nghiệp trong việc phân tích kinh doanh và việc khai thác các mạng xã hội để dạt được mục tiêu kinh doanh.
@@ -96,7 +96,14 @@ b1. Hệ thống thông tin đã thay đồi cách thức hoạt động của c
 -	Họ thể hiện sự hiểu biết tốt hơn về tầm quan trọng của công nghệ thông tin trong việc thành lập và quản lý các công ty kinh doanh và các tổ chức khác.
 
 
-b2.
+b2. Những xu hướng chính của hệ thống thông tin mới :
+  sự đổi mới của công nghệ thông tin đã thay đổi hoàn toàn bộ mặt về việc kinh doanh truyền thông của thế giới và sau đây là một số xu hướng chính của hệ thống thông tin mới:
+- máy tính đám mây(cloud computing)
+- dữ liệu lớn (bigdata) 
+- Iot
+- Nên tảng di động kĩ thuật số (moblie digital platform)
+- phân tích kinh doanh (business analytics)
+- máy học (machine learning systems)
 
 
 b3. Các đặc điểm của một công ty kts
