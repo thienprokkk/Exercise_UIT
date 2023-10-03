@@ -33,8 +33,8 @@ d.
 
     BÀI TẬP 3
 
-Name:
-a.
+Name: Nguyễn Ngọc Lợi
+a.Em đồng ý với phát biểu trên vì các chuyên gia máy tính là những người có kiến thức và kỹ năng chuyên sâu về quản lý, phát triển, và bảo mật hệ thống thông tin. Họ có khả năng giải quyết các vấn đề kỹ thuật và đảm bảo tính ổn định của hệ thống. Đồng thời, những chuyên gia máy tính cũng sẽ là người sẽ đảm bảo được những vấn đề về bảo mật, có thể đảm bảo rằng hệ thống được bảo vệ khỏi các mối đe dọa mạng và lỗ hổng bảo mật. Đây cũng là những người có thể tối ưu hóa hiệu suất hệ thống thông tin, giúp tổ chức làm việc hiệu quả hơn và tiết kiệm thời gian và nguồn lực.
 
 Name's list: Võ Lưu Chí Thiện
 b1. Hệ thống thông tin đã thay đồi cách thức hoạt động của các doanh nghiệp như thế nào.
