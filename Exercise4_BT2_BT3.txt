@@ -105,6 +105,7 @@ b2. Những xu hướng chính của hệ thống thông tin mới :
 - phân tích kinh doanh (business analytics)
 - máy học (machine learning systems)
 
+
 b3. Các đặc điểm của một công ty kts
 -    Một công ty kỹ thuật số có thể được định nghĩa theo nhiều khía cạnh. Công ty kỹ thuật số là công ty trong đó gần như tất cả các mối quan hệ kinh doanh quan trọng của tổ chức với khách hàng, nhà cung cấp và nhân viên đều được kích hoạt và trung gian bằng kỹ thuật số. Các quy trình kinh doanh cốt lõi được thực hiện thông qua các mạng kỹ thuật số trải rộng trên toàn bộ tổ chức hoặc liên kết nhiều tổ chức.
 Quy trình kinh doanh đề cập đến tập hợp các nhiệm vụ và hành vi liên quan đến logic mà các tổ chức phát triển theo thời gian để tạo ra kết quả kinh doanh cụ thể và cách thức tổ chức và phối hợp duy nhất các hoạt động này. Phát triển sản phẩm mới, tạo và thực hiện đơn hàng, lập kế hoạch tiếp thị và thuê nhân viên là những ví dụ về quy trình kinh doanh và cách các tổ chức hoàn thành quy trình kinh doanh của họ có thể là nguồn sức mạnh cạnh tranh. (Có thể tìm thấy thảo luận chi tiết về quy trình kinh doanh trong Chương 2.)
