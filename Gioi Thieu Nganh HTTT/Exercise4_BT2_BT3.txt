@@ -1,6 +1,7 @@
     BÀI TẬP 2
 
-Name: Phạm Thái Sơn
+
+===Name: Phạm Thái Sơn===
 a.Ưu và nhược điểm CNTT ở Việt Nam
     - Ưu điểm:
         1. Sự phát triển nhanh chóng: Công nghệ thông tin ở Việt Nam đang phát triển với tốc độ nhanh chóng, đặc biệt là trong những năm gần đây. Việt Nam đã trở thành một trong những quốc gia có tốc độ tăng trưởng nhanh nhất trong lĩnh vực công nghệ thông tin. 
@@ -8,13 +9,14 @@ a.Ưu và nhược điểm CNTT ở Việt Nam
         3. Sự ủng hộ của chính phủ: Chính phủ Việt Nam đã đưa ra nhiều chính sách hỗ trợ cho các doanh nghiệp công nghệ thông tin, bao gồm cả việc đầu tư vào hạ tầng, cải thiện môi trường kinh doanh, và đào tạo nguồn nhân lực. 
         4. Công nghệ thông tin là ngành phát triển mạnh mang lại giá trị gia tăng cao. Ở mỗi một lĩnh vực, vị trí làm việc sẽ có các mức thu nhập khác nhau. Nhưng nhìn chung mức thu nhập ngành này được xếp ở mức cao và ổn định, không chịu nhiều ảnh hưởng của biến động xã hội.
      - Nhược điểm: 
-         1. Thiếu nguồn nhân lực chất lượng: Việt Nam đang gặp khó khăn trong việc đào tạo và giữ chân các chuyên gia công nghệ thông tin, do đó, các công ty công nghệ thông tin đang phải đối mặt với sự cạnh tranh khốc liệt để thu hút và giữ chân nhân tài. 
+        1. Thiếu nguồn nhân lực chất lượng: Việt Nam đang gặp khó khăn trong việc đào tạo và giữ chân các chuyên gia công nghệ thông tin, do đó, các công ty công nghệ thông tin đang phải đối mặt với sự cạnh tranh khốc liệt để thu hút và giữ chân nhân tài. 
         2. Thiếu hạ tầng kỹ thuật: Mặc dù Việt Nam đã đầu tư vào hạ tầng công nghệ thông tin, nhưng vẫn còn nhiều hạn chế về mặt kỹ thuật, đặc biệt là ở các vùng nông thôn. 
         3. Vấn đề bảo mật thông tin: Với sự phát triển của công nghệ thông tin, các vấn đề về bảo mật thông tin cũng trở nên quan trọng hơn bao giờ hết. Tuy nhiên, Việt Nam vẫn còn nhiều thách thức trong việc đảm bảo an toàn thông tin cho người dùng.
 
+
 b.Ưu và nhược điểm của CNTT trong gia đình
 Ưu điểm:
-    1. Kết nối và giao tiếp: CNTT giúp cho các thành viên trong gia đình có thể kết nối và giao tiếp với nhau dễ dàng hơn, bất kể họ đang ở đâu trên thế giới. Ví dụ như qua các ứng dụng nhắn tin, cuộc gọi video, email, mạng xã hội, v.v.
+    1.Kết nối và giao tiếp: CNTT giúp cho các thành viên trong gia đình có thể kết nối và giao tiếp với nhau dễ dàng hơn, bất kể họ đang ở đâu trên thế giới. Ví dụ như qua các ứng dụng nhắn tin, cuộc gọi video, email, mạng xã hội, v.v.
     2.Giải trí: CNTT cung cấp cho gia đình nhiều tùy chọn giải trí như xem phim, chơi game, nghe nhạc, đọc sách, v.v. qua các thiết bị như máy tính, điện thoại, máy chơi game, v.v.
     3.Học tập và nghiên cứu: CNTT cung cấp cho các thành viên trong gia đình nhiều tài liệu học tập và nghiên cứu, giúp cho việc học tập và nghiên cứu trở nên dễ dàng hơn. Ví dụ như các trang web học tập, các ứng dụng học tập, các công cụ tìm kiếm, v.v.
     4.Quản lý gia đình: CNTT cung cấp cho gia đình nhiều công cụ quản lý gia đình như lịch, danh sách công việc, danh sách mua sắm, v.v. giúp cho việc quản lý gia đình trở nên dễ dàng hơn.
@@ -25,48 +27,95 @@ Nhược điểm:
     3.Gây ảnh hưởng đến mối quan hệ: Sử dụng CNTT quá nhiều có thể gây ảnh hưởng đến mối quan hệ giữa các thành viên trong gia đình, khi mỗi người lại dành nhiều thời gian cho việc sử dụng thiết bị CNTT của mình thay vì tương tác với nhau.
     4.Gây ảnh hưởng đến an ninh: Sử dụng CNTT không đúng cách có thể gây ảnh hưởng đến an ninh của gia đình, khi các thông tin cá nhân của gia đình bị lộ ra ngoài hoặc bị tấn công bởi các hacker.
 
-Name:Ngô Tùng Nhân
+
+===Name: Ngô Tùng Nhân===
 c.
 Top 5 xu hướng Công nghệ thông tin trong các năm tiếp theo
 1. Artificial Intelligence (AI) và Machine Learning 
 2. Internet of Things (IoT)
 3. Virtual Reality (VR) và Augmented Reality (AR)
 4. Blockchain 
-5. 3D Printing 
+5. 3D Printing
+
+
 d.
 Danh sách 5 vị trí Công nghệ thông tin tại Việt Nam.
-1.Data Scientist (Nhà khoa học dữ liệu)
-Nghề Data Scientist đòi hỏi khá nhiều kiến thức và kĩ năng tổng hợp, bao gồm (nhưng không giới hạn):
-Machine learning: để học từ dữ liệu, từ đó tạo ra các predictive model.
-Database: giúp lưu trữ và truy xuất dữ liệu, cũng như thực hiện một số tính toán.
-Programming languages: viết code để áp dụng các model đã học được nói trên vào sản phẩm cụ thể, hoặc để thao tác với database.v.v…
-Visualization: giúp hiểu hơn về dữ liệu (ví dụ: phân bố của dữ liệu như thế nào), hoặc để trình bày kết quả phân tích.
-2.IoT Solutions Architect (Kỹ sư IoT)
-Lập trình viên phải biết cách tổng hợp, trích xuất các thông tin hữu ích, có giá trị từ lượng dữ liệu khổng lồ.
-Có nhiều kiến thức về bảo mật, có thể ngăn chặn các mối đe dọa này thì bạn sẽ được offer vào nhiều vị trí tốt. 
-Thành thạo các ngôn ngữ lập trình như: C/C++, Java, Python
-3.Blockchain Engineer (Lập trình viên Blockchain)
-Một kỹ sư blockchain thường thành thạo khả năng lập trình và có sự am hiểu về công nghệ như Bitcoin, Ripple, Ethereum, R3, v.v.
-Lập trình viên cần có kinh nghiệm làm việc trong blockchain, ICO, Ethereum DApps, ví, hợp đồng thông, tiền điện tử mới và trao đổi tiền điện tử
-4.AI Engineer (Kỹ sư lập trình AI)
-Kỹ năng về phần mềm máy tính, khoa học dữ liệu;
-Kiến thức về thuật toán, đại số tuyến tính, xác suất thống kê,...
-Sử dụng được các ngôn ngữ lập trình như Python, R, C++, Java,..
-5.Full-stack Developer (Lập trình viên full-stack)
-Một số ngôn ngữ lập trình cơ bản như PHP, C#, Python bạn cần phải nắm rõ
-Có kỹ năng về framework, nền tảng, thư viện
-Kỹ năng thiết kế
+- Data Scientist (Nhà khoa học dữ liệu)
+    + Nghề Data Scientist đòi hỏi khá nhiều kiến thức và kĩ năng tổng hợp, bao gồm (nhưng không giới hạn):
+    + Machine learning: để học từ dữ liệu, từ đó tạo ra các predictive model.
+    + Database: giúp lưu trữ và truy xuất dữ liệu, cũng như thực hiện một số tính toán.
+    + Programming languages: viết code để áp dụng các model đã học được nói trên vào sản phẩm cụ thể, hoặc để thao tác với database.v.v…
+    + Visualization: giúp hiểu hơn về dữ liệu (ví dụ: phân bố của dữ liệu như thế nào), hoặc để trình bày kết quả phân tích.
+- IoT Solutions Architect (Kỹ sư IoT)
+    + Lập trình viên phải biết cách tổng hợp, trích xuất các thông tin hữu ích, có giá trị từ lượng dữ liệu khổng lồ.
+    + Có nhiều kiến thức về bảo mật, có thể ngăn chặn các mối đe dọa này thì bạn sẽ được offer vào nhiều vị trí tốt. 
+    + Thành thạo các ngôn ngữ lập trình như: C/C++, Java, Python
+- Blockchain Engineer (Lập trình viên Blockchain)
+    + Một kỹ sư blockchain thường thành thạo khả năng lập trình và có sự am hiểu về công nghệ như Bitcoin, Ripple, Ethereum, R3, v.v.
+    + Lập trình viên cần có kinh nghiệm làm việc trong blockchain, ICO, Ethereum DApps, ví, hợp đồng thông, tiền điện tử mới và trao đổi tiền điện tử
+- AI Engineer (Kỹ sư lập trình AI)
+    + Kỹ năng về phần mềm máy tính, khoa học dữ liệu;
+    + Kiến thức về thuật toán, đại số tuyến tính, xác suất thống kê,...
+    + Sử dụng được các ngôn ngữ lập trình như Python, R, C++, Java,..
+- Full-stack Developer (Lập trình viên full-stack)
+    + Một số ngôn ngữ lập trình cơ bản như PHP, C#, Python bạn cần phải nắm rõ
+    + Có kỹ năng về framework, nền tảng, thư viện
+    + Kỹ năng thiết kế
 
 
     BÀI TẬP 3
 
-Name:
-a.
 
-Name's list:
-b.
+===Name: Nguyễn Ngọc Lợi===
+a.Em đồng ý với phát biểu trên vì các chuyên gia máy tính là những người có kiến thức và kỹ năng chuyên sâu về quản lý, phát triển, và bảo mật hệ thống thông tin. Họ có khả năng giải quyết các vấn đề kỹ thuật và đảm bảo tính ổn định của hệ thống. Đồng thời, những chuyên gia máy tính cũng sẽ là người sẽ đảm bảo được những vấn đề về bảo mật, có thể đảm bảo rằng hệ thống được bảo vệ khỏi các mối đe dọa mạng và lỗ hổng bảo mật. Đây cũng là những người có thể tối ưu hóa hiệu suất hệ thống thông tin, giúp tổ chức làm việc hiệu quả hơn và tiết kiệm thời gian và nguồn lực.
 
-Name's list:Nguyễn Đoàn Thùy Trâm, Từ Trương Tuấn Kiệt
+
+===Name's list: Võ Lưu Chí Thiện, Đinh Lâm Quốc Huy===
+b1. Hệ thống thông tin đã thay đồi cách thức hoạt động của các doanh nghiệp như thế nào.
+	ĐỔI MỚI VỀ CÔNG NGHỆ
+-	Công nghệ thông tin đang được cập nhật liên tục làm thay đổi thế giới kinh doanh truyền thống, chỉ sau vài năm gần đây các công nghệ ra mắt và trở nên phổ biến đối với con người như smartphone, máy tính bảng, điện toán đám mây, big data, inernet of Things(ioT),… chúng trợ giúp các doanh nghiệp trong việc phân tích kinh doanh và việc khai thác các mạng xã hội để dạt được mục tiêu kinh doanh.
+-	Những thay đổi này cho phép các doanh nghiệp và các công ty truyền thống có khả năng sáng tạo ra các sản phẩm và dịch vụ mới kèm theo đó là mô hình kinh doanh hiệu quả hơn, trái lại thì các doanh nghiệp cũ hay thậm chí là các nghành công nghiệp đang bị phá hủy thay vào đó là các công ty con mọc lên.
+
+	CÁC MÔ HÌNH KINH DOANH MỚI
+-	Có thể nói mô hình kinh doanh quyết định được sự tồn tại của một doanh nghiệp, việc các doanh nghiệp áp dụng được các hệ thống thông tin vào mô hình trở thành lợi thế so với các đối thủ cạnh tranh trong cuộc đua về công nghệ này.
+-	VD: Vào những năm trước khi mạng cáp được sử dụng rộng rãi để xem các chương trình truyền hình trực tuyến, sự xuất hiện của mô hình video trực tuyến mới là netflix đã làm quá tốt và gây nên “cuộc cách mạng truyền hình internet”, đe dọa đến vị thế của mạng cáp khi netflix chuyển sang sản xuất các chương trình truyền hình cao cấp với gần 1200 chương trình năm 2019 vì thế mà ngày càng có nhiều người rút khỏi cáp và chuyển sang sử dụng internet để giải trí.
+
+	SỰ MỞ RỘNG CỦA THƯƠNG MẠI ĐIỆN TỬ
+-	Nhờ vào hệ thống thông tin mà thương mại điện tử đã tái tạo lần một lần nữa, phá vỡ ngành tiếp thị và quảng cáo truyền thông, đồng thời đưa các công ty truyền thông vào vị thế đang bị đe dọa. Facebook và các mạng xã hội như Youtube, Twitter, netflix,… và các hãng truyền thông khác đã cho thấy bộ mặt mới của thương mại điện tử khi thứ họ bán ở đây là dịch vụ thay vì các sản phẩm như chúng ta thường nghĩ.
+-	Theo khảo sát có hơn 98% người dùng Facebook truy cập vào dịch vụ từ điện thoại và máy tính bảng. Hệ thống thông tin và công nghệ càng cho thấy sự quan trọng khi chúng là nền tảng của thương mại điện tử dựa trên dịch vụ mới này, tạo ra một mô hình dịch vụ trên toàn cầu.
+
+	THAY ĐỔI TRONG CÁCH QUẢN LÝ
+-	Cùng với sự xuất hiện smartphone, mạng Wi-Fi không dây tốc độ cao và máy tính bảng, mà chỉ mất vài giây người quản lý có thể giám sát và đặt câu hỏi cho nhân viên bán hàng của mình từ xa.
+-	Quản lý một cách di động:  các nhà quản lý đang di chuyển có thể tiếp xúc trực tiếp và liên tục với nhân viên của mình. Sự phát triển của hệ thống thông tin toàn doanh nghiệp với dữ liệu cực kỳ phong phú có nghĩa là các nhà quản lý không còn hoạt động trong tình trạng hỗn loạn mà thay vào đó có quyền truy cập trực tuyến, gần như ngay lập tức vào thông tin thực sự quan trọng mà họ cần để đưa ra quyết định chính xác và kịp thời.
+-	Ngoài việc sử dụng công khai trên web, các công cụ mạng xã hội, wiki và blog đang trở thành công cụ quan trọng của công ty để liên lạc, cộng tác và chia sẻ thông tin.
+
+	NHỮNG THAY ĐỔI TRONG CÔNG TY VÀ TỔ CHỨC
+-	Khác với thế kỷ trước, các công ty kinh doanh mới đang phát triển nhanh chóng ít chú trọng hơn đến hệ thống phân cấp và cơ cấu mà chú trọng hơn vào việc nhân viên đảm nhận nhiều vai trò, nhiệm vụ và cộng tác với những người khác trong một nhóm.
+-	Các công ty và tổ chức nhấn mạnh nhiều hơn vào năng lực và kỹ năng hơn là vị trí trong hệ thống phân cấp. Họ nhấn mạnh việc đưa ra quyết định nhanh hơn và chính xác hơn dựa trên dữ liệu và phân tích, hơn hết họ nhận thức rõ hơn về những thay đổi trong công nghệ, thái độ của người tiêu dùng. 
+-	Họ sử dụng mạng xã hội để trò chuyện với người tiêu dùng và thể hiện sự sẵn sàng lắng nghe người tiêu dùng hơn, một phần vì họ không có lựa chọn nào khác. 
+-	Họ thể hiện sự hiểu biết tốt hơn về tầm quan trọng của công nghệ thông tin trong việc thành lập và quản lý các công ty kinh doanh và các tổ chức khác.
+
+
+b2.
+
+
+b3. Các đặc điểm của một công ty kts
+-    Một công ty kỹ thuật số có thể được định nghĩa theo nhiều khía cạnh. Công ty kỹ thuật số là công ty trong đó gần như tất cả các mối quan hệ kinh doanh quan trọng của tổ chức với khách hàng, nhà cung cấp và nhân viên đều được kích hoạt và trung gian bằng kỹ thuật số. Các quy trình kinh doanh cốt lõi được thực hiện thông qua các mạng kỹ thuật số trải rộng trên toàn bộ tổ chức hoặc liên kết nhiều tổ chức.
+Quy trình kinh doanh đề cập đến tập hợp các nhiệm vụ và hành vi liên quan đến logic mà các tổ chức phát triển theo thời gian để tạo ra kết quả kinh doanh cụ thể và cách thức tổ chức và phối hợp duy nhất các hoạt động này. Phát triển sản phẩm mới, tạo và thực hiện đơn hàng, lập kế hoạch tiếp thị và thuê nhân viên là những ví dụ về quy trình kinh doanh và cách các tổ chức hoàn thành quy trình kinh doanh của họ có thể là nguồn sức mạnh cạnh tranh. (Có thể tìm thấy thảo luận chi tiết về quy trình kinh doanh trong Chương 2.)
+-    Những tài sản quan trọng của công ty—sở hữu trí tuệ, năng lực cốt lõi, tài sản tài chính và con người—được quản lý thông qua các phương tiện kỹ thuật số. Trong một công ty kỹ thuật số, mọi thông tin cần thiết để hỗ trợ các quyết định kinh doanh quan trọng đều có sẵn mọi lúc, mọi nơi trong công ty.
+-    Các công ty kỹ thuật số cảm nhận và phản ứng với môi trường của họ nhanh hơn nhiều so với các công ty truyền thống, giúp họ linh hoạt hơn để tồn tại trong thời kỳ hỗn loạn. Các công ty kỹ thuật số mang đến những cơ hội đặc biệt để tổ chức và quản lý toàn cầu linh hoạt hơn. Ở các công ty kỹ thuật số, cả dịch chuyển thời gian và dịch chuyển không gian đều là tiêu chuẩn. Chuyển dịch thời gian đề cập đến hoạt động kinh doanh được tiến hành liên tục, 24/7, thay vì trong khoảng thời gian hẹp “ngày làm việc” từ 9 giờ sáng đến 5 giờ chiều. Dịch chuyển không gian có nghĩa là công việc diễn ra trong một hội thảo toàn cầu cũng như trong phạm vi ranh giới quốc gia. Công việc được thực hiện một cách vật lý ở bất cứ nơi nào trên thế giới mà nó được hoàn thành tốt nhất.
+-    Nhiều công ty, chẳng hạn như Cisco Systems, 3M và GE, sắp trở thành công ty kỹ thuật số, sử dụng Internet để thúc đẩy mọi khía cạnh kinh doanh của họ. Hầu hết các công ty khác không hoàn toàn được số hóa nhưng họ đang hướng tới việc tích hợp kỹ thuật số chặt chẽ với các nhà cung cấp, khách hàng và nhân viên.
+
+
+b4. Thách thức và cơ hội của toàn cầu hóa trong thế giới "phẳng"
+-    Sau thế kỷ XVI, một hệ thống thương mại toàn cầu bắt đầu xuất hiện dựa trên những tiến bộ trong công nghệ hàng hải và tàu thuyền. Thương mại thế giới diễn ra sau những phát triển này đã đưa các dân tộc và nền văn hóa trên thế giới xích lại gần nhau hơn nhiều. Cách mạng Công nghiệp thực sự là một hiện tượng toàn cầu được tiếp sức bởi sự mở rộng thương mại giữa các quốc gia, khiến các quốc gia trở thành đối thủ cạnh tranh và cộng tác viên trong kinh doanh. Internet đã làm gia tăng đáng kể sự căng thẳng cạnh tranh giữa các quốc gia khi thương mại toàn cầu mở rộng và củng cố những lợi ích có được từ thương mại, đồng thời cũng tạo ra sự xáo trộn đáng kể trên thị trường lao động.
+-    Năm 2005, nhà báo Thomas Friedman đã viết một cuốn sách có ảnh hưởng tuyên bố thế giới giờ đây phẳng, qua đó ông muốn nói rằng Internet và truyền thông toàn cầu đã mở rộng đáng kể cơ hội cho mọi người giao tiếp với nhau và làm giảm lợi
+thế kinh tế và văn hóa của các nước phát triển. Theo Friedman, Hoa Kỳ và các nước châu Âu đang trong cuộc chiến vì đời sống kinh tế của họ, cạnh tranh việc làm, thị trường, nguồn lực và thậm chí cả ý tưởng với những nhóm dân cư có trình độ học vấn cao, năng động ở những khu vực có mức lương thấp ở các nước kém phát triển hơn. Quá trình toàn cầu hóa này mang đến cho bạn và doanh nghiệp của bạn cả những thách thức và cơ hội.
+-    Một số công việc cấp cao được trả lương cao và yêu cầu bằng đại học. Ví dụ, kể từ năm 2000, Hoa Kỳ đã mất khoảng 5 triệu việc làm trong ngành sản xuất vào tay các nhà sản xuất có mức lương thấp ở nước ngoài, do đó ngành sản xuất hiện chỉ là một phần nhỏ trong việc làm của Hoa Kỳ (dưới 9%). Trong một năm bình thường, khoảng 300.000 việc làm dịch vụ chuyển ra nước ngoài đến các quốc gia có mức lương thấp hơn, nhiều người trong số họ làm những công việc về hệ thống thông tin có tay nghề thấp hơn nhưng cũng làm những công việc dịch vụ có thể giao dịch trong kiến trúc, dịch vụ tài chính, trung tâm chăm sóc khách hàng, tư vấn, kỹ thuật và thậm chí cả X quang. Về mặt tích cực, nền kinh tế Hoa Kỳ đã tạo ra 2,6 triệu việc làm mới trong năm 2018. Việc làm trong hệ thống thông tin và các ngành dịch vụ khác được liệt kê trước đây đã nhanh chóng mở rộng về số lượng, tiền lương, năng suất và chất lượng công việc. Năm 2019, cơ hội việc làm trong lĩnh vực hệ thống thông tin và công nghệ đã vượt xa nguồn cung ứng viên. Thử thách đối với bạn, với tư cách là một sinh viên kinh doanh, là phát triển các kỹ năng cấp cao thông qua giáo dục và kinh nghiệm thực tế mà không thể thuê ngoài. Thách thức đối với doanh nghiệp của bạn là tránh xa các thị trường hàng hóa và dịch vụ có thể được sản xuất ở nước ngoài với chi phí thấp hơn nhiều.
+-    Toàn cầu hóa có liên quan gì đến hệ thống thông tin quản lý? Điều đó thật đơn giản: mọi thứ. Sự xuất hiện của Internet thành một hệ thống truyền thông quốc tế toàn diện đã làm giảm đáng kể chi phí vận hành và giao dịch trên quy mô toàn cầu. Việc liên lạc giữa một nhà máy ở Thượng Hải và một trung tâm phân phối ở Rapid City, Nam Dakota giờ đây trở nên tức thời và hầu như miễn phí. Giờ đây, khách hàng có thể mua sắm trên thị trường toàn cầu, nhận được thông tin về giá cả và chất lượng một cách đáng tin cậy 24 giờ mỗi ngày. Các công ty sản xuất hàng hóa và dịch vụ trên quy mô toàn cầu đạt được mức giảm chi phí đáng kể bằng cách tìm kiếm các nhà cung cấp chi phí thấp và quản lý cơ sở sản xuất ở các quốc gia khác. Các công ty dịch vụ Internet, chẳng hạn như Google và eBay, có thể nhân rộng mô hình kinh doanh và dịch vụ của họ ở nhiều quốc gia mà không cần phải thiết kế lại cơ sở hạ tầng hệ thống thông tin có chi phí cố định đắt đỏ. Tóm lại, hệ thống thông tin cho phép toàn cầu hóa.
+
+
+===Name's list:Nguyễn Đoàn Thùy Trâm, Từ Trương Tuấn Kiệt===
 c.
 Ngày nay, Hệ Thống Thông Tin rất cần thiết cho việc điều hành và quản lý một doanh nghiệp vì nó cung cấp hoạch định chiến lược kinh doanh, thay đổi bên trong doanh ngiệp tổ chức và cơ cấu quản lí, giúp cho việc quản lí và đưa ra quyết định dễ dàng hơn; HTTT còn giúp đổi mới các chiếc lược kinh doanh cho phép tạo ra mô hình kinh doanh phù hợp. Nó giúp cho hoạt động quản lí của doanh nghiệp như quản lí chuỗi cung ứng, doanh nghiệp, khách hàng,... diễn ra dễ dàng, hiệu quả.
 Có sự phụ thuộc ngày càng tăng giữa khả năng của một công ty sử dụng công nghệ thông tin và khả năng của nó để thực hiện chiến lược doanh nghiệp và đạt được mục tiêu doanh nghiệp. Những gì một doanh nghiệp muốn làm trong hoạt động dài hạn sắp tới thường phụ thuộc vào những gì hệ thống của nó sẽ có thể làm được. Tăng cổ phần thị trường, trở thành nhà sản xuất chất lượng cao hoặc giá rẻ, phát triển sản phẩm mới và tăng năng suất của nhân viên phụ thuộc ngày càng nhiều vào loại và chất lượng của hệ thống thông tin trong tổ chức.
@@ -76,7 +125,5 @@ Có sự phụ thuộc ngày càng tăng giữa khả năng của một công ty
 -Quản lý khách hàng: HTTT giúp giúp doanh nghiệp theo dõi các tương tác, sở thích và phản hồi của khách hàng, điều này có thể giúp cải thiện sự hài lòng và giữ chân khách hàng. Cung cấp những hiểu biết dựa trên dữ liệu về hành vi của khách hàng và xu hướng thị trường, giúp doanh nghiệp điều chỉnh chiến lược tiếp thị và nỗ lực bán hàng để nhắm đúng đối tượng và tăng doanh thu.
 -Quản lý kiến thức: Hệ thống được thiết kế để tích hợp và chia sẻ kiến thức.
 -Lập kế hoạch:  
--Mô hình hóa và ra quyết định: Các quản lý doanh nghiệp thường phải làm quyết định trong điều kiện thiếu thông tin chính xác và đúng thời điểm, dẫn đến việc sử dụng dự đoán, đoán định tốt nhất và may mắn. Kết quả là sản xuất quá nhiều hoặc quá ít hàng hóa và dịch vụ, sử dụng tài nguyên không hiệu quả và thời gian phản ứng kém. Điều này dẫn đến tăng chi phí và mất khách hàng. Trong thập kỷ qua, hệ thống thông tin và công nghệ đã giúp quản lý sử dụng dữ liệu thị trường thời gian thực để ra quyết định. Do đó việc HTTT sẽ giúp định hình hướng đi của doanh nghiệp giúp họ có cái nhìn tổng quát và tầm nhìn hơn trong mọi quyết định của công ty.
+-Mô hình hóa và ra quyết định: Các quản lý doanh nghiệp thường phải làm quyết định trong điều kiện thiếu thông tin chính xác và đúng thời điểm, dẫn đến việc sử dụng dự đoán, đoán định tốt nhất và may mắn. Kết quả là sản xuất quá nhiều hoặc quá ít hàng hóa và dịch vụ, sử dụng tài nguyên không hiệu quả và thời gian phản ứng kém. Điều này dẫn đến tăng chi phí và mất khách hàng. Trong thập kỷ qua, hệ thống thông tin và công nghệ đã giúp quản lý sử dụng dữ liệu thị trường thời gian thực để ra quyết định. Do đó việc HTTT sẽ giúp định hình hướng đi của doanh nghiệp giúp họ c1o cái nhìn tổng quát và tầm nhìn hơn trong mọi quyết định của công ty.
 -Tạo ưu thế cạnh tranh: Tận dụng sức mạnh của hệ thống thông tin sẽ giúp doanh nghiệp nắm bắt được những điểm mạnh yếu của thị công ty đối thủ từ đó giúp doanh nghiệp có được giá thành sản phẩm tốt hơn, dịch vụ chăm sóc khách hang tốt hơn, lợi nhuận tăng.
-
-
