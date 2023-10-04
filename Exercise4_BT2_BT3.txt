@@ -31,11 +31,19 @@ Nhược điểm:
 ===Name: Ngô Tùng Nhân===
 c.
 Top 5 xu hướng Công nghệ thông tin trong các năm tiếp theo
-1. Artificial Intelligence (AI) và Machine Learning 
-2. Internet of Things (IoT)
-3. Virtual Reality (VR) và Augmented Reality (AR)
-4. Blockchain 
-5. 3D Printing
+1. Artificial Intelligence (AI) và Machine Learning:
+Các tổ chức và nhà nghiên cứu hiện đang sử dụng tất cả dữ liệu hiện có và khả năng tính toán của mình để cung cấp các trí tuệ nhân tạo AI tiên tiến cho thế giới.
+Một trong những xu hướng quan trọng trong thế giới hiện nay là AI, và AI được cho là thị giác máy. 
+Thông qua trí tuệ nhân tạo AI, máy tính có thể nhìn và nhận dạng các đối tượng trên video hoặc ảnh. Ngoài ra, xử lý ngôn ngữ cũng đạt được những bước tiến lớn, vì vậy máy móc hiện nay có thể hiểu được giọng nói của con người và phản hồi lại con người.
+2. Internet of Things (IoT):
+IoT là một công nghệ thiết yếu để tạo ra một mạng lưới các thiết bị được kết nối liên tục. Mục đích doanh nghiệp sử dụng công nghệ này là để chia sẻ dữ liệu và thông tin với các thiết bị khác trong thời gian thực. Tính đến năm 2021, thị trường IoT toàn cầu được định giá hơn 260 tỷ đô la. 
+3. Virtual Reality (VR) và Augmented Reality (AR):
+AR và VR được biết đến với việc cung cấp trải nghiệm nâng cấp, kết hợp giữa thế giới ảo và thực, hình ảnh 3D nâng cao cho người dùng. Hiện tại, các trò chơi, thương mại điện tử, tiếp thị, giáo dục và nhiều lĩnh vực khác đều sẽ được hưởng lợi từ AR và VR trong tương lai.
+4. Blockchain:
+Từ Dogecoin đến NFTs, xu hướng công nghệ tương lai blockchain đã làm điên đảo cả thế giới. Ngoài tên gọi blockchain công nghệ này còn được gọi một cách ngẫu nhiên là “sổ cái” điện tử, blockchain là một danh sách phi tập trung của các bản ghi được kết nối và các bản ghi đã được xác minh.
+5. 3D Printing:
+Giờ đây, với xu hướng công nghệ mới ngày càng phát triển, con người đã có thể tạo ra những thứ được in 3D, điều mà cách đây một thập kỷ chúng ta chưa từng mơ tới. 
+Năm 2022, chúng ta sẽ chứng kiến ​​những bước chuyển đổi mới trong sản xuất. Đặc biệt là từ những đổi mới của công nghệ in 3D, rất nhiều sản phẩm in 3D xuất hiện trên thị trường cụ thể như: bê tông cho nhà ở, bao bì sản phẩm, vật liệu kim loại và vật liệu composite.
 
 
 d.
