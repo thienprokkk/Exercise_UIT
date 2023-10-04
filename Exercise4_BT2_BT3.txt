@@ -117,12 +117,23 @@ b3. Các đặc điểm của một công ty kts
 
 
 b4. Thách thức và cơ hội của toàn cầu hóa trong thế giới "phẳng"
--    Sau thế kỷ XVI, một hệ thống thương mại toàn cầu bắt đầu xuất hiện dựa trên những tiến bộ trong công nghệ hàng hải và tàu thuyền. Thương mại thế giới diễn ra sau những phát triển này đã đưa các dân tộc và nền văn hóa trên thế giới xích lại gần nhau hơn nhiều. Cách mạng Công nghiệp thực sự là một hiện tượng toàn cầu được tiếp sức bởi sự mở rộng thương mại giữa các quốc gia, khiến các quốc gia trở thành đối thủ cạnh tranh và cộng tác viên trong kinh doanh. Internet đã làm gia tăng đáng kể sự căng thẳng cạnh tranh giữa các quốc gia khi thương mại toàn cầu mở rộng và củng cố những lợi ích có được từ thương mại, đồng thời cũng tạo ra sự xáo trộn đáng kể trên thị trường lao động.
--    Năm 2005, nhà báo Thomas Friedman đã viết một cuốn sách có ảnh hưởng tuyên bố thế giới giờ đây phẳng, qua đó ông muốn nói rằng Internet và truyền thông toàn cầu đã mở rộng đáng kể cơ hội cho mọi người giao tiếp với nhau và làm giảm lợi
-thế kinh tế và văn hóa của các nước phát triển. 
--    Một số công việc cấp cao được trả lương cao và yêu cầu bằng đại học. Năm 2019, cơ hội việc làm trong lĩnh vực hệ thống thông tin và công nghệ đã vượt xa nguồn cung ứng viên. Thử thách đối với bạn, với tư cách là một sinh viên kinh doanh, là phát triển các kỹ năng cấp cao thông qua giáo dục và kinh nghiệm thực tế mà không thể thuê ngoài. Thách thức đối với doanh nghiệp của bạn là tránh xa các thị trường hàng hóa và dịch vụ có thể được sản xuất ở nước ngoài với chi phí thấp hơn nhiều.
--    Sự xuất hiện của Internet thành một hệ thống truyền thông quốc tế toàn diện đã làm giảm đáng kể chi phí vận hành và giao dịch trên quy mô toàn cầu. Việc liên lạc giữa một nhà máy ở Thượng Hải và một trung tâm phân phối ở Rapid City, Nam Dakota giờ đây trở nên tức thời và hầu như miễn phí. Giờ đây, khách hàng có thể mua sắm trên thị trường toàn cầu, nhận được thông tin về giá cả và chất lượng một cách đáng tin cậy 24 giờ mỗi ngày. Các công ty sản xuất hàng hóa và dịch vụ trên quy mô toàn cầu đạt được mức giảm chi phí đáng kể bằng cách tìm kiếm các nhà cung cấp chi phí thấp và quản lý cơ sở sản xuất ở các quốc gia khác. Các công ty dịch vụ Internet, chẳng hạn như Google và eBay, có thể nhân rộng mô hình kinh doanh và dịch vụ của họ ở nhiều quốc gia mà không cần phải thiết kế lại cơ sở hạ tầng hệ thống thông tin có chi phí cố định đắt đỏ. Tóm lại, hệ thống thông tin cho phép toàn cầu hóa.
+Thách thức:
 
+-    Cạnh tranh lao động: Việc chuyển việc làm ra nước ngoài, đặc biệt là công việc sản xuất, đã tạo ra sự cạnh tranh mạnh mẽ và làm mất việc làm trong nước.
+
+-    Chi phí cạnh tranh: Các công ty phải cạnh tranh về giá cả và hiệu suất với các đối thủ quốc tế.
+
+-    Biến động trong thị trường lao động: Quá trình toàn cầu hóa đã gây ra sự biến động lớn trong thị trường lao động, đặc biệt trong các lĩnh vực công nghệ thông tin và dịch vụ.
+
+Cơ hội:
+
+-    Tạo việc làm mới: Mặc dù có sự chuyển đổi công việc ra nước ngoài, quá trình toàn cầu hóa đã tạo ra nhiều việc làm mới, đặc biệt trong lĩnh vực hệ thống thông tin và dịch vụ.
+
+-    Giảm chi phí sản xuất: Các công ty sản xuất hàng hóa và dịch vụ trên quy mô toàn cầu có thể giảm thiểu chi phí bằng cách tìm những nguồn cung cấp có chi phí thấp và quản lý cơ sở sản xuất ở các nước khác.
+
+-    Mở rộng thị trường: Các công ty có thể mở rộng thị trường của họ toàn cầu, tiếp cận khách hàng trên toàn thế giới thông qua Internet.
+
+-    Phát triển hệ thống thông tin: Sự phát triển của hệ thống thông tin quản lý (MIS) đã giúp tạo điều kiện cho toàn cầu hóa, giảm thiểu chi phí và tăng cường quy trình kinh doanh toàn cầu.
 
 ===Name's list:Nguyễn Đoàn Thùy Trâm, Từ Trương Tuấn Kiệt===
 c.
