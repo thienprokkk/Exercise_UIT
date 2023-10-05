@@ -29,13 +29,33 @@ Nhược điểm:
 
 
 ===Name: Ngô Tùng Nhân===
-c.
-Top 5 xu hướng Công nghệ thông tin trong các năm tiếp theo
-1. Artificial Intelligence (AI) và Machine Learning 
-2. Internet of Things (IoT)
-3. Virtual Reality (VR) và Augmented Reality (AR)
-4. Blockchain 
-5. 3D Printing
+c. Top 5 xu hướng Công nghệ thông tin trong các năm tiếp theo
+	DATA SCIENTIST (nhà khoa học dữ liệu)
+-	Nghề Data Scientist đòi hỏi khá nhiều kiến thức và kĩ năng tổng hợp, bao gồm (nhưng không giới hạn):
+-	Machine learning: để học từ dữ liệu, từ đó tạo ra các predictive model.
+-	Database: giúp lưu trữ và truy xuất dữ liệu, cũng như thực hiện một số tính toán.
+-	Programming languages: viết code để áp dụng các model đã học được nói trên vào sản phẩm cụ thể, hoặc để thao tác với database.v.v…
+-	Visualization: giúp hiểu hơn về dữ liệu (ví dụ: phân bố của dữ liệu như thế nào), hoặc để trình bày kết quả phân tích.
+
+	IOT SOLUTIONS ARCHITECT (Kỹ sư IoT)
+-	Lập trình viên phải biết cách tổng hợp, trích xuất các thông tin hữu ích, có giá trị từ lượng dữ liệu khổng lồ.
+-	Có nhiều kiến thức về bảo mật, có thể ngăn chặn các mối đe dọa này thì bạn sẽ được offer vào nhiều vị trí tốt.
+-	Thành thạo các ngôn ngữ lập trình như: C/C++, Java, Python
+
+	BLOCKCHAIN ENGINEER (Lập trình viên Blockchain)
+-	Một kỹ sư blockchain thường thành thạo khả năng lập trình và có sự am hiểu về công nghệ như Bitcoin, Ripple, Ethereum, R3, v.v.
+-	Lập trình viên cần có kinh nghiệm làm việc trong blockchain, ICO, Ethereum DApps, ví, hợp đồng thông, tiền điện tử mới và trao đổi tiền điện tử
+
+	AI ENGINEER (Kỹ sư lập trình AI)
+-	Kỹ năng về phần mềm máy tính, khoa học dữ liệu
+-	Kiến thức về thuật toán, đại số tuyến tính, xác suất thống kê,...
+-	Sử dụng được các ngôn ngữ lập trình như Python, R, C++, Java,..
+
+	FULL-STACK DEVELOPER (Lập trình viên full-stack)
+-	Một số ngôn ngữ lập trình cơ bản như PHP, C#, Python bạn cần phải nắm rõ
+-	Có kỹ năng về framework, nền tảng, thư viện
+-	Kỹ năng thiết kế dự án
+
 
 
 d.
@@ -97,43 +117,42 @@ b1. Hệ thống thông tin đã thay đồi cách thức hoạt động của c
 
 
 b2. Những xu hướng chính của hệ thống thông tin mới :
-  sự đổi mới của công nghệ thông tin đã thay đổi hoàn toàn bộ mặt về việc kinh doanh truyền thông của thế giới và sau đây là một số xu hướng chính của hệ thống thông tin mới:
-- máy tính đám mây(cloud computing)
-- dữ liệu lớn (bigdata) 
-- Iot
-- Nên tảng di động kĩ thuật số (moblie digital platform)
-- phân tích kinh doanh (business analytics)
-- máy học (machine learning systems)
+	Sự đổi mới của công nghệ thông tin đã thay đổi hoàn toàn bộ mặt về việc kinh doanh truyền thông của thế giới và sau đây là một số xu hướng chính của hệ thống thông tin mới:
+
+	Bigdata và Internet of thing (Iot, internet vạn vật)
++ Apple TV Channels, Nexflit, Amazon,…
++ Mạng không dây wifi tốc độ cao
++ Quản lí từ xa (Romote management)
+
+	Nền tảng di động kỹ thuật số (Moblie digital platform)
++ Mạng xã hội (Social networks): facebook, Youtube, Twitter,…
++ Thiết bị cảm ứng (Touch devides): smartphones, tablet computers,…
+
+	Dân chủ hóa việc ra quyết định (Democratize of decision making)
++ Phân tích kinh doanh (Business analytics)
+
+	Máy học (Machine learning systems)
 
 
 b3. Các đặc điểm của một công ty kts
 -    Công ty kỹ thuật số là công ty trong đó gần như tất cả các mối quan hệ kinh doanh quan trọng của tổ chức với khách hàng, nhà cung cấp và nhân viên đều được kích hoạt và trung gian bằng kỹ thuật số. 
-
 -    Những tài sản quan trọng của công ty — sở hữu trí tuệ, năng lực cốt lõi, tài sản tài chính và con người—được quản lý thông qua các phương tiện kỹ thuật số. Trong một công ty kỹ thuật số, mọi thông tin cần thiết để hỗ trợ các quyết định kinh doanh quan trọng đều có sẵn mọi lúc, mọi nơi trong công ty.
-
 -    Các công ty kỹ thuật số mang đến những cơ hội đặc biệt để tổ chức và quản lý toàn cầu linh hoạt hơn. Hoạt động kinh doanh được tiến hành liên tục 24/7 thay vì trong giờ hành chính từ 9 giờ sáng đến 5 giờ chiều. Công việc diễn ra trong một hội thảo toàn cầu cũng như trong phạm vi ranh giới quốc gia. Công việc được thực hiện một cách vật lý ở bất cứ nơi nào trên thế giới mà nó được hoàn thành tốt nhất.
-
 -    Nhiều công ty, chẳng hạn như Cisco Systems, 3M và GE, sắp trở thành công ty kỹ thuật số, sử dụng Internet để thúc đẩy mọi khía cạnh kinh doanh của họ. Hầu hết các công ty khác không hoàn toàn được số hóa nhưng họ đang hướng tới việc tích hợp kỹ thuật số chặt chẽ với các nhà cung cấp, khách hàng và nhân viên.
 
 
 b4. Thách thức và cơ hội của toàn cầu hóa trong thế giới "phẳng"
 Thách thức:
-
 -    Cạnh tranh lao động: Việc chuyển việc làm ra nước ngoài, đặc biệt là công việc sản xuất, đã tạo ra sự cạnh tranh mạnh mẽ và làm mất việc làm trong nước.
-
 -    Chi phí cạnh tranh: Các công ty phải cạnh tranh về giá cả và hiệu suất với các đối thủ quốc tế.
-
 -    Biến động trong thị trường lao động: Quá trình toàn cầu hóa đã gây ra sự biến động lớn trong thị trường lao động, đặc biệt trong các lĩnh vực công nghệ thông tin và dịch vụ.
 
 Cơ hội:
-
 -    Tạo việc làm mới: Mặc dù có sự chuyển đổi công việc ra nước ngoài, quá trình toàn cầu hóa đã tạo ra nhiều việc làm mới, đặc biệt trong lĩnh vực hệ thống thông tin và dịch vụ.
-
 -    Giảm chi phí sản xuất: Các công ty sản xuất hàng hóa và dịch vụ trên quy mô toàn cầu có thể giảm thiểu chi phí bằng cách tìm những nguồn cung cấp có chi phí thấp và quản lý cơ sở sản xuất ở các nước khác.
-
 -    Mở rộng thị trường: Các công ty có thể mở rộng thị trường của họ toàn cầu, tiếp cận khách hàng trên toàn thế giới thông qua Internet.
-
 -    Phát triển hệ thống thông tin: Sự phát triển của hệ thống thông tin quản lý (MIS) đã giúp tạo điều kiện cho toàn cầu hóa, giảm thiểu chi phí và tăng cường quy trình kinh doanh toàn cầu.
+
 
 ===Name's list:Nguyễn Đoàn Thùy Trâm, Từ Trương Tuấn Kiệt===
 c.
