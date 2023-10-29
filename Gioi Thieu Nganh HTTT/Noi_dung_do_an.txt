@@ -10,7 +10,7 @@ B1)) Đưa ra một vd cho thấy bạn đang tham gia vào lĩnh vực thương
 
 
 
-===Name: ===
+===Name: Ngô Tùng Nhân===
 B2)) Bạn nghĩ gì về lợi ích của thương mại điện tử so với thương mại truyền thống
 Thương mại điện tử có nhiều lợi ích so với thương mại truyền thống. Dưới đây là một số lợi ích chính của thương mại điện tử:
 1. Tiện lợi: Thương mại điện tử cho phép người dùng mua sắm và giao dịch trực tuyến từ bất kỳ đâu và bất kỳ lúc nào chỉ cần có kết nối internet. Người dùng không cần phải di chuyển đến các cửa hàng vật lý để mua hàng, tiết kiệm thời gian và công sức.
@@ -19,7 +19,8 @@ Thương mại điện tử có nhiều lợi ích so với thương mại truy�
 4. Tăng tính cạnh tranh: Thương mại điện tử cho phép các doanh nghiệp nhỏ và vừa cạnh tranh với các công ty lớn hơn. Với chi phí thấp hơn và khả năng tiếp cận đến khách hàng toàn cầu, các doanh nghiệp nhỏ có thể tạo ra sự cạnh tranh và trở thành nguồn cung cấp đáng tin cậy.
 5. Giao dịch trực tuyến an toàn: Công nghệ bảo mật ngày càng được cải thiện, giúp giao dịch trực tuyến trở nên an toàn hơn. Hình thức thanh toán trực tuyến như ví điện tử, thẻ tín dụng,... cung cấp tính bảo mật và tiện lợi cho người dùng.
 
-===Name: === Ngô Tùng Nhân
+
+===Name: === 
 B3)) Nêu vai trò của Httt trong thương mại điện tử.
 
 
