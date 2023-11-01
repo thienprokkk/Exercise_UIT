@@ -12,14 +12,28 @@ B1)) Đưa ra một vd cho thấy bạn đang tham gia vào lĩnh vực thương
 
 ===Name: Ngô Tùng Nhân===
 B2)) Bạn nghĩ gì về lợi ích của thương mại điện tử so với thương mại truyền thống
-Thương mại điện tử có nhiều lợi ích so với thương mại truyền thống. Dưới đây là một số lợi ích chính của thương mại điện tử:
-1. Tiện lợi: Thương mại điện tử cho phép người dùng mua sắm và giao dịch trực tuyến từ bất kỳ đâu và bất kỳ lúc nào chỉ cần có kết nối internet. Người dùng không cần phải di chuyển đến các cửa hàng vật lý để mua hàng, tiết kiệm thời gian và công sức.
-2. Mở rộng thị trường: Thương mại điện tử giúp các doanh nghiệp tiếp cận được khách hàng trên toàn thế giới. Việc có một website hoặc cửa hàng trực tuyến cho phép doanh nghiệp tiếp cận được khách hàng ở xa và thu hẹp khoảng cách địa lý.
-3. Tiết kiệm chi phí: Thương mại điện tử giúp giảm thiểu chi phí vận hành so với thương mại truyền thống. Không cần phải thuê mặt bằng vật lý, tiết kiệm chi phí nhân viên, quảng cáo và marketing trực tuyến hiệu quả hơn.
-4. Tăng tính cạnh tranh: Thương mại điện tử cho phép các doanh nghiệp nhỏ và vừa cạnh tranh với các công ty lớn hơn. Với chi phí thấp hơn và khả năng tiếp cận đến khách hàng toàn cầu, các doanh nghiệp nhỏ có thể tạo ra sự cạnh tranh và trở thành nguồn cung cấp đáng tin cậy.
-5. Giao dịch trực tuyến an toàn: Công nghệ bảo mật ngày càng được cải thiện, giúp giao dịch trực tuyến trở nên an toàn hơn. Hình thức thanh toán trực tuyến như ví điện tử, thẻ tín dụng,... cung cấp tính bảo mật và tiện lợi cho người dùng.
 
-
+Thương mại điện tử có nhiều lợi ích so với thương mại truyền thống.
+Dưới đây là một số lợi ích chính của thương mại điện tử:
+1. Tiện lợi: Thương mại điện tử cho phép người dùng mua sắm và giao dịch trực
+ tuyến từ bất kỳ đâu và bất kỳ lúc nào chỉ cần có kết nối internet. Người dùng
+ không cần phải di chuyển đến các cửa hàng vật lý để mua hàng, tiết kiệm thời
+ gian và công sức.
+2. Mở rộng thị trường: Thương mại điện tử giúp các doanh nghiệp tiếp cận được
+ khách hàng trên toàn thế giới. Việc có một website hoặc cửa hàng trực tuyến
+ cho phép doanh nghiệp tiếp cận được khách hàng ở xa và thu hẹp khoảng cách
+ địa lý.
+3. Tiết kiệm chi phí: Thương mại điện tử giúp giảm thiểu chi phí vận hành so
+ với thương mại truyền thống. Không cần phải thuê mặt bằng vật lý, tiết kiệm
+ chi phí nhân viên, quảng cáo và marketing trực tuyến hiệu quả hơn.
+4. Tăng tính cạnh tranh: Thương mại điện tử cho phép các doanh nghiệp nhỏ và
+ vừa cạnh tranh với các công ty lớn hơn. Với chi phí thấp hơn và khả năng tiếp
+ cận đến khách hàng toàn cầu, các doanh nghiệp nhỏ có thể tạo ra sự cạnh tranh
+ và trở thành nguồn cung cấp đáng tin cậy.
+5. Giao dịch trực tuyến an toàn: Công nghệ bảo mật ngày càng được cải thiện,
+ giúp giao dịch trực tuyến trở nên an toàn hơn. Hình thức thanh toán trực
+ tuyến như ví điện tử, thẻ tín dụng,... cung cấp tính bảo mật và tiện lợi
+ cho người dùng.
 
 
 ===Name: ===
@@ -30,17 +44,30 @@ B3)) Nêu vai trò của Httt trong thương mại điện tử.
 
 ===Name: Đinh Lâm Quốc Huy===
 B4)) Thương mại điện tử có thể hoạt động mà không cần Httt không?
-Không, thương mại điện tử không thể hoạt động mà không cần hệ thống thông tin. Hệ thống thông tin là một phần quan trọng trong việc thực hiện và quản lý các giao dịch thương mại điện tử. Hệ thống thông tin liên quan đến việc lưu trữ, xử lý, và truyền tải dữ liệu liên quan đến các sản phẩm, đơn hàng, thanh toán, thông tin khách hàng, và nhiều khía cạnh khác của hoạt động thương mại điện tử.
 
-Hệ thống thông tin thương mại điện tử bao gồm các phần mềm, máy chủ, cơ sở dữ liệu, mạng kết nối, và các công nghệ khác để hỗ trợ quá trình mua sắm trực tuyến, thanh toán điện tử, quản lý hàng tồn kho, theo dõi đơn hàng, và tương tác với khách hàng. Nó cũng liên quan đến việc bảo mật thông tin cá nhân và thanh toán của người dùng, quản lý dữ liệu khách hàng, và nhiều khía cạnh quản lý khác của doanh nghiệp thương mại điện tử.
+Không
+Vì:
+Thương mại điện tử không thể hoạt động mà không cần hệ thống thông tin.
+- Hệ thống thông tin là một phần quan trọng trong việc thực hiện và quản lý
+ các giao dịch thương mại điện tử. Hệ thống thông tin liên quan đến việc
+ lưu trữ, xử lý, và truyền tải dữ liệu liên quan đến các sản phẩm, đơn hàng,
+ thanh toán, thông tin khách hàng, và nhiều khía cạnh khác của
+ hoạt động thương mại điện tử.
+- Hệ thống thông tin thương mại điện tử bao gồm các phần mềm, máy chủ, cơ sở
+ dữ liệu, mạng kết nối, và các công nghệ khác để hỗ trợ quá trình mua sắm trực
+ tuyến, thanh toán điện tử, quản lý hàng tồn kho, theo dõi đơn hàng, và tương
+ tác với khách hàng. Nó cũng liên quan đến việc bảo mật thông tin cá nhân và
+ thanh toán của người dùng, quản lý dữ liệu khách hàng, và nhiều khía cạnh quản
+ lý khác của doanh nghiệp thương mại điện tử.
+- Một hệ thống thông tin mạnh mẽ và bảo mật là rất quan trọng trong việc đảm bảo
+ rằng thương mại điện tử có thể hoạt động hiệu quả và an toàn cho cả người bán
+ và người mua.
 
-Một hệ thống thông tin mạnh mẽ và bảo mật là rất quan trọng trong việc đảm bảo rằng thương mại điện tử có thể hoạt động hiệu quả và an toàn cho cả người bán và người mua.
 
 ===Name: ===
-B5)) Trong thực tế có nhiều trường hợp khách hàng đã không hài lòng về
-chất lượng sản phẩm mà họ nhận được khi đặt hàng trên các sàn thương mại điện tử.
-Bạn hãy đưa ra một ý tưởng để giải quyết tình trạng trên?
-
+B5)) Trong thực tế có nhiều trường hợp khách hàng đã không hài lòng về chất
+ lượng sản phẩm mà họ nhận được khi đặt hàng trên các sàn thương mại điện tử.
+ Bạn hãy đưa ra một ý tưởng để giải quyết tình trạng trên?
 
 
 
