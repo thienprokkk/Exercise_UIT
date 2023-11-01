@@ -28,11 +28,13 @@ B3)) Nêu vai trò của Httt trong thương mại điện tử.
 
 
 
-===Name: ===
+===Name: Đinh Lâm Quốc Huy===
 B4)) Thương mại điện tử có thể hoạt động mà không cần Httt không?
+Không, thương mại điện tử không thể hoạt động mà không cần hệ thống thông tin. Hệ thống thông tin là một phần quan trọng trong việc thực hiện và quản lý các giao dịch thương mại điện tử. Hệ thống thông tin liên quan đến việc lưu trữ, xử lý, và truyền tải dữ liệu liên quan đến các sản phẩm, đơn hàng, thanh toán, thông tin khách hàng, và nhiều khía cạnh khác của hoạt động thương mại điện tử.
 
+Hệ thống thông tin thương mại điện tử bao gồm các phần mềm, máy chủ, cơ sở dữ liệu, mạng kết nối, và các công nghệ khác để hỗ trợ quá trình mua sắm trực tuyến, thanh toán điện tử, quản lý hàng tồn kho, theo dõi đơn hàng, và tương tác với khách hàng. Nó cũng liên quan đến việc bảo mật thông tin cá nhân và thanh toán của người dùng, quản lý dữ liệu khách hàng, và nhiều khía cạnh quản lý khác của doanh nghiệp thương mại điện tử.
 
-
+Một hệ thống thông tin mạnh mẽ và bảo mật là rất quan trọng trong việc đảm bảo rằng thương mại điện tử có thể hoạt động hiệu quả và an toàn cho cả người bán và người mua.
 
 ===Name: ===
 B5)) Trong thực tế có nhiều trường hợp khách hàng đã không hài lòng về
