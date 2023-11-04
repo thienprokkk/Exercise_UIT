@@ -1,0 +1,77 @@
+    Bài tập 4
+Tham khảo chương 3: "Information Systems,..."
+Cùng với người bạn AI của mình (chatgpt, bing chat,...) bạn hãy trả lời các câu hỏi sau:
+
+
+===Name: Từ Trương Tuấn Kiệt===
+A1-1)) Những đặc trưng nào của tổ chức mà các nhà quản lý cần biết để xây
+ dựng và sử dụng httt thành công?
+
+Để xây dựng và sử dụng hệ thống thông tin thành công trong một tổ chức, các
+ nhà quản lý cần hiểu và tập trung vào một số đặc trưng quan trọng sau đây:
+1. Nắm rõ Mục tiêu Tổ chức: Hệ thống thông tin cần phản ánh mục tiêu và chiến
+ lược tổ chức. Những mục tiêu này sẽ xác định những gì cần theo dõi, đo lường
+ và báo cáo thông qua hệ thống.
+2. Hiểu Rõ Người Dùng Cuối: Cần nắm rõ nhu cầu và mong muốn của người dùng
+ cuối. Đều này giúp xây dựng giao diện và chức năng hệ thống thông tin sao cho
+ phản ánh được nhu cầu thực tế của họ.
+3. Chú ý đến Bảo mật và Quản lý Dữ liệu: Bảo mật thông tin là yếu tố cực kỳ
+ quan trọng. Cần thiết lập các chính sách bảo mật, sao lưu dữ liệu thường xuyên
+ và thiết lập quy trình phòng ngừa mất mát dữ liệu.
+4. Khả năng Tích hợp và Linh hoạt: Hệ thống thông tin cần có khả năng tích hợp
+ với các hệ thống khác trong tổ chức, giúp thông tin lưu thông một cách hiệu
+ quả và liên tục.
+5. Phân quyền và Quản lý Người dùng: Cần thiết lập các mức độ quyền truy cập
+ khác nhau cho từng người dùng trong hệ thống. Điều này đảm bảo rằng chỉ những
+ người có quyền mới có thể truy cập vào thông tin nhạy cảm.
+6. Chú ý đến Hiệu suất và Tối ưu hóa: Hệ thống cần hoạt động một cách nhanh
+ chóng và hiệu quả. Cần đảm bảo rằng hệ thống không bị quá tải và luôn duy trì
+ được hiệu suất cao.
+7. Hỗ trợ Người dùng và Đào tạo: Cần thiết lập các hệ thống hỗ trợ người dùng
+ để giải quyết vấn đề và cung cấp đào tạo định kỳ để đảm bảo rằng người dùng
+ biết cách sử dụng hệ thống một cách hiệu quả.
+8. Theo dõi và Đánh giá: Cần thiết lập các công cụ để theo dõi hiệu suất của
+ hệ thống, đánh giá sự hài lòng của người dùng và đưa ra các cải tiến dựa trên
+ phản hồi và dữ liệu thu thập được.
+
+A1-2)) Tác động của httt đối với các tổ chức là gì?
+
+Hệ thống Thông tin (HTTT) có tác động sâu rộng đối với các tổ chức, bất kể
+ chúng là doanh nghiệp, tổ chức phi lợi nhuận, hay cơ quan chính phủ. Dưới
+ đây là một số tác động chính của HTTT đối với các tổ chức:
+- Tăng Cường Hiệu Quả Hoạt Động: HTTT giúp tổ chức tăng cường hiệu quả trong
+ việc quản lý thông tin, giúp tiết kiệm thời gian và nguồn lực, đồng thời giảm
+ thiểu lỗi lầm do con người gây ra.
+- Nâng Cao Sự Linh Hoạt và Tích Hợp: HTTT cho phép các hệ thống và quy trình
+ khác nhau trong tổ chức tương tác một cách linh hoạt và hiệu quả, tăng khả
+ năng tích hợp giữa các phòng ban và các đơn vị khác nhau.
+- Cải Thiện Quy Trình Kinh Doanh: HTTT giúp tổ chức tối ưu hóa các quy trình
+ kinh doanh, giúp giảm thời gian và chi phí, từ việc sản xuất đến giao hàng và
+ dịch vụ khách hàng.
+- Tăng Cường Giao Tiếp và Tương Tác: HTTT tạo điều kiện thuận lợi cho giao tiếp
+ nội bộ và tương tác với khách hàng, đối tác và người lao động. Điều này có thể
+ cải thiện mối quan hệ và tạo ra cơ hội mới cho kinh doanh.
+- Nâng Cao Năng Lực Ra Quyết Định: Bằng cách thu thập, phân tích và biến đổi dữ
+ liệu thành thông tin hữu ích, HTTT hỗ trợ quản lý tổ chức trong việc ra quyết
+ định chiến lược và chiến thuật dựa trên dữ liệu thực tế.
+- Tăng Cường Bảo Mật Thông Tin: HTTT giúp tổ chức bảo vệ thông tin quan trọng
+ và nhạy cảm, đảm bảo rằng chỉ những người được ủy quyền mới có thể truy cập và
+ chỉnh sửa dữ liệu.
+- Hỗ Trợ Quản Lý Tài Chính: HTTT giúp tổ chức theo dõi nguồn thu, chi phí và
+ lợi nhuận một cách tự động, giúp quản lý tài chính hiệu quả hơn.
+- Tạo Ra Cơ Hội Mới: Bằng cách sử dụng dữ liệu và thông tin thu thập được từ
+ HTTT, tổ chức có thể phát hiện ra cơ hội mới, định hình sản phẩm và dịch vụ
+ theo nhu cầu thị trường.
+
+
+===Name: ===
+A2)) Xác định và mô tả đặc trưng của các tổ chức giúp giải thích sự khác biệt trong việc sử dụng httt giữa các tổ chức?
+
+
+
+
+===Name: ===
+A3)) Mô tả các khái niệm về kinh tế giúp giải thích httt ảnh hướng đến các tổ chức như thế nào?
+
+
+
