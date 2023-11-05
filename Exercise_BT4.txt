@@ -71,27 +71,14 @@ VD: Bạn có thể thấy văn hóa tổ chức tại nơi làm việc bằng c
  các lớp học diễn ra theo lịch trình đều đặn. 
 
 4)	MÔI TRƯỜNG TỔ CHỨC
-- Các tổ chức tồn tại trong môi trường mà từ đó họ thu hút các nguồn lực và cung cấp hàng hóa và dịch vụ. Tổ chức và môi trường có mối quan hệ qua lại. Một mặt, các tổ chức sẵn sàng tiếp nhận và phụ thuộc vào môi trường xã hội và vật chất xung quanh họ.
-- Nếu không có nguồn tài chính và nhân lực - những người sẵn sàng làm việc đáng tin cậy và nhất quán với mức lương ấn định hoặc doanh thu từ khách hàng - các tổ chức sẽ không thể tồn tại. Các tổ chức phải đáp ứng các yêu cầu pháp lý và yêu cầu khác do chính phủ đặt ra cũng như hành động của khách hàng và đối thủ cạnh tranh.
-- Mặt khác, các tổ chức có thể ảnh hưởng đến môi trường của họ.
-VD: các doanh nghiệp hình thành liên minh với các doanh nghiệp khác để tác động đến tiến trình chính trị; họ quảng cáo để tác động đến sự chấp nhận của khách hàng đối với sản phẩm của họ.
-Hình 3.5 minh họa vai trò của hệ thống thông tin trong việc giúp các tổ chức nhận thức
-được những thay đổi trong môi trường của họ và cũng trong việc giúp các tổ chức
-hành động phù hợp với môi trường của họ. 
-- Hệ thống thông tin là công cụ quan trọng để rà soát môi trường, giúp các nhà quản lý xác định những thay đổi bên ngoài có thể yêu cầu tổ chức phải ứng phó.
-- Môi trường thường thay đổi nhanh hơn nhiều so với các tổ chức. Công nghệ mới, sản phẩm mới và sự thay đổi về thị hiếu và giá trị của công chúng (nhiều trong số đó dẫn đến các quy định mới của chính phủ) gây căng thẳng cho văn hóa, chính trị và con người của bất kỳ tổ chức nào.
-- Hầu hết các tổ chức không thể thích ứng với một môi trường thay đổi nhanh chóng. Sức ỳ được xây dựng trong các quy trình vận hành tiêu chuẩn của tổ chức, xung đột chính trị nảy sinh do những thay đổi trong trật tự hiện tại và mối đe dọa đối với các giá trị văn hóa chặt chẽ đã ngăn cản tổ chức thực hiện những thay đổi đáng kể.
-- Các công ty trẻ thường thiếu nguồn lực để duy trì ngay cả trong thời gian khó khăn ngắn. Không có gì đáng ngạc nhiên khi chỉ có 10% trong số các công ty trong danh sách Fortune 500 năm 1919 còn tồn tại cho đến ngày nay.
-- Công nghệ đột phá: Công nghệ và kết quả là đổi mới kinh doanh xuất hiện để thay đổi hoàn toàn bối cảnh và môi trường kinh doanh. Công nghệ đột phá là sản phẩm thay thế
-- Môi trường định hình những gì tổ chức có thể làm, nhưng tổ chức có thể tác động đến môi trường của họ và quyết định thay đổi hoàn toàn môi trường. Công nghệ thông tin đóng một vai trò quan trọng trong việc giúp các tổ chức nhận thức được sự thay đổi của môi trường và giúp các tổ chức hành động vì môi trường của họ.
-- Trong những trường hợp khác, công nghệ đột phá chỉ đơn giản là mở rộng thị trường, thường có ít chức năng hơn và chi phí thấp hơn nhiều so với các sản phẩm hiện có. Cuối cùng, họ trở thành đối thủ cạnh tranh có chi phí thấp cho bất cứ thứ gì đã được bán trước đó.
-VD: Ổ đĩa cứng nhỏ dùng trong PC đã mở rộng thị trường ổ đĩa bằng cách cung cấp bộ lưu trữ kỹ thuật số giá rẻ cho các tệp nhỏ.
-- Một số công ty có thể tạo ra những công nghệ này và tận dụng làn sóng để thu lợi nhuận; những người khác học hỏi nhanh chóng và thích nghi với công việc kinh doanh của họ; vẫn còn những người khác bị xóa sổ vì sản phẩm, dịch vụ và mô hình kinh doanh của họ trở nên lỗi thời. Họ có thể rất hiệu quả trong việc làm những việc không cần phải làm nữa! Cũng có những trường hợp không doanh nghiệp nào được hưởng lợi và tất cả lợi nhuận đều thuộc về người tiêu dùng (doanh nghiệp không thu được bất kỳ lợi nhuận nào).
-- Không phải tất cả thay đổi hoặc công nghệ đều mang tính đột phá. Các nhà quản lý của các doanh nghiệp cũ thường đưa ra những quyết định đúng đắn và tìm cách tiếp tục cạnh tranh. 
-- Công nghệ đột phá rất phức tạp. Những công ty phát minh ra công nghệ đột phá với tư cách là “người dẫn đầu” không phải lúc nào cũng được hưởng lợi nếu họ thiếu nguồn lực để khai thác công nghệ hoặc không nhìn thấy cơ hội.
-VD: MITS Altair 8800 được nhiều người coi là chiếc PC đầu tiên, nhưng những người phát minh ra nó đã không tận dụng được lợi thế của người đi đầu. Những người dẫn đầu thứ hai, những người được gọi là người theo sau nhanh, chẳng hạn như IBM và Microsoft, đã gặt hái được nhiều thành quả.
-VD: Máy ATM của Barclays đã cách mạng hóa hoạt động ngân hàng bán lẻ, nhưng chúng đã bị các ngân hàng khác sao chép. Hiện nay tất cả các ngân hàng đều sử dụng máy ATM, lợi ích chủ yếu thuộc về người tiêu dùng.
-
+-Thu thập và quản lý thông tin môi trường: Hệ thống thông tin giúp tổ chức thu thập, lưu trữ và quản lý thông tin về môi trường tổ chức, bao gồm thông tin về khách hàng, đối thủ, quy định và xu hướng thị trường. Điều này giúp tổ chức hiểu rõ hơn về môi trường và có cơ hội phản ứng nhanh chóng khi có sự thay đổi.
+-Xử lý và phân tích dữ liệu môi trường: Hệ thống thông tin giúp tổ chức xử lý và phân tích dữ liệu về môi trường để tìm ra thông tin quan trọng và xu hướng kinh doanh. Nó giúp tổ chức đưa ra quyết định dựa trên dữ liệu thay vì dựa vào cảm tính.
+-Hỗ trợ quyết định dựa trên thông tin: Hệ thống thông tin cung cấp thông tin cần thiết cho các nhà quản lý và quyết định để họ đưa ra quyết định chiến lược. Quyết định này có thể liên quan đến việc điều chỉnh sản phẩm hoặc dịch vụ, mở rộng thị trường, hoặc phản ứng nhanh chóng với cơ hội hoặc mối đe dọa từ môi trường.
+-Hỗ trợ quy trình kinh doanh: Hệ thống thông tin giúp tổ chức tối ưu hóa quy trình kinh doanh bằng cách tự động hóa các nhiệm vụ và xác định điểm yếu trong quy trình. Điều này giúp giảm thời gian và tối ưu hóa sử dụng tài nguyên.
+-Giao tiếp với bên ngoài: Hệ thống thông tin giúp tổ chức tương tác với các bên liên quan bên ngoài, bao gồm khách hàng, đối tác và nhà cung cấp. Nó cung cấp các kênh để trao đổi thông tin và tạo mối quan hệ với các bên liên quan.
+-Tuân thủ pháp lý và bảo vệ thông tin: Hệ thống thông tin giúp tổ chức tuân thủ các quy định pháp lý liên quan đến quản lý và bảo vệ thông tin. Nó cung cấp các công cụ để đảm bảo tính an toàn và bảo mật của dữ liệu.
+-Đáp ứng nhanh chóng cho thay đổi môi trường: Môi trường tổ chức thay đổi liên tục, và hệ thống thông tin giúp tổ chức đáp ứng nhanh chóng cho những thay đổi này. Nó giúp tổ chức thích nghi và thay đổi chiến lược và quy trình khi cần.
+-Đánh giá hiệu suất tổ chức: Hệ thống thông tin giúp tổ chức theo dõi và đánh giá hiệu suất hoạt động tổ chức. Nó giúp tổ chức xác định điểm mạnh và yếu, điều này có thể dẫn đến việc điều chỉnh chiến lược kinh doanh.
 5)	CƠ CẤU TỔ CHỨC
 - Tất cả các tổ chức đều có cấu trúc hoặc hình dạng. Loại hệ thống thông tin bạn tìm thấy trong một công ty kinh doanh - và bản chất của các vấn đề với các hệ thống này - thường phản ánh loại cơ cấu tổ chức.
 VD: Trong một cơ quan chuyên môn như bệnh viện, không có gì lạ khi tìm thấy các hệ thống hồ sơ bệnh nhân song song do chính quyền vận hành, một hệ thống khác do bác sĩ và một hệ thống khác do các nhân viên chuyên môn khác như y tá vận hành và nhân viên xã hội.
