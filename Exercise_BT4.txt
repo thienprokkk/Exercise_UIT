@@ -3,7 +3,6 @@ Tham khảo chương 3: "Information Systems,..."
 Cùng với người bạn AI của mình (chatgpt, bing chat,...) bạn hãy trả lời các câu hỏi sau:
 
 
-
 I)) Những đặc trưng nào của tổ chức mà các nhà quản lý cần biết để xây dựng và sử
  dụng hệ thống thông tin thành công? Xác định và mô tả đặc trưng của các tổ chức
  giúp giải thích sự khác biệt trong việc sử dụng hệ thống thông tin giữa các tổ chức?
@@ -15,6 +14,7 @@ I)) Những đặc trưng nào của tổ chức mà các nhà quản lý cần 
 - Để xây dựng và sử dụng hệ thống thông tin thành công trong một tổ chức, các nhà
  quản lý cần hiểu và tập trung vào các đặc trưng quan trọng sau đây:
 
+==Name: Võ Lưu Chí Thiện== NO
 1)	THÓI QUEN VÀ QUY TRÌNH KINH DOANH
 - Tất cả các tổ chức, kể cả các doanh nghiệp, đều trở nên rất hiệu quả theo thời
  gian vì các cá nhân trong doanh nghiệp phát triển các thói quen sản xuất hàng
@@ -30,6 +30,7 @@ VD: khi bạn đến phòng khám của bác sĩ, nhân viên lễ tân có mộ
  các quy trình khác để chuẩn bị cho bạn một cuộc phỏng vấn với bác sĩ và bác sĩ sẽ
  có một tập hợp các quy trình được phát triển tốt để chẩn đoán bạn.
 
+==Name: Nguyễn Ngọc Lợi== YES
 2)	CHÍNH TRỊ TỔ CHỨC
 - Chính trị tổ chức trong hệ thống thông tin (Information Systems) đề cập đến cách quyền lực, quyết định chính trị và tương tác giữa các bên tác động đến cách mà tổ chức quản lý, phát triển, và sử dụng hệ thống thông tin.
 + Quyền lực và ảnh hưởng: Chính trị tổ chức xác định ai có quyền lực và ảnh hưởng đối với các quyết định liên quan đến hệ thống thông tin. Người nắm quyền thường quyết định về cách phát triển, triển khai, và quản lý hệ thống thông tin, bao gồm cả việc đầu tư tài nguyên và nguồn lực.
@@ -62,6 +63,7 @@ VD: Bạn có thể thấy văn hóa tổ chức tại nơi làm việc bằng c
  là các giáo sư biết nhiều hơn sinh viên, lý do sinh viên vào đại học là để học và
  các lớp học diễn ra theo lịch trình đều đặn. 
 
+==Name: Ngô Tùng Nhân=== YES
 4)	MÔI TRƯỜNG TỔ CHỨC
 - Thu thập và quản lý thông tin môi trường: Hệ thống thông tin giúp tổ chức thu thập, lưu trữ và quản lý thông tin về môi trường tổ chức, bao gồm thông tin về khách hàng, đối thủ, quy định và xu hướng thị trường. Điều này giúp tổ chức hiểu rõ hơn về môi trường và có cơ hội phản ứng nhanh chóng khi có sự thay đổi.
 - Xử lý và phân tích dữ liệu môi trường: Hệ thống thông tin giúp tổ chức xử lý và phân tích dữ liệu về môi trường để tìm ra thông tin quan trọng và xu hướng kinh doanh. Nó giúp tổ chức đưa ra quyết định dựa trên dữ liệu thay vì dựa vào cảm tính.
@@ -73,27 +75,26 @@ VD: Bạn có thể thấy văn hóa tổ chức tại nơi làm việc bằng c
 - Đánh giá hiệu suất tổ chức: Hệ thống thông tin giúp tổ chức theo dõi và đánh giá hiệu suất hoạt động tổ chức. Nó giúp tổ chức xác định điểm mạnh và yếu, điều này có thể dẫn đến việc điều chỉnh chiến lược kinh doanh.
 VD: Ổ đĩa cứng nhỏ dùng trong PC đã mở rộng thị trường ổ đĩa bằng cách cung cấp bộ lưu trữ kỹ thuật số giá rẻ cho các tệp nhỏ.
 
+==Name: Nguyễn Đoàn Thùy Trâm== YES
 5)	CƠ CẤU TỔ CHỨC
-- Tất cả các tổ chức đều có cấu trúc hoặc hình dạng. Loại hệ thống thông tin bạn tìm thấy trong một công ty kinh doanh - và bản chất của các vấn đề với các hệ thống này - thường phản ánh loại cơ cấu tổ chức.
-VD: Trong một cơ quan chuyên môn như bệnh viện, không có gì lạ khi tìm thấy các hệ thống hồ sơ bệnh nhân song song do chính quyền vận hành, một hệ thống khác do bác sĩ và một hệ thống khác do các nhân viên chuyên môn khác như y tá vận hành và nhân viên xã hội.
-- Trong các công ty kinh doanh nhỏ, bạn hường sẽ thấy các hệ thống được thiết kế kém được phát triển một cách vội vã và nhanh chóng không còn hữu ích nữa.
-- Trong các công ty lớn có nhiều bộ phận hoạt động ở hàng trăm địa điểm, bạn sẽ thường thấy không có một hệ thống thông tin tích hợp nào mà thay vào đó, mỗi địa phương hoặc mỗi bộ phận đều có một bộ hệ thống thông tin riêng.
+Tất cả các tổ chức đều có cấu trúc có thể được tùy chỉnh tùy thuộc vào quy mô, mục tiêu, chiến lược kinh doanh,... Loại hệ thống thông tin bạn tìm thấy trong một công ty kinh doanh thường phản ánh loại cơ cấu tổ chức.
+VD: Trong một cơ quan chuyên môn như bệnh viện, không có gì lạ khi tìm thấy các hệ thống hồ sơ bệnh nhân song song do chính quyền vận hành, một hệ thống do bác sĩ và một hệ thống do các nhân viên chuyên môn khác như y tá vận hành.
+Trong các công ty kinh doanh nhỏ, bạn hường sẽ thấy các hệ thống được thiết kế với nguồn lực có hạn nên hệ thống sẽ được phát triển một cách vội vã và nhanh chóng không còn hữu ích nữa.
+Trong các công ty lớn có nguồn tài nguyên dồi dao hơn, họ có nhiều bộ phận, nhiều phòng ban hoạt động ở hàng trăm địa điểm, bạn sẽ thấy thường không có một hệ thống thông tin tích hợp nào mà thay vào đó, mỗi địa phương hoặc mỗi bộ phận đều có một bộ hệ thống thông tin riêng.
 
 6)	CÁC TÍNH NĂNG VÀ TỔ CHỨC KHÁC
-- Các tổ chức có mục tiêu và sử dụng các phương tiện khác nhau để đạt được chúng.
-- Một số tổ chức có mục tiêu mang tính cưỡng chế (ví dụ: nhà tù);
-những người khác có mục tiêu thực dụng (ví dụ: doanh nghiệp);
-- Vẫn còn những người khác có mục tiêu chuẩn mực (trường đại học, nhóm tôn giáo).
-- Các tổ chức cũng phục vụ các nhóm khác nhau hoặc có các nhóm cử tri khác nhau, một số chủ yếu mang lại lợi ích cho các thành viên của họ, số khác mang lại lợi ích cho khách hàng, cổ đông hoặc công chúng.
-- Bản chất của sự lãnh đạo ở mỗi tổ chức khác nhau rất nhiều:
-- Một số tổ chức có thể dân chủ hoặc độc đoán hơn những tổ chức khác.
-- Một điểm khác biệt nữa của các tổ chức là ở nhiệm vụ họ thực hiện và công nghệ họ sử dụng.
-- Một số tổ chức thực hiện các nhiệm vụ chủ yếu mang tính thông thường có thể được rút gọn thành các quy tắc chính thức đòi hỏi ít sự phán xét (chẳng hạn như sản xuất phụ tùng ô tô), trong khi những tổ chức khác (chẳng hạn như các công ty tư vấn) lại chủ yếu thực hiện các nhiệm vụ không thường xuyên.
+Các tổ chức được tạo ra với các mục tiêu và mô hình hoạt động riêng biệt, phản ánh sự đa dạng và phức tạp của các doanh nghiệp kinh doanh cũng như các tổ chức trong xã hội. Tính chất của sự lãnh đạo trong mỗi tổ chức đều rất đa dạng, thể hiện mục tiêu hành động và nguyên tắc cốt lõi của họ. Đa phần các tổ chức phục vụ cho nhóm khác nhau, một số chủ yếu mang lại lợi ích cho thành viên của họ, số khác mang lại lợi ích cho khách hàng, cổ đông hoặc công chúng.
+Một số tổ chức hoạt động với mục tiêu cưỡng chế, có nhiệm vụ tập trung vào việc thi hành án phạt, đảm bảo an ninh,...(ví dụ: nhà tù,...).
+Trong khi đó, các doanh nghiệp và tổ chức thương mại khác đặt lợi nhuận là mục tiêu chính, tập trung vào việc tạo ra giá trị cho cổ đông và khách hàng.
+Bên cạnh đó, vẫn còn những tổ chức tích hợp giá trị chuẩn mực, như các trường học hoặc các nhóm tôn giáo, với mục tiêu chính là phục vụ cộng đồng, bảo tồn giá trị đạo đức, và giáo dục.
+Cơ cấu lãnh đạo ở các tổ chức khác nhau thì cũng khác nhau, có những tổ chức có thể rất dân chủ nhưng cũng có nhiều tổ chức thì độc đoán hơn phần còn lại. Các tổ chức cũng có thể biến đổi dựa trên tính chất của nhiệm vụ và công nghệ mà họ sử dụng. 
+Nhìn chung, sự đa dạng trong cách các tổ chức đặt mục tiêu, tổ chức và lãnh đạo phản ánh một thế giới đang thay đổi và đa dạng, và sự linh hoạt của con người trong việc đáp ứng các thách thức và cơ hội mà họ gặp phải.
 
 II)) Tác động của hệ thống thông tin đối với các tổ chức là gì? Mô tả các khái niệm về kinh tế giúp giải thích hệ thống thông tin ảnh hướng đến các tổ chức như thế nào?
 - Hệ thống thông tin đã trở thành công cụ tương tác, trực tuyến, không thể thiếu, tham gia sâu vào các hoạt động và ra quyết định từng phút của các tổ chức lớn. Trong thập kỷ qua, hệ thống thông tin đã làm thay đổi căn bản nền kinh tế của các tổ chức và làm tăng đáng kể khả năng tổ chức công việc. Các lý thuyết và khái niệm từ kinh tế học và xã hội học giúp chúng ta hiểu được những thay đổi do CNTT mang lại.
 - Hệ thống Thông tin (HTTT) có tác động sâu rộng đối với các tổ chức, bất kể chúng là doanh nghiệp, tổ chức phi lợi nhuận, hay cơ quan chính phủ. Dưới đây là một số tác động chính của HTTT đối với các tổ chức:
 
+==Name: Nguyễn Đào Trọng Nhân== NO
 1)	TÁC ĐỘNG KINH TẾ
 - Từ quan điểm kinh tế, CNTT thay đổi cả chi phí tương đối của vốn và chi phí thông tin. Công nghệ hệ thống thông tin có thể được coi là một yếu tố sản xuất có thể thay thế cho vốn truyền thống và lao động.
 - Khi chi phí của công nghệ thông tin giảm xuống, nó được thay thế cho lao động, vốn là chi phí ngày càng tăng trong lịch sử. Do đó, công nghệ thông tin sẽ làm giảm số lượng quản lý cấp trung và nhân viên văn thư vì công nghệ thông tin có thể thay thế cho lao động của họ.
@@ -113,22 +114,25 @@ VD: Khi Công ty Hóa chất Eastman tách khỏi Kodak vào năm 1994, công ty
 - Khi các công ty phát triển về quy mô và phạm vi, chi phí đại diện hoặc chi phí điều phối tăng lên vì chủ sở hữu phải ngày càng nỗ lực nhiều hơn trong việc giám sát và quản lý nhân viên. Công nghệ thông tin, bằng cách giảm chi phí thu thập và phân tích thông tin, cho phép các tổ chức giảm chi phí đại diện vì các nhà quản lý dễ dàng giám sát số lượng nhân viên lớn hơn. Bằng cách giảm chi phí quản lý tổng thể, công nghệ thông tin cho phép các công ty tăng doanh thu đồng thời giảm số lượng quản lý cấp trung và nhân viên văn thư.
 VD: công nghệ thông tin mở rộng sức mạnh và phạm vi của các tổ chức nhỏ bằng cách cho phép họ thực hiện các hoạt động phối hợp như xử lý đơn đặt hàng hoặc theo dõi hàng tồn kho với rất ít nhân viên và người quản lý.
 Vì CNTT làm giảm cả chi phí đại diện và chi phí giao dịch cho doanh nghiệp nên chúng ta kỳ vọng quy mô doanh nghiệp sẽ giảm theo thời gian khi có nhiều vốn đầu tư vào CNTT. Các công ty nên có ít người quản lý hơn và chúng tôi kỳ vọng doanh thu trên mỗi nhân viên sẽ tăng theo thời gian.
+
 2)	TÁC ĐỘNG VỀ TỔ CHỨC VÀ HÀNH VI
 - Các lý thuyết dựa trên xã hội học của các tổ chức phức tạp cũng cung cấp một số hiểu biết về cách thức và lý do các công ty thay đổi khi triển khai các ứng dụng CNTT mới.
 
+==Name: Nguyễn Đào Trọng Nhân== NO
 2.1) CNTT làm phẳng các tổ chức
 - Các tổ chức lớn, quan liêu, chủ yếu phát triển trước thời đại máy tính, thường hoạt động kém hiệu quả, chậm thay đổi và kém cạnh tranh hơn các tổ chức mới thành lập. Một số tổ chức lớn này đã thu hẹp quy mô, giảm số lượng nhân viên và số cấp bậc trong hệ thống phân cấp tổ chức của họ.
 - Các nhà nghiên cứu hành vi đã đưa ra giả thuyết rằng công nghệ thông tin tạo điều kiện thuận lợi cho việc làm phẳng các hệ thống phân cấp bằng cách mở rộng phân phối thông tin để trao quyền cho nhân viên cấp thấp hơn và tăng hiệu quả quản lý.
 CNTT đẩy quyền ra quyết định xuống thấp hơn trong tổ chức vì nhân viên cấp thấp hơn nhận được thông tin họ cần để đưa ra quyết định mà không cần giám sát. (Việc trao quyền này cũng có thể thực hiện được do lực lượng lao động có trình độ học vấn cao hơn, giúp nhân viên có nhiều khả năng hơn để đưa ra những quyết định thông minh.) Bởi vì các nhà quản lý hiện nhận được nhiều thông tin chính xác hơn về mặt thời gian nên họ đưa ra quyết định nhanh hơn nhiều, do đó ít hơn. các nhà quản lý được yêu cầu. Chi phí quản lý giảm theo tỷ lệ phần trăm của doanh thu và hệ thống phân cấp trở nên hiệu quả hơn nhiều.
 VD: Hệ thống thông tin có thể giảm bớt số lượng cấp bậc trong một tổ chức bằng cách cung cấp cho người quản lý thông tin để giám sát số lượng công nhân lớn hơn và bằng cách trao cho nhân viên cấp thấp hơn quyền ra quyết định.
- 
 - Những thay đổi này có nghĩa là phạm vi kiểm soát của quản lý cũng được mở rộng, cho phép các nhà quản lý cấp cao quản lý và kiểm soát nhiều công nhân hơn ở những khoảng cách xa hơn. Nhiều công ty đã loại bỏ hàng nghìn nhà quản lý cấp trung do những thay đổi này.
 
+==Name: Đinh Lâm Quốc Huy== NO
 2.2) Các tổ chức hậu công nghiệp
 - Các lý thuyết hậu công nghiệp dựa nhiều vào lịch sử và xã hội học hơn là kinh tế học cũng ủng hộ quan điểm cho rằng CNTT sẽ làm phẳng các hệ thống phân cấp. Trong các xã hội hậu công nghiệp, quyền lực ngày càng dựa vào kiến thức và năng lực chứ không chỉ dựa vào các vị trí chính thức. Do đó, hình dạng của các tổ chức trở nên phẳng hơn vì những người lao động chuyên nghiệp có xu hướng tự quản lý và việc ra quyết định sẽ trở nên phi tập trung hơn khi kiến thức và thông tin trở nên phổ biến rộng rãi hơn trong toàn công ty.
 - Công nghệ thông tin có thể khuyến khích các tổ chức nối mạng với lực lượng đặc nhiệm, trong đó các nhóm chuyên gia tập hợp lại với nhau—mặt đối mặt hoặc điện tử—trong khoảng thời gian ngắn để hoàn thành một nhiệm vụ cụ thể (ví dụ: thiết kế một chiếc ô tô mới); Sau khi hoàn thành nhiệm vụ, các cá nhân sẽ gia nhập các lực lượng đặc nhiệm khác. Dịch vụ tư vấn toàn cầu Accenture là một ví dụ. Nhiều người trong số 492.000 nhân viên của công ty di chuyển từ địa điểm này sang địa điểm khác để làm việc cho các dự án tại địa điểm của khách hàng ở hơn 50 quốc gia khác nhau.
 - Ai đảm bảo rằng các nhóm tự quản không đi sai hướng? Ai quyết định người nào làm việc trong tổ nào và trong bao lâu? Làm thế nào các nhà quản lý có thể đánh giá hiệu suất của một người thường xuyên luân chuyển từ nhóm này sang nhóm khác? Làm thế nào để mọi người biết sự nghiệp của họ đang hướng tới đâu? Cần có những cách tiếp cận mới để đánh giá, tổ chức và thông báo cho người lao động và không phải công ty nào cũng có thể thực hiện công việc ảo hiệu quả.
 
+==Name: Từ Trương Tuấn Kiệt== NO
 2.3) Hiểu sự phản kháng của tổ chức đối với sự thay đổi
 - Hệ thống thông tin chắc chắn bị ràng buộc trong hoạt động chính trị của tổ chức vì chúng ảnh hưởng đến khả năng tiếp cận một nguồn lực quan trọng - cụ thể là thông tin. Hệ thống thông tin có thể ảnh hưởng đến ai làm gì với ai, khi nào, ở đâu và như thế nào trong một tổ chức. Nhiều hệ thống thông tin mới yêu cầu những thay đổi trong thói quen cá nhân, có thể gây khó khăn cho những người liên quan và cần được đào tạo lại cũng như nỗ lực bổ sung mà có thể được đền bù hoặc không được bù đắp. Bởi vì hệ thống thông tin có khả năng thay đổi cấu trúc, văn hóa, quy trình kinh doanh và chiến lược của tổ chức nên thường có sự phản đối đáng kể khi chúng được đưa vào sử dụng. Có một số cách để hình dung sự phản kháng của tổ chức. Nghiên cứu về sự phản đối của tổ chức đối với sự đổi mới cho thấy bốn yếu tố quan trọng nhất: bản chất của đổi mới CNTT, cơ cấu của tổ chức, văn hóa của mọi người trong tổ chức và các nhiệm vụ bị ảnh hưởng bởi sự đổi mới.
 - Ở đây, những thay đổi về công nghệ được tiếp thu, diễn giải, làm chệch hướng và bị đánh bại bởi sự sắp xếp nhiệm vụ, cơ cấu và con người của tổ chức. Trong mô hình này, cách duy nhất để mang lại sự thay đổi là thay đổi đồng thời công nghệ, nhiệm vụ, cơ cấu và con người. Các tác giả khác đã nói về sự cần thiết phải “đóng băng” các tổ chức trước khi đưa ra đổi mới, nhanh chóng triển khai nó và “tái đóng băng” hoặc thể chế hóa sự thay đổi.
@@ -136,6 +140,7 @@ VD: Hệ thống thông tin có thể giảm bớt số lượng cấp bậc tro
 - Do đó, với tư cách là người quản lý tham gia đầu tư vào CNTT trong tương lai, khả năng làm việc với mọi người và tổ chức của bạn cũng quan trọng như nhận thức và kiến thức về kỹ thuật của bạn.
 - Việc triển khai hệ thống thông tin có tác động đến việc sắp xếp nhiệm vụ, cơ cấu và con người. Theo mô hình này, để thực hiện thay đổi, cả bốn thành phần phải được thay đổi đồng thời.
  
+==Name: Võ Lưu Chí Thiện== NO
 3)	INTERNET VÀ CÁC TỔ CHỨC
 - Internet, đặc biệt là World Wide Web, có tác động quan trọng đến mối quan hệ giữa nhiều công ty với các đơn vị bên ngoài và thậm chí đến việc tổ chức các quy trình kinh doanh bên trong một công ty. Internet làm tăng khả năng tiếp cận, lưu trữ và phân phối thông tin và kiến thức cho các tổ chức. Về bản chất, Internet có khả năng giảm đáng kể chi phí giao dịch và đại diện mà hầu hết các tổ chức phải đối mặt. Ví dụ: lực lượng bán hàng toàn cầu có thể nhận được thông tin cập nhật gần như ngay lập tức về giá sản phẩm bằng cách sử dụng web hoặc hướng dẫn từ ban quản lý được gửi qua email hoặc tin nhắn văn bản trên điện thoại thông minh hoặc máy tính xách tay di động. Nhà cung cấp của một số nhà bán lẻ lớn có thể truy cập trực tiếp vào trang web nội bộ của nhà bán lẻ để tìm thông tin bán hàng cập nhật từng phút và bắt đầu đặt hàng bổ sung ngay lập tức.
 - Các doanh nghiệp đang nhanh chóng xây dựng lại một số quy trình kinh doanh chính của họ dựa trên công nghệ Internet và biến công nghệ này trở thành thành phần chính trong cơ sở hạ tầng CNTT của họ. Nếu mạng lưới trước đó là một hướng dẫn, kết quả sẽ là quy trình kinh doanh đơn giản hơn, ít nhân viên hơn và tổ chức phẳng hơn so với trước đây.
