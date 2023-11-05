@@ -135,7 +135,7 @@ CNTT đẩy quyền ra quyết định xuống thấp hơn trong tổ chức vì
 VD: Hệ thống thông tin có thể giảm bớt số lượng cấp bậc trong một tổ chức bằng cách cung cấp cho người quản lý thông tin để giám sát số lượng công nhân lớn hơn và bằng cách trao cho nhân viên cấp thấp hơn quyền ra quyết định.
 - Những thay đổi này có nghĩa là phạm vi kiểm soát của quản lý cũng được mở rộng, cho phép các nhà quản lý cấp cao quản lý và kiểm soát nhiều công nhân hơn ở những khoảng cách xa hơn. Nhiều công ty đã loại bỏ hàng nghìn nhà quản lý cấp trung do những thay đổi này.
 
-==Name: Đinh Lâm Quốc Huy== NO
+==Name: Đinh Lâm Quốc Huy== YES
 2.2) Các tổ chức hậu công nghiệp
 -Các lý thuyết hậu công nghiệp cũng ủng hộ quan điểm cho rằng CNTT sẽ làm các hệ thống phân cấp bị mất đi gia trị. Trong các xã hội hậu công nghiệp,kiến thức và năng lực sẽ quyết định quyền lực vì trong môi trường này, những người lao động chuyên nghiệp thường tự quản lý bản thân, có khả năng ra quyết định và định hình công việc của họ một cách độc lập. Quá trình ra quyết định trở nên ít tập trung hơn khi thông tin và kiến thức trở nên phổ biến rộng rãi trong toàn tổ chức. Điều này cung cấp cơ hội cho mọi người tham gia vào việc đóng góp ý kiến và tham gia vào quá trình ra quyết định, không chỉ dựa vào cấp bậc chức vụ.
 -Các tổ chức có thể tạo các mạng lưới cho các nhân viên làm việc cùng với nhau (trực tiếp hoặc qua mạng)để thực hiện các dự án, chẳng hạn như tạo ra một chương trình mới. Sau khi hoàn thành nhiệm vụ, các thành viên có thể rời đội để tham gia vào các đội chuyên môn khác. VD: Dịch vụ tư vấn toàn cầu của Accenture với phần lớn nhân viên trong  492.000  người thường xuyên đi đến hơn 50 khu vực trên thế giới để làm việc cho các dự án tại khu vực của khách hàng.
