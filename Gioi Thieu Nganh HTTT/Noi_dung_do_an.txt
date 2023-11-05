@@ -4,9 +4,13 @@
 Cùng với người bạn AI của mình (chatgpt, bing chat,...) bạn hãy trả lời các câu hỏi sau:
 
 
-===Name: ===
-B1)) Đưa ra một vd cho thấy bạn đang tham gia vào lĩnh vực thương mại điện tử.
+TĂNG TỐC NÀO!!
 
+
+===Name: Phạm Thái Sơn===
+B1)) Đưa ra một vd cho thấy bạn đang tham gia vào lĩnh vực thương mại điện tử.
+- Là một sinh viên, tôi thường mua sắm trực tuyến trên các sàn thương mại điện tử như Shopee và Lazada để tiết kiệm thời gian và tìm kiếm sản phẩm ưa thích một cách dễ dàng. Khi bạn tìm kiếm sản phẩm hoặc dịch vụ, tôi thực hiện quy trình mua sắm trực tuyến bằng cách duyệt qua các danh mục, so sánh giá, đọc đánh giá từ người dùng khác, và thực hiện thanh toán trực tuyến bằng thẻ tín dụng hoặc ví điện tử.
+- Khi bạn mua sắm trực tuyến, bạn đóng góp vào lĩnh vực thương mại điện tử bằng cách tạo nhu cầu và ủng hộ các doanh nghiệp hoạt động trực tuyến. Các giao dịch mua sắm của bạn giúp duy trì và phát triển nền kinh tế trực tuyến, tạo cơ hội cho các doanh nghiệp nhỏ và lớn kinh doanh trực tuyến, và thúc đẩy sự phát triển của lĩnh vực thương mại điện tử.
 
 
 
@@ -64,10 +68,73 @@ Thương mại điện tử không thể hoạt động mà không cần hệ th
  và người mua.
 
 
-===Name: ===
+===Name: Nguyễn Đào Trọng Nhân===
 B5)) Trong thực tế có nhiều trường hợp khách hàng đã không hài lòng về chất
  lượng sản phẩm mà họ nhận được khi đặt hàng trên các sàn thương mại điện tử.
  Bạn hãy đưa ra một ý tưởng để giải quyết tình trạng trên?
 
+Để giải quyết tình trạng khách hàng không hài lòng về chất lượng sản phẩm khi
+ mua hàng trên các sàn thương mại điện tử, em xin đề xuất một số ý tưởng như sau:
 
+1. Nâng cao tiêu chuẩn kiểm duyệt các shop/người bán trên sàn:
+- Yêu cầu các shop cung cấp giấy phép kinh doanh, các loại giấy tờ pháp lý liên quan.
+- Xác thực thông tin người bán, số điện thoại, địa chỉ.
+- Kiểm tra các sản phẩm đăng bán có đúng như mô tả hay không.
+2. Xây dựng cơ chế đánh giá và phản hồi của khách hàng:
+- Cho phép khách hàng đánh giá và nhận xét cụ thể về sản phẩm, người bán sau khi mua hàng.
+- Dễ dàng gửi phản ánh tới bộ phận hỗ trợ của sàn TMĐT về chất lượng sản phẩm không đảm bảo.
+3. Cung cấp các giải pháp bảo vệ cho người mua hàng:
+- Đảm bảo hoàn tiền nếu sản phẩm không đúng như mô tả.
+- Hỗ trợ trung gian thanh toán để đảm bảo quyền lợi khách hàng.
+- Thu thập các bằng chứng về sản phẩm không đạt chất lượng trước khi giao dịch.
+Những giải pháp trên sẽ góp phần nâng cao trải nghiệm của khách hàng, đảm bảo
+ quyền lợi và sự hài lòng của người mua hàng trên các sàn thương mại điện tử.
+Chi tiết hơn về các đề pháp đã liệt kê:
 
+I) Nâng cao tiêu chuẩn kiểm duyệt các shop/người bán trên sàn
+
+1. Yêu cầu các shop/người bán cung cấp giấy phép kinh doanh, các loại giấy tờ pháp lý liên quan:
+- Đăng ký bán hàng trên sàn cần cung cấp giấy phép kinh doanh, giấy chứng nhận
+ đăng ký doanh nghiệp/hộ kinh doanh cá thể.
+- Đối với người bán là cá nhân cần có CMND/CCCD, giấy ủy quyền nếu đại diện cho tổ chức.
+- Các giấy tờ phải còn hiệu lực và hợp lệ.
+
+2. Xác thực thông tin người bán, số điện thoại, địa chỉ:
+- Người bán cần cung cấp số điện thoại, địa chỉ liên hệ chính xác.
+- Sàn TMĐT sẽ xác minh thông tin nhằm đảm bảo tính xác thực.
+- Trong trường hợp thông tin không chính xác, tài khoản sẽ bị khóa.
+
+3. Kiểm tra sản phẩm đăng bán có đúng như mô tả:
+- Tăng cường kiểm tra, rà soát sản phẩm, đối chiếu với mô tả đăng tải.
+- Có cơ chế báo cáo, gỡ bỏ sản phẩm không đúng, kém chất lượng.
+- Xử lý nghiêm các trường hợp đăng tin sai sự thật về sản phẩm.
+
+II) Xây dựng cơ chế đánh giá và phản hồi của khách hàng:
+
+1. Cho phép khách hàng đánh giá và nhận xét cụ thể về sản phẩm, người bán:
+- Cung cấp form đánh giá chi tiết, đa dạng về sản phẩm: chất lượng, mô tả sản
+ phẩm, thái độ phục vụ...
+- Cho phép đánh giá người bán về uy tín, thái độ, tư vấn bán hàng...
+- Đánh giá dễ dàng, thuận tiện, có hình ảnh/video minh chứng.
+
+2. Dễ dàng gửi phản ánh tới sàn TMĐT về sản phẩm kém chất lượng:
+- Cung cấp các kênh phản ánh dễ sử dụng: hotline, email, fanpage, tích hợp sàn.
+- Xây dựng quy trình xử lý, phản hồi phản ánh nhanh chóng, hiệu quả.
+- Có cơ chế bồi thường, đền bù rõ ràng với khách hàng bị ảnh hưởng.
+
+III) Kiểm tra sản phẩm đăng bán có đúng như mô tả:
+1. Tăng cường kiểm tra, rà soát sản phẩm, đối chiếu với mô tả:
+- Đội ngũ chuyên viên kiểm duyệt sản phẩm trước khi đăng tải lên sàn.
+- Kiểm tra cả thông tin và hình ảnh/video sản phẩm có phù hợp với mô tả hay không.
+- Định kỳ rà soát, kiểm tra ngẫu nhiên sản phẩm đã đăng tải.
+
+2. Cơ chế báo cáo, gỡ bỏ sản phẩm không đúng, kém chất lượng:
+- Cung cấp tính năng báo cáo sản phẩm vi phạm cho người dùng.
+- Xác nhận, rà soát và gỡ bỏ nhanh chóng các sản phẩm được báo cáo.
+- Thông báo, cảnh cáo người bán về việc đăng tải sản phẩm sai lệch.
+
+3. Xử lý nghiêm các trường hợp đăng tin sai sự thật:
+- Khóa tài khoản, cấm kinh doanh trên sàn đối với những trường hợp vi phạm nhiều lần.
+- Xem xét xử lý theo pháp luật khi cố tình lừa đảo người tiêu dùng.
+
+Những giải pháp này đươc tham khảo dựa trên shopee, lazada và một số sàn thương mại khác. 
