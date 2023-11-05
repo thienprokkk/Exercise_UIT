@@ -31,12 +31,14 @@ VD: khi bạn đến phòng khám của bác sĩ, nhân viên lễ tân có mộ
  có một tập hợp các quy trình được phát triển tốt để chẩn đoán bạn.
 
 2)	CHÍNH TRỊ TỔ CHỨC
-- Mọi người trong các tổ chức chiếm giữ những vị trí khác nhau với những chuyên
- môn, mối quan tâm và quan điểm khác nhau. Kết quả là, họ đương nhiên có những
- quan điểm khác nhau về cách phân bổ nguồn lực, phần thưởng và hình phạt. Những
- khác biệt này quan trọng đối với cả nhà quản lý và nhân viên, và chúng dẫn đến
- các cuộc đấu tranh chính trị để giành nguồn lực, cạnh tranh và xung đột trong
- mọi tổ chức.
+- Chính trị tổ chức trong hệ thống thông tin (Information Systems) đề cập đến cách quyền lực, quyết định chính trị và tương tác giữa các bên tác động đến cách mà tổ chức quản lý, phát triển, và sử dụng hệ thống thông tin.
++ Quyền lực và ảnh hưởng: Chính trị tổ chức xác định ai có quyền lực và ảnh hưởng đối với các quyết định liên quan đến hệ thống thông tin. Người nắm quyền thường quyết định về cách phát triển, triển khai, và quản lý hệ thống thông tin, bao gồm cả việc đầu tư tài nguyên và nguồn lực.
++ Quyết định về nguồn lực: Chính trị tổ chức có thể dẫn đến quyết định chính trị về phân phối nguồn lực cho các dự án liên quan đến hệ thống thông tin. Các dự án có thể cạnh tranh để có sự ủng hộ tài chính và nguồn nhân lực, và quyết định này có thể tác động lớn đến sự phát triển của hệ thống.
++ Xung đột và cạnh tranh: Chính trị tổ chức có thể tạo ra xung đột và cạnh tranh giữa các bộ phận hoặc cá nhân trong tổ chức liên quan đến việc sử dụng và quản lý hệ thống thông tin. Các bên có thể tranh đấu để đảm bảo rằng dự án hoặc ưu tiên của họ được ưu tiên hóa.
++ Chính trị và văn hóa tổ chức: Văn hóa tổ chức có thể tác động đến chính trị tổ chức. Một tổ chức với văn hóa khuyến khích minh bạch và chia sẻ thông tin có thể có ít chính trị tổ chức hơn so với một tổ chức có văn hóa kín đáo và thận trọng.
++ Quản lý thông tin và dữ liệu: Chính trị tổ chức có thể tác động đến việc quản lý thông tin và dữ liệu. Các quyết định liên quan đến quyền truy cập thông tin và quản lý dữ liệu có thể được tác động bởi quyền lực chính trị.
++ Chính trị công nghệ: Sự phát triển và triển khai công nghệ thông tin cũng có thể là một vấn đề chính trị. Các quyết định về việc sử dụng các công nghệ cụ thể, quyết định về bảo mật thông tin và việc quản lý dự án công nghệ thông tin đều có tính chất chính trị.
++  Ảnh hưởng của các bên ngoại tổ chức: Không chỉ bên trong tổ chức, chính trị tổ chức còn có thể bị ảnh hưởng bởi các bên ngoại như chính phủ, đối tác kinh doanh, và nhà cung cấp công nghệ thông tin.
 - Sự phản kháng chính trị là một trong những khó khăn lớn nhất trong việc mang lại
  sự thay đổi về mặt tổ chức, đặc biệt là việc phát triển các hệ thống thông tin mới.
  Hầu như tất cả các khoản đầu tư vào hệ thống thông tin lớn của một công ty mang lại
@@ -46,25 +48,15 @@ VD: khi bạn đến phòng khám của bác sĩ, nhân viên lễ tân có mộ
  hơn những nhà quản lý kém kỹ năng trong việc triển khai các hệ thống thông tin mới.
 
 3)	VĂN HÓA TỔ CHỨC
-- Tất cả các tổ chức đều có những giả định nền tảng, không thể công kích, không
- thể nghi ngờ (bởi các thành viên) để xác định mục tiêu và sản phẩm của họ.
-- Văn hóa tổ chức bao gồm tập hợp các giả định này về những sản phẩm tổ chức nên
- sản xuất, sản xuất chúng như thế nào, ở đâu và cho ai. Nhìn chung, những giả định
- về văn hóa này hoàn toàn được coi là đương nhiên và hiếm khi được công bố hoặc thảo
- luận một cách công khai.
-- Quy trình kinh doanh - cách thức thực tế mà các công ty kinh doanh tạo ra giá
- trị, thường gắn liền với văn hóa của tổ chức.
-- Văn hóa tổ chức là một lực lượng đoàn kết mạnh mẽ giúp kiềm chế xung đột chính
- trị và thúc đẩy sự hiểu biết chung, thỏa thuận về các thủ tục và thông lệ chung.
- Nếu tất cả chúng ta đều có chung những giả định văn hóa cơ bản giống nhau thì
- khả năng nhất trí về các vấn đề khác sẽ cao hơn.
-- Đồng thời, văn hóa tổ chức là lực cản mạnh mẽ đối với sự thay đổi, đặc biệt là
- thay đổi công nghệ. Hầu hết các tổ chức sẽ làm hầu hết mọi việc để tránh phải
- thay đổi các giả định cơ bản. Bất kỳ sự thay đổi công nghệ nào đe dọa đến các giả
- định văn hóa thông thường thường gặp phải rất nhiều sự phản kháng.
-- Tuy nhiên, có những lúc cách hợp lý duy nhất để một công ty tiến lên là sử dụng
- một công nghệ mới phản đối trực tiếp văn hóa tổ chức hiện có. Khi điều này xảy ra,
- công nghệ thường bị đình trệ trong khi nền văn hóa dần điều chỉnh.
+- Văn hóa tổ chức là một yếu tố quan trọng trong việc xây dựng và sử dụng hệ thống thông tin. Văn hóa tổ chức bao gồm các giá trị, tập quán, niềm tin, và cách mà các thành viên tổ chức tương tác với nhau và với thông tin. Một số yếu tố cụ thể về văn hóa tổ chức có thể ảnh hưởng đến hệ thống thông tin:
++ Tính minh bạch và chia sẻ thông tin: Một văn hóa tổ chức thúc đẩy sự minh bạch và chia sẻ thông tin có thể khuyến khích việc sử dụng hệ thống thông tin như một công cụ để thu thập, chia sẻ và truyền tải thông tin quan trọng trong tổ chức.
++ Tính đào tạo và sáng tạo: Tổ chức với văn hóa khuyến khích sự đào tạo và sáng tạo có thể thúc đẩy việc sử dụng hệ thống thông tin để nâng cao hiệu suất và phát triển giải pháp mới.
++ Tính an toàn thông tin: Văn hóa tổ chức cũng có thể ảnh hưởng đến quy tắc và biện pháp an toàn thông tin. Tổ chức với văn hóa nhạy bén về an toàn thông tin có thể có các biện pháp bảo mật chặt chẽ và tuân thủ cao về quy định về bảo mật thông tin.
++ Tính linh hoạt và sẵn sàng thay đổi: Một văn hóa tổ chức linh hoạt và sẵn sàng thay đổi có thể tạo điều kiện thuận lợi cho việc cập nhật và cải tiến hệ thống thông tin theo thời gian.
++ Tính tương tác xã hội: Văn hóa tổ chức có thể ảnh hưởng đến cách các thành viên tương tác với nhau và với hệ thống thông tin. Một văn hóa khuyến khích sự hợp tác và giao tiếp hiệu quả có thể cải thiện sử dụng hệ thống thông tin.
++ Tính trách nhiệm và quản lý: Văn hóa tổ chức cũng có thể liên quan đến cách quản lý thông tin và phân phối trách nhiệm về việc quản lý thông tin. Tính trách nhiệm và quản lý thông tin chính xác có thể đảm bảo thông tin được lưu trữ và sử dụng một cách hiệu quả.
+- Văn hóa tổ chức là một lực lượng đoàn kết mạnh mẽ giúp kiềm chế xung đột chính trị và thúc đẩy sự hiểu biết chung, thỏa thuận về các thủ tục và thông lệ chung. Nếu tất cả chúng ta đều có chung những giả định văn hóa cơ bản giống nhau thì khả năng nhất trí về các vấn đề khác sẽ cao hơn. Đồng thời, văn hóa tổ chức là lực cản mạnh mẽ đối với sự thay đổi, đặc biệt là thay đổi công nghệ. Hầu hết các tổ chức sẽ làm hầu hết mọi việc để tránh phải thay đổi các giả định cơ bản. Bất kỳ sự thay đổi công nghệ nào đe dọa đến các giả định văn hóa thông thường thường gặp phải rất nhiều sự phản kháng.
+- Tuy nhiên, có những lúc cách hợp lý duy nhất để một công ty tiến lên là sử dụng một công nghệ mới phản đối trực tiếp văn hóa tổ chức hiện có. Khi điều này xảy ra, công nghệ thường bị đình trệ trong khi nền văn hóa dần điều chỉnh.
 VD: Bạn có thể thấy văn hóa tổ chức tại nơi làm việc bằng cách quan sát xung quanh
  trường đại học hoặc cao đẳng của bạn. Một số giả định cơ bản của cuộc sống đại học
  là các giáo sư biết nhiều hơn sinh viên, lý do sinh viên vào đại học là để học và
