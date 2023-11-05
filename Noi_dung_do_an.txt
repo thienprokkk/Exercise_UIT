@@ -64,19 +64,32 @@ B3)) Nêu vai trò của Httt trong thương mại điện tử.
 B4)) Thương mại điện tử có thể hoạt động mà không cần Httt không?
 
 Không. 
--Vì hệ thống thông tin cung cấp cơ sở hạ tầng cần thiết để thực hiện các giao dịch trực tuyến, quản lý dữ liệu, và tương tác với khách hàng. Nó giúp tự động hóa các quy trình, tăng cường bảo mật, và hỗ trợ phân tích dữ liệu để cải thiện quyết định kinh doanh. Không những thế, khả năng tiếp cận thông tin, tốc độ và tính minh bạch của giao dịch là những lợi thế cốt lõi mà thương mại điện tử mang lại so với thương mại truyền thống. Nếu không có hệ thống thông tin, những lợi thế trên sẽ không tồn tại, nên thương mại điện tử cũng sẽ không thể duy trì và phát triển.
+-Vì hệ thống thông tin cung cấp cơ sở hạ tầng cần thiết để thực hiện các giao dịch trực tuyến, quản lý dữ liệu, và tương tác với khách hàng.
+ Nó giúp tự động hóa các quy trình, tăng cường bảo mật, và hỗ trợ phân tích dữ liệu để cải thiện quyết định kinh doanh.
+ Không những thế, khả năng tiếp cận thông tin, tốc độ và tính minh bạch của giao dịch là những lợi thế cốt lõi mà
+ thương mại điện tử mang lại so với thương mại truyền thống. Nếu không có hệ thống thông tin, những lợi thế trên
+ sẽ không tồn tại, nên thương mại điện tử cũng sẽ không thể duy trì và phát triển.
+- Hệ thống thông tin là một phần quan trọng trong việc thực hiện và quản lý
+ các giao dịch thương mại điện tử. Hệ thống thông tin liên quan đến việc
+ lưu trữ, xử lý, và truyền tải dữ liệu liên quan đến các sản phẩm, đơn hàng,
+ thanh toán, thông tin khách hàng, và nhiều khía cạnh khác của
+ hoạt động thương mại điện tử.
+- Hệ thống thông tin thương mại điện tử bao gồm các phần mềm, máy chủ, cơ sở
+ dữ liệu, mạng kết nối, và các công nghệ khác để hỗ trợ quá trình mua sắm trực
+ tuyến, thanh toán điện tử, quản lý hàng tồn kho, theo dõi đơn hàng, và tương
+ tác với khách hàng. Nó cũng liên quan đến việc bảo mật thông tin cá nhân và
+ thanh toán của người dùng, quản lý dữ liệu khách hàng, và nhiều khía cạnh quản
+ lý khác của doanh nghiệp thương mại điện tử.
+- Một hệ thống thông tin mạnh mẽ và bảo mật là rất quan trọng trong việc đảm bảo
+ rằng thương mại điện tử có thể hoạt động hiệu quả và an toàn cho cả người bán
+ và người mua.
 -Vai trò của hệ thống thông tin trong thương mại điện tử:
-        +Tự động hóa quy trình: Hệ thống thông tin giúp tự động hóa các quy trình từ đặt hàng, xác nhận, đến giao hàng, giảm bớt sự can thiệp của con người và giảm thiểu sai sót.
-
-        +Quản lý dữ liệu khách hàng: Thông tin của khách hàng và hành vi mua hàng được thu thập, lưu trữ và phân tích thông qua hệ thống thông tin, giúp doanh nghiệp nhắm đúng đối tượng và cá nhân hóa dịch vụ.
-
-        +Tối ưu hóa chuỗi cung ứng: Hệ thống thông tin cung cấp cái nhìn tổng quan về chuỗi cung ứng, từ việc quản lý nhà cung cấp đến quản lý tồn kho và dự báo nhu cầu, giúp doanh nghiệp giảm thiểu chi phí và tăng hiệu quả.
-
-        +An ninh và giao dịch: An ninh mạng là một yếu tố quan trọng trong thương mại điện tử. Hệ thống thông tin đóng vai trò cốt yếu trong việc bảo vệ thông tin của cả người mua và người bán, đồng thời đảm bảo rằng các giao dịch được xử lý an toàn.
-
-        +Tương tác với khách hàng: Hệ thống thông tin giúp tự động hóa tương tác với khách hàng thông qua chatbots và dịch vụ hỗ trợ trực tuyến, cung cấp câu trả lời nhanh chóng và thông tin cần thiết cho khách hàng mà không cần sự can thiệp trực tiếp từ con người.
-
-        +Quản lý sau bán hàng: Các chính sách đổi trả, bảo hành và hỗ trợ sau bán hàng cũng được hỗ trợ bởi hệ thống thông tin, giúp khách hàng có thể dễ dàng liên hệ và giải quyết vấn đề sau khi mua hàng.
+    + Tự động hóa quy trình: Hệ thống thông tin giúp tự động hóa các quy trình từ đặt hàng, xác nhận, đến giao hàng, giảm bớt sự can thiệp của con người và giảm thiểu sai sót.
+    + Quản lý dữ liệu khách hàng: Thông tin của khách hàng và hành vi mua hàng được thu thập, lưu trữ và phân tích thông qua hệ thống thông tin, giúp doanh nghiệp nhắm đúng đối tượng và cá nhân hóa dịch vụ.
+    + Tối ưu hóa chuỗi cung ứng: Hệ thống thông tin cung cấp cái nhìn tổng quan về chuỗi cung ứng, từ việc quản lý nhà cung cấp đến quản lý tồn kho và dự báo nhu cầu, giúp doanh nghiệp giảm thiểu chi phí và tăng hiệu quả.
+    + An ninh và giao dịch: An ninh mạng là một yếu tố quan trọng trong thương mại điện tử. Hệ thống thông tin đóng vai trò cốt yếu trong việc bảo vệ thông tin của cả người mua và người bán, đồng thời đảm bảo rằng các giao dịch được xử lý an toàn.
+    + Tương tác với khách hàng: Hệ thống thông tin giúp tự động hóa tương tác với khách hàng thông qua chatbots và dịch vụ hỗ trợ trực tuyến, cung cấp câu trả lời nhanh chóng và thông tin cần thiết cho khách hàng mà không cần sự can thiệp trực tiếp từ con người.
+    + Quản lý sau bán hàng: Các chính sách đổi trả, bảo hành và hỗ trợ sau bán hàng cũng được hỗ trợ bởi hệ thống thông tin, giúp khách hàng có thể dễ dàng liên hệ và giải quyết vấn đề sau khi mua hàng.
 
 ===Name: Nguyễn Đào Trọng Nhân===
 B5)) Trong thực tế có nhiều trường hợp khách hàng đã không hài lòng về chất
