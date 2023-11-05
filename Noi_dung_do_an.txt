@@ -26,8 +26,44 @@ Người tiêu dùng đợi đến khi sản phẩm được giao đến địa 
 7. Hài lòng và đánh giá:
 - Nếu tôi hài lòng với sản phẩm, tôi có thể đánh giá sản phẩm và dịch vụ trên trang web hoặc ứng dụng để chia sẻ trải nghiệm của họ với người khác.
 
-Ví dụ trên minh họa cách một người tiêu dùng tham gia vào lĩnh vực thương mại điện tử bằng cách tìm kiếm, chọn, mua hàng và theo dõi quá trình giao hàng của một sản phẩm trực tuyến.Bên cạnh đó còn nhiều ví dụ cho thấy chúng ta còn tham gia vào thương mại điện tử như: Các dịch vụ thanh toán trực tuyến, đặt phòng hoặc đạt vé online,.... Công nghệ thông tin đã tạo ra sự thuận tiện, nhanh chóng và tính bảo mật trong các dịch vụ qua đó giúp cuộc sống của chúng ta phát triển tốt hơn
+Một ví dụ điển hình khác cho thấy ta đang tham gia vào lĩnh vực thương mại điện tử là: Thanh toán các hoá đơn trực tuyến
+1. Đăng nhập vào tài khoản ngân hàng:
+- Một người tiêu dùng nhận hóa đơn tiện ích hàng tháng từ nhà cung cấp dịch vụ cng cộng như điện, nước, và internet. Thay vì thanh toán bằng cách truy cập văn phòng hoặc gửi hóa đơn qua thư, họ đăng nhập vào tài khoản ngân hàng trực tuyến của họ.
 
+2. Chọn hóa đơn cần thanh toán:
+- Họ chọn loại hóa đơn mà họ muốn thanh toán, chẳng hạn như hóa đơn điện. Họ cung cấp các thông tin cần thiết về hóa đơn như số hóa đơn hoặc mã khách hàng.
+
+3. Xác nhận số tiền và thanh toán:
+- Hệ thống ngân hàng hiển thị số tiền cần thanh toán dựa trên hóa đơn và thông tin hóa đơn. Họ xác nhận số tiền và sau đó tiến hành thanh toán bằng cách chọn tài khoản nguồn và phương thức thanh toán, thường là thẻ tín dụng hoặc tài khoản ngân hàng.
+
+4. Xác nhận và lưu hóa đơn:
+- Sau khi thanh toán, họ nhận được xác nhận thanh toán thông qua email hoặc thông báo từ ngân hàng, và hóa đơn được đánh dấu là đã thanh toán và lưu trữ trong tài khoản ngân hàng trực tuyến của họ.
+
+
+Một ví dụ khác về việc đặt phòng trực tuyến
+Dưới đây là 
+
+
+1. Lựa chọn địa điểm và ngày lưu trú:
+- Một người muốn đặt khách sạn cho kỳ nghỉ sắp tới. Họ sử dụng trình duyệt web hoặc ứng dụng di động của các trang web đặt phòng khách sạn, chẳng hạn như Booking.com, Expedia hoặc Airbnb.
+
+2. Nhập thông tin:
+- Họ nhập thông tin về địa điểm, ngày lưu trú, số lượng khách, và bất kỳ yêu cầu đặc biệt nào, chẳng hạn như loại phòng hoặc tiện ích.
+
+3. Tìm và so sánh khách sạn:
+- Hệ thống trang web hoặc ứng dụng tìm kiếm và hiển thị danh sách các khách sạn có sẵn dựa trên thông tin đã nhập. Họ có thể so sánh giá cả, tiện ích của khách sạn, đánh giá từ khách hàng trước đây và vị trí của từng khách sạn.
+
+4. Chọn khách sạn và loại phòng:
+- Sau khi tìm thấy lựa chọn phù hợp, họ chọn khách sạn và loại phòng mà họ muốn đặt. Họ có thể xem hình ảnh và mô tả chi tiết về từng phòng.
+
+5. Thanh toán và xác nhận:
+- Họ tiến hành thanh toán trực tuyến bằng cách sử dụng thẻ tín dụng hoặc các phương thức thanh toán trực tuyến khác. Sau khi hoàn tất thanh toán, họ nhận được xác nhận đặt phòng qua email hoặc thông báo từ trang web hoặc ứng dụng.
+
+6. Check-in và lưu trú:
+- Khi đến khách sạn, họ thường chỉ cần xuất trình thẻ lên máy bay điện tử và làm thủ tục nhận phòng. Họ sẽ nhận được thông tin về việc sử dụng tiện ích của khách sạn và các hướng dẫn cần thiết cho thời gian lưu trú.
+
+7. Check-out:
+- Sau khi kỳ nghỉ kết thúc, họ có thể check-out và thanh toán bất kỳ dịch vụ bổ sung nào mà họ đã sử dụng trong suốt thời gian lưu trú.
 ===Name: Ngô Tùng Nhân===
 B2)) Bạn nghĩ gì về lợi ích của thương mại điện tử so với thương mại truyền thống
 
