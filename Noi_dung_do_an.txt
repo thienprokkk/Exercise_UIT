@@ -11,19 +11,20 @@ TĂNG TỐC NÀO!!
 B1)) Đưa ra một vd cho thấy bạn đang tham gia vào lĩnh vực thương mại điện tử.
 Một ví dụ điển hình cho thấy tôi đang tham gia vào lĩnh vực thương mại điện tử là mua hàng trên các sàn thương mại điện tử
 
-1. **Tìm kiếm sản phẩm:** Khi tôi có nhu cầu mua một thứ gì đó nhưng không muốn phải tới tận nơi để mua hay không bán ở nơi sinh sống thì sàn thương mại điện tử là giải pháp hiệu quả nhất, tôi sử dụng máy tính hoặc điện thoại di động để truy cập trang web thương mại điện tử hoặc ứng dụng mua sắm như: Shoppe, Lazada, TikTok shop. Tôi có thể sử dụng công cụ tìm kiếm trên trang web hoặc ứng dụng để tìm những thứ mình mong muốn rất nhanh chóng, thâm chí có thể tìm kiếm theo thương hiệu, giá, tính năng, và các tiêu chí khác.
-
-2. **Chọn sản phẩm:** Sau khi xem qua một số lựa chọn, tôi có thể chọn cho mình một món đồ cụ thể dựa trên mức giá và tính năng mà tôi quan tâm. Hơn nữa tôi có thể xem hình ảnh, mô tả sản phẩm và đánh giá từ người dùng khác để xác định liệu món đồ mình chọn này có phù hợp hay không.
-
-3. **Đặt hàng và thanh toán:** Sau khi đã chọn sản phẩm, họ thêm sản phẩm vào giỏ hàng ảo và tiến hành thanh toán. Tôi cung cấp thông tin thanh toán, bao gồm thông tin thẻ tín dụng hoặc sử dụng các phương thức thanh toán trực tuyến khác như ví điện tử. Họ cũng kiểm tra thông tin vận chuyển và xác định địa chỉ giao hàng.
-
-4. **Xác nhận đơn hàng:** Sau khi hoàn tất thanh toán, họ nhận được xác nhận đơn hàng thông qua email hoặc thông báo trên ứng dụng mua sắm. Xác nhận này bao gồm thông tin về đơn hàng, số đơn hàng, và thời gian dự kiến giao hàng.
-
-5. **Giao hàng:** Người tiêu dùng đợi đến khi sản phẩm được giao đến địa chỉ đã chỉ định. Tôi có thể theo dõi tiến trình giao hàng qua ứng dụng hoặc trang web mua sắm.
-
-6. **Nhận và kiểm tra sản phẩm:** Sau khi nhận sản phẩm, tôi kiểm tra sản phẩm để đảm bảo rằng nó đúng với mô tả, không bị hỏng hoặc có lỗi sản xuất, hoặc có thể trả lại, yêu cầu đổi trả nếu không như mãu mã đã đặt.
-
-7. **Hài lòng và đánh giá:** Nếu tôi hài lòng với sản phẩm, tôi có thể đánh giá sản phẩm và dịch vụ trên trang web hoặc ứng dụng để chia sẻ trải nghiệm của họ với người khác.
+1. Tìm kiếm sản phẩm:
+- Khi tôi có nhu cầu mua một thứ gì đó nhưng không muốn phải tới tận nơi để mua hay không bán ở nơi sinh sống thì sàn thương mại điện tử là giải pháp hiệu quả nhất, tôi sử dụng máy tính hoặc điện thoại di động để truy cập trang web thương mại điện tử hoặc ứng dụng mua sắm như: Shoppe, Lazada, TikTok shop. Tôi có thể sử dụng công cụ tìm kiếm trên trang web hoặc ứng dụng để tìm những thứ mình mong muốn rất nhanh chóng, thâm chí có thể tìm kiếm theo thương hiệu, giá, tính năng, và các tiêu chí khác.
+2. Chọn sản phẩm:
+- Sau khi xem qua một số lựa chọn, tôi có thể chọn cho mình một món đồ cụ thể dựa trên mức giá và tính năng mà tôi quan tâm. Hơn nữa tôi có thể xem hình ảnh, mô tả sản phẩm và đánh giá từ người dùng khác để xác định liệu món đồ mình chọn này có phù hợp hay không.
+3. Đặt hàng và thanh toán:
+- Sau khi đã chọn sản phẩm, họ thêm sản phẩm vào giỏ hàng ảo và tiến hành thanh toán. Tôi cung cấp thông tin thanh toán, bao gồm thông tin thẻ tín dụng hoặc sử dụng các phương thức thanh toán trực tuyến khác như ví điện tử. Họ cũng kiểm tra thông tin vận chuyển và xác định địa chỉ giao hàng.
+4. Xác nhận đơn hàng:
+- Sau khi hoàn tất thanh toán, họ nhận được xác nhận đơn hàng thông qua email hoặc thông báo trên ứng dụng mua sắm. Xác nhận này bao gồm thông tin về đơn hàng, số đơn hàng, và thời gian dự kiến giao hàng.
+5. Giao hàng:
+Người tiêu dùng đợi đến khi sản phẩm được giao đến địa chỉ đã chỉ định. Tôi có thể theo dõi tiến trình giao hàng qua ứng dụng hoặc trang web mua sắm.
+6. Nhận và kiểm tra sản phẩm:
+- Sau khi nhận sản phẩm, tôi kiểm tra sản phẩm để đảm bảo rằng nó đúng với mô tả, không bị hỏng hoặc có lỗi sản xuất, hoặc có thể trả lại, yêu cầu đổi trả nếu không như mãu mã đã đặt.
+7. Hài lòng và đánh giá:
+- Nếu tôi hài lòng với sản phẩm, tôi có thể đánh giá sản phẩm và dịch vụ trên trang web hoặc ứng dụng để chia sẻ trải nghiệm của họ với người khác.
 
 Ví dụ trên minh họa cách một người tiêu dùng tham gia vào lĩnh vực thương mại điện tử bằng cách tìm kiếm, chọn, mua hàng và theo dõi quá trình giao hàng của một sản phẩm trực tuyến.Bên cạnh đó còn nhiều ví dụ cho thấy chúng ta còn tham gia vào thương mại điện tử như: Các dịch vụ thanh toán trực tuyến, đặt phòng hoặc đạt vé online,.... Công nghệ thông tin đã tạo ra sự thuận tiện, nhanh chóng và tính bảo mật trong các dịch vụ qua đó giúp cuộc sống của chúng ta phát triển tốt hơn
 

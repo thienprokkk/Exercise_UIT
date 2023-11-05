@@ -115,6 +115,7 @@ VD: Khi Công ty Hóa chất Eastman tách khỏi Kodak vào năm 1994, công ty
 VD: công nghệ thông tin mở rộng sức mạnh và phạm vi của các tổ chức nhỏ bằng cách cho phép họ thực hiện các hoạt động phối hợp như xử lý đơn đặt hàng hoặc theo dõi hàng tồn kho với rất ít nhân viên và người quản lý.
 Vì CNTT làm giảm cả chi phí đại diện và chi phí giao dịch cho doanh nghiệp nên chúng ta kỳ vọng quy mô doanh nghiệp sẽ giảm theo thời gian khi có nhiều vốn đầu tư vào CNTT. Các công ty nên có ít người quản lý hơn và chúng tôi kỳ vọng doanh thu trên mỗi nhân viên sẽ tăng theo thời gian.
 
+==Name: Phạm Thái Sơn==
 2)	TÁC ĐỘNG VỀ TỔ CHỨC VÀ HÀNH VI
 Hệ thống thông tin và công nghệ thông tin (CNTT) có ảnh hưởng đáng kể đến tổ chức hành vi trong nhiều khía cạnh. Dưới đây là một số cách mà chúng tác động:
     - Cải thiện khả năng giao tiếp: CNTT cung cấp các công cụ giao tiếp hiệu quả, như email, tin nhắn tức thì, và các ứng dụng trò chuyện, giúp tăng cường sự liên lạc giữa các thành viên trong tổ chức. Điều này có thể dẫn đến sự hiểu biết và đồng thuận tốt hơn trong tổ chức.
@@ -124,7 +125,6 @@ Hệ thống thông tin và công nghệ thông tin (CNTT) có ảnh hưởng đ
     - Cải thiện quá trình ra quyết định: CNTT cung cấp dữ liệu và công cụ phân tích để hỗ trợ quá trình ra quyết định. Quản lý có thể dựa vào dữ liệu số hóa để đưa ra quyết định thông minh hơn và dự đoán xu hướng.
     - Tạo ra cơ hội mới: CNTT cung cấp cơ hội cho các tổ chức để phát triển các dự án và sản phẩm mới. Đặc biệt là trong lĩnh vực công nghệ cao, CNTT có thể tạo ra sự đổi mới và cơ hội kinh doanh mới.
     - Bảo mật thông tin: CNTT cũng đặt ra thách thức về bảo mật thông tin. Việc quản lý và bảo vệ dữ liệu quan trọng trở nên quan trọng hơn bao giờ hết để ngăn chặn sự xâm nhập và việc lộ thông tin.
-
 Như vậy, hệ thống thông tin và công nghệ thông tin đã thay đổi cách tổ chức hoạt động và tác động đến hành vi của nhân viên, quản lý và khách hàng. Chúng cung cấp cơ hội lớn để nâng cao hiệu suất và sự linh hoạt, nhưng cũng đòi hỏi sự quản lý cẩn thận để đảm bảo bảo mật và sử dụng chúng một cách hiệu quả.
 
 ==Name: Nguyễn Đào Trọng Nhân== NO
