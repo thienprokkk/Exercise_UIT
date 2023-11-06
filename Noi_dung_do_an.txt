@@ -9,8 +9,8 @@ TĂNG TỐC NÀO!!
 
 ===Name: Phạm Thái Sơn=== YES
 B1)) Đưa ra một vd cho thấy bạn đang tham gia vào lĩnh vực thương mại điện tử.
-Một ví dụ điển hình cho thấy tôi đang tham gia vào lĩnh vực thương mại điện tử là mua hàng trên các sàn thương mại điện tử
 
+Một ví dụ điển hình cho thấy tôi đang tham gia vào lĩnh vực thương mại điện tử là mua hàng trên các sàn thương mại điện tử
 1. Tìm kiếm sản phẩm:
 - Khi tôi có nhu cầu mua một thứ gì đó nhưng không muốn phải tới tận nơi để mua hay không bán ở nơi sinh sống thì sàn thương mại điện tử là giải pháp hiệu quả nhất, tôi sử dụng máy tính hoặc điện thoại di động để truy cập trang web thương mại điện tử hoặc ứng dụng mua sắm như: Shoppe, Lazada, TikTok shop. Tôi có thể sử dụng công cụ tìm kiếm trên trang web hoặc ứng dụng để tìm những thứ mình mong muốn rất nhanh chóng, thâm chí có thể tìm kiếm theo thương hiệu, giá, tính năng, và các tiêu chí khác.
 2. Chọn sản phẩm:
@@ -29,41 +29,69 @@ Người tiêu dùng đợi đến khi sản phẩm được giao đến địa 
 Một ví dụ điển hình khác cho thấy ta đang tham gia vào lĩnh vực thương mại điện tử là: Thanh toán các hoá đơn trực tuyến
 1. Đăng nhập vào tài khoản ngân hàng:
 - Một người tiêu dùng nhận hóa đơn tiện ích hàng tháng từ nhà cung cấp dịch vụ cng cộng như điện, nước, và internet. Thay vì thanh toán bằng cách truy cập văn phòng hoặc gửi hóa đơn qua thư, họ đăng nhập vào tài khoản ngân hàng trực tuyến của họ.
-
 2. Chọn hóa đơn cần thanh toán:
 - Họ chọn loại hóa đơn mà họ muốn thanh toán, chẳng hạn như hóa đơn điện. Họ cung cấp các thông tin cần thiết về hóa đơn như số hóa đơn hoặc mã khách hàng.
-
 3. Xác nhận số tiền và thanh toán:
 - Hệ thống ngân hàng hiển thị số tiền cần thanh toán dựa trên hóa đơn và thông tin hóa đơn. Họ xác nhận số tiền và sau đó tiến hành thanh toán bằng cách chọn tài khoản nguồn và phương thức thanh toán, thường là thẻ tín dụng hoặc tài khoản ngân hàng.
-
 4. Xác nhận và lưu hóa đơn:
 - Sau khi thanh toán, họ nhận được xác nhận thanh toán thông qua email hoặc thông báo từ ngân hàng, và hóa đơn được đánh dấu là đã thanh toán và lưu trữ trong tài khoản ngân hàng trực tuyến của họ.
 
-
 Một ví dụ khác về việc đặt phòng trực tuyến
-Dưới đây là 
-
-
 1. Lựa chọn địa điểm và ngày lưu trú:
 - Một người muốn đặt khách sạn cho kỳ nghỉ sắp tới. Họ sử dụng trình duyệt web hoặc ứng dụng di động của các trang web đặt phòng khách sạn, chẳng hạn như Booking.com, Expedia hoặc Airbnb.
-
 2. Nhập thông tin:
 - Họ nhập thông tin về địa điểm, ngày lưu trú, số lượng khách, và bất kỳ yêu cầu đặc biệt nào, chẳng hạn như loại phòng hoặc tiện ích.
-
 3. Tìm và so sánh khách sạn:
 - Hệ thống trang web hoặc ứng dụng tìm kiếm và hiển thị danh sách các khách sạn có sẵn dựa trên thông tin đã nhập. Họ có thể so sánh giá cả, tiện ích của khách sạn, đánh giá từ khách hàng trước đây và vị trí của từng khách sạn.
-
 4. Chọn khách sạn và loại phòng:
 - Sau khi tìm thấy lựa chọn phù hợp, họ chọn khách sạn và loại phòng mà họ muốn đặt. Họ có thể xem hình ảnh và mô tả chi tiết về từng phòng.
-
 5. Thanh toán và xác nhận:
 - Họ tiến hành thanh toán trực tuyến bằng cách sử dụng thẻ tín dụng hoặc các phương thức thanh toán trực tuyến khác. Sau khi hoàn tất thanh toán, họ nhận được xác nhận đặt phòng qua email hoặc thông báo từ trang web hoặc ứng dụng.
-
 6. Check-in và lưu trú:
 - Khi đến khách sạn, họ thường chỉ cần xuất trình thẻ lên máy bay điện tử và làm thủ tục nhận phòng. Họ sẽ nhận được thông tin về việc sử dụng tiện ích của khách sạn và các hướng dẫn cần thiết cho thời gian lưu trú.
-
 7. Check-out:
 - Sau khi kỳ nghỉ kết thúc, họ có thể check-out và thanh toán bất kỳ dịch vụ bổ sung nào mà họ đã sử dụng trong suốt thời gian lưu trú.
+
+Đăng kí các khoá học trực tuyến
+1: Truy cập nền tảng học trực tuyến
+- Học viên bắt đầu bằng việc truy cập nền tảng học trực tuyến. Ví dụ, họ có thể truy cập trang web của một trường đại học trực tuyến hoặc một trung tâm đào tạo trực tuyến như Coursera, Udemy, hay edX.
+2: Tìm khóa học
+- Sau khi truy cập nền tảng, học viên tìm kiếm khóa học mà họ quan tâm. Ví dụ, nếu họ muốn học về lập trình Python, họ sẽ tìm kiếm các khóa học liên quan đến Python trên nền tảng.
+3: Đăng ký vào khóa học
+- Học viên chọn khóa học mà họ muốn tham gia và đăng ký. Thường, họ sẽ cần tạo một tài khoản trên nền tảng học trực tuyến và sau đó đăng ký vào khóa học bằng cách cung cấp thông tin cá nhân và thông tin thanh toán (nếu có phí).
+4: Truy cập tài liệu giảng dạy
+- Sau khi đăng ký, học viên có quyền truy cập vào tài liệu giảng dạy của khóa học. Điều này có thể bao gồm video bài giảng, bài giảng trực tuyến, tài liệu học tập, bài tập, và các tài liệu tham khảo khác.
+5: Học tại lịch trình cá nhân
+- Một trong những lợi ích lớn của học trực tuyến là tính linh hoạt về thời gian. Học viên có thể học vào bất kỳ thời điểm nào phù hợp với họ. Họ có thể xem video bài giảng, đọc tài liệu, và hoàn thành bài tập trong lịch trình cá nhân của họ.
+6: Tham gia vào diễn đàn và giao tiếp với giảng viên
+- Trong hầu hết các khóa học trực tuyến, học viên có cơ hội tham gia vào diễn đàn hoặc nhóm trò chuyện để thảo luận với các đồng học và trao đổi thông tin với giảng viên. Điều này giúp họ có sự hỗ trợ và tương tác trong quá trình học tập.
+7: Hoàn thành bài kiểm tra và đánh giá
+- Khóa học thường có các bài kiểm tra trực tuyến hoặc bài tập đánh giá. Học viên phải hoàn thành chúng để đạt được chứng chỉ hoặc điểm số dự kiến. Đánh giá này thường được thực hiện trực tuyến và gửi qua nền tảng học trực tuyến.
+8: Nhận chứng chỉ hoặc chứng nhận
+- Sau khi hoàn thành khóa học và đáp ứng các yêu cầu, học viên có thể nhận chứng chỉ hoặc chứng nhận kỹ năng từ trường hoặc tổ chức đào tạo. Chứng chỉ này có thể sử dụng cho mục đích nghề nghiệp hoặc cá nhân.
+
+Mua và tải phần mềm trực tuyến
+1: Truy cập cửa hàng ứng dụng hoặc trang web phần mềm
+- Truy cập cửa hàng ứng dụng: Nếu bạn muốn tải ứng dụng di động, bạn truy cập vào cửa hàng ứng dụng của hệ điều hành di động trên thiết bị của bạn. Ví dụ, truy cập App Store cho iOS hoặc Google Play Store cho Android hoặc các ứng dụng khác như Steam, Microsolf store,...
+- Truy cập trang web phần mềm: Nếu bạn muốn tải phần mềm trên máy tính, bạn truy cập trang web của nhà phát triển hoặc cửa hàng trực tuyến như Microsoft Store, Adobe Creative Cloud hoặc trang web của công ty phần mềm.
+2: Tìm kiếm phần mềm
+- Sử dụng công cụ tìm kiếm: Trong cửa hàng ứng dụng hoặc trang web, bạn sử dụng công cụ tìm kiếm để tìm phần mềm bạn cần. Bạn có thể tìm theo tên phần mềm, loại ứng dụng, hoặc từ khoá liên quan.
+3: Chọn và xem chi tiết phần mềm
+- Chọn phần mềm: Sau khi tìm thấy phần mềm bạn quan tâm, bạn nhấp vào biểu tượng hoặc tên phần mềm để xem chi tiết.
+- Xem thông tin phần mềm: Bạn xem thông tin về phần mềm, bao gồm mô tả, tính năng, phiên bản, đánh giá, và giá cả. Bạn có thể đọc đánh giá từ người dùng khác để đưa ra quyết định.
+4: Mua và thanh toán
+- Chọn phiên bản và giá cả: Nếu có nhiều phiên bản hoặc gói phần mềm khác nhau, bạn chọn phiên bản mà bạn muốn mua và xác định giá cả.
+- Thêm vào giỏ hàng: Sau khi chọn phiên bản và gói phần mềm, bạn thêm chúng vào giỏ hàng của bạn.
+- Kiểm tra giỏ hàng: Bạn kiểm tra giỏ hàng để đảm bảo các mục bạn muốn mua là chính xác.
+- Thanh toán trực tuyến: Bạn tiến hành thanh toán trực tuyến bằng cách chọn phương thức thanh toán như thẻ tín dụng, PayPal, hoặc ví điện tử. Bạn cung cấp thông tin thanh toán và xác nhận đơn hàng.
+5: Tải và cài đặt phần mềm
+- Hoàn tất thanh toán: Sau khi thanh toán được chấp nhận, bạn nhận được thông báo và có quyền tải xuống phần mềm.
+- Tải phần mềm Bạn tải phần mềm xuống máy tính hoặc thiết bị di động của bạn thông qua liên kết được cung cấp.
+- Cài đặt phần mềm: Bạn cài đặt phần mềm theo hướng dẫn từ nhà phát triển. Thông thường, bạn sẽ mở tệp tải về và tuân theo quy trình cài đặt.
+6: Sử dụng phần mềm
+- Sau khi cài đặt hoàn tất, bạn có thể bắt đầu sử dụng phần mềm trên thiết bị của mình.
+
+
 ===Name: Ngô Tùng Nhân=== YES
 B2)) Bạn nghĩ gì về lợi ích của thương mại điện tử so với thương mại truyền thống
 
