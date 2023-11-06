@@ -38,9 +38,22 @@ Dưới đây là một số lợi ích chính của thương mại điện tử
  giúp giao dịch trực tuyến trở nên an toàn hơn. Hình thức thanh toán trực
  tuyến như ví điện tử, thẻ tín dụng,... cung cấp tính bảo mật và tiện lợi
  cho người dùng.
-
-
+___________________________________________________________________________________________________________________________________________________________________
+Tiện lợi                   |Lợi: Mua sắm 24/7 từ mọi nơi thông qua internet.                                           |Bất lợi: Phải đến cửa hàng theo giờ làm 
+                           |                                                                                           |việc của họ.
+Sự lựa chọn đa dạng        |Lợi: Truy cập đến hàng ngàn sản phẩm và nhà cung cấp trực tuyến.                           |Bất lợi: Có giới hạn trong việc lựa chọn 
+                           |                                                                                           |sản phẩm tại một cửa hàng.
+So sánh giá dễ dàng        |Lợi: Dễ dàng so sánh giá và tìm ưu đãi trực tuyến.                                         |Bất lợi: Thường cần phải di chuyển đến 
+                           |                                                                                           |nhiều cửa hàng để so sánh giá.
+Tiết kiệm thời gian        |Lợi: Không cần di chuyển hoặc xếp hàng tại cửa hàng.                                       |Bất lợi: Thường phải dành thời gian di 
+                           |                                                                                           |chuyển và xếp hàng.
+Thanh toán tiện lợi        |Lợi: Thanh toán trực tuyến bằng thẻ tín dụng, ví điện tử, và các hình thức thanh toán khác.|Bất lợi: Thanh toán bằng tiền mặt hoặc thẻ 
+                           |                                                                                           |tín dụng tại cửa hàng.
+Theo dõi lịch sử giao dịch |Lợi: Dễ dàng theo dõi lịch sử mua sắm và đặt hàng trực tuyến.                              |Bất lợi: Thường khó theo dõi lịch sử giao 
+                           |                                                                                           |dịch khi mua sắm tại cửa hàng.
+___________________________|___________________________________________________________________________________________|___________________________________________
 ===Name: ===
+
 B3)) Nêu vai trò của Httt trong thương mại điện tử.
 
 
