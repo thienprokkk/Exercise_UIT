@@ -7,7 +7,7 @@ Cùng với người bạn AI của mình (chatgpt, bing chat,...) bạn hãy tr
 TĂNG TỐC NÀO!!
 
 
-===Name: Phạm Thái Sơn===
+===Name: Phạm Thái Sơn=== YES
 B1)) Đưa ra một vd cho thấy bạn đang tham gia vào lĩnh vực thương mại điện tử.
 Một ví dụ điển hình cho thấy tôi đang tham gia vào lĩnh vực thương mại điện tử là mua hàng trên các sàn thương mại điện tử
 
@@ -64,7 +64,7 @@ Dưới đây là
 
 7. Check-out:
 - Sau khi kỳ nghỉ kết thúc, họ có thể check-out và thanh toán bất kỳ dịch vụ bổ sung nào mà họ đã sử dụng trong suốt thời gian lưu trú.
-===Name: Ngô Tùng Nhân===
+===Name: Ngô Tùng Nhân=== YES
 B2)) Bạn nghĩ gì về lợi ích của thương mại điện tử so với thương mại truyền thống
 
 Thương mại điện tử có nhiều lợi ích so với thương mại truyền thống.
@@ -88,6 +88,20 @@ Dưới đây là một số lợi ích chính của thương mại điện tử
  giúp giao dịch trực tuyến trở nên an toàn hơn. Hình thức thanh toán trực
  tuyến như ví điện tử, thẻ tín dụng,... cung cấp tính bảo mật và tiện lợi
  cho người dùng.
+___________________________________________________________________________________________________________________________________________________________________
+Tiện lợi                   |Lợi: Mua sắm 24/7 từ mọi nơi thông qua internet.                                           |Bất lợi: Phải đến cửa hàng theo giờ làm 
+                           |                                                                                           |việc của họ.
+Sự lựa chọn đa dạng        |Lợi: Truy cập đến hàng ngàn sản phẩm và nhà cung cấp trực tuyến.                           |Bất lợi: Có giới hạn trong việc lựa chọn 
+                           |                                                                                           |sản phẩm tại một cửa hàng.
+So sánh giá dễ dàng        |Lợi: Dễ dàng so sánh giá và tìm ưu đãi trực tuyến.                                         |Bất lợi: Thường cần phải di chuyển đến 
+                           |                                                                                           |nhiều cửa hàng để so sánh giá.
+Tiết kiệm thời gian        |Lợi: Không cần di chuyển hoặc xếp hàng tại cửa hàng.                                       |Bất lợi: Thường phải dành thời gian di 
+                           |                                                                                           |chuyển và xếp hàng.
+Thanh toán tiện lợi        |Lợi: Thanh toán trực tuyến bằng thẻ tín dụng, ví điện tử, và các hình thức thanh toán khác.|Bất lợi: Thanh toán bằng tiền mặt hoặc thẻ 
+                           |                                                                                           |tín dụng tại cửa hàng.
+Theo dõi lịch sử giao dịch |Lợi: Dễ dàng theo dõi lịch sử mua sắm và đặt hàng trực tuyến.                              |Bất lợi: Thường khó theo dõi lịch sử giao 
+                           |                                                                                           |dịch khi mua sắm tại cửa hàng.
+___________________________|___________________________________________________________________________________________|___________________________________________
 
 
 
@@ -101,7 +115,7 @@ B3)) Nêu vai trò của Httt trong thương mại điện tử.
 
 
 
-===Name: Đinh Lâm Quốc Huy===
+===Name: Đinh Lâm Quốc Huy=== YES
 B4)) Thương mại điện tử có thể hoạt động mà không cần Httt không?
 
 Không. 
@@ -132,7 +146,7 @@ Không.
     + Tương tác với khách hàng: Hệ thống thông tin giúp tự động hóa tương tác với khách hàng thông qua chatbots và dịch vụ hỗ trợ trực tuyến, cung cấp câu trả lời nhanh chóng và thông tin cần thiết cho khách hàng mà không cần sự can thiệp trực tiếp từ con người.
     + Quản lý sau bán hàng: Các chính sách đổi trả, bảo hành và hỗ trợ sau bán hàng cũng được hỗ trợ bởi hệ thống thông tin, giúp khách hàng có thể dễ dàng liên hệ và giải quyết vấn đề sau khi mua hàng.
 
-===Name: Nguyễn Đào Trọng Nhân===
+===Name: Nguyễn Đào Trọng Nhân=== YES
 B5)) Trong thực tế có nhiều trường hợp khách hàng đã không hài lòng về chất
  lượng sản phẩm mà họ nhận được khi đặt hàng trên các sàn thương mại điện tử.
  Bạn hãy đưa ra một ý tưởng để giải quyết tình trạng trên?

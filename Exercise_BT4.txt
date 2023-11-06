@@ -14,21 +14,12 @@ I)) Những đặc trưng nào của tổ chức mà các nhà quản lý cần 
 - Để xây dựng và sử dụng hệ thống thông tin thành công trong một tổ chức, các nhà
  quản lý cần hiểu và tập trung vào các đặc trưng quan trọng sau đây:
 
-==Name: Võ Lưu Chí Thiện== NO
+==Name: Võ Lưu Chí Thiện== YES
 1)	THÓI QUEN VÀ QUY TRÌNH KINH DOANH
-- Tất cả các tổ chức, kể cả các doanh nghiệp, đều trở nên rất hiệu quả theo thời
- gian vì các cá nhân trong doanh nghiệp phát triển các thói quen sản xuất hàng
- hóa và dịch vụ. Các thói quen đôi khi được gọi là quy trình vận hành tiêu
- chuẩn là những quy tắc, thủ tục và thông lệ chính xác được phát triển để đối
- phó với hầu hết các tình huống dự kiến.
-- Khi nhân viên học những thói quen này, họ sẽ trở nên năng suất và hiệu quả
- cao hơn, đồng thời công ty có thể giảm chi phí theo thời gian khi hiệu quả
- tăng lên.
-- Một công ty kinh doanh là một tập hợp các quy trình kinh doanh.
-VD: khi bạn đến phòng khám của bác sĩ, nhân viên lễ tân có một loạt các quy trình
- được phát triển kỹ lưỡng để thu thập thông tin cơ bản từ bạn, các y tá có một loạt
- các quy trình khác để chuẩn bị cho bạn một cuộc phỏng vấn với bác sĩ và bác sĩ sẽ
- có một tập hợp các quy trình được phát triển tốt để chẩn đoán bạn.
+Các thói quen trong các tổ chức được gọi là quy trình vận hành tiêu chuẩn là những quy tắc, thủ tục và thông lệ chính xác được phát triển để đối phó với hầu hết các tình huống dự kiến.
+Quy trình kinh doanh được hiểu là một chuỗi các tiến trình được liên kết với nhau, mỗi bộ phận trong từng giai đoạn có chức năng thực hiện nhiệm vụ được phân công nhằm chuyên môn hóa để đạt được mục tiêu một cách tốt nhất.
+Một công ty kinh doanh là một tập hợp các quy trình kinh doanh. Tất cả các tổ chức, kể cả các doanh nghiệp, đều trở nên rất hiệu quả theo thời gian vì các cá nhân trong doanh nghiệp phát triển các thói quen sản xuất hàng hóa và dịch vụ. Khi nhân viên học những thói quen này, họ sẽ trở nên năng suất và hiệu quả cao hơn, đồng thời công ty có thể giảm chi phí theo thời gian khi hiệu quả tăng lên.
+Nhà máy cơ khí: Quá trình sản xuất trong một nhà máy cơ khí bao gồm nhiều quá trình khác nhau như chế tạo, gia công cắt gọt, gia công nhiệt, hoá, lắp nhanh, sửa chữa, chế tạo và phục hồi dụng cụ, vận chuyển.
 
 ==Name: Nguyễn Ngọc Lợi== YES
 2)	CHÍNH TRỊ TỔ CHỨC
@@ -108,7 +99,7 @@ Ngoài ra CNTT và HTTT giúp tổng hợp và phân tích dữ liệu, cung c�
 CNTT cung cấp các công cụ để tạo và duy trì mối quan hệ với khách hàng. Hệ thống quản lý quan hệ khách hàng (CRM) giúp doanh nghiệp theo dõi thông tin về khách hàng, tương tác với họ và cung cấp dịch vụ tốt hơn. Điều này có thể dẫn đến tăng cường doanh số bán hàng và xây dựng mối quan hệ dài hạn với khách hàng.
 HTTT tạo ra nhiều cơ hội việc làm trong lĩnh vực CNTT và thu hút nguồn nhân lực có kỹ năng CNTT. Tạo ra các cơ hội việc làm từ xa và tự do. Điều này không chỉ giúp giải quyết vấn đề thất nghiệp mà còn thúc đẩy tạo thu nhập cho người lao động và gia tăng sự cạnh tranh trên thị trường lao độngVì CNTT làm giảm cả chi phí đại diện và chi phí giao dịch cho doanh nghiệp nên chúng ta kỳ vọng quy mô doanh nghiệp sẽ giảm theo thời gian khi có nhiều vốn đầu tư vào CNTT. Các công ty nên có ít người quản lý hơn và chúng tôi kỳ vọng doanh thu trên mỗi nhân viên sẽ tăng theo thời gian.
 
-==Name: Phạm Thái Sơn==
+==Name: Phạm Thái Sơn== YES
 2)	TÁC ĐỘNG VỀ TỔ CHỨC VÀ HÀNH VI
 Hệ thống thông tin và công nghệ thông tin (CNTT) có ảnh hưởng đáng kể đến tổ chức hành vi trong nhiều khía cạnh. Dưới đây là một số cách mà chúng tác động:
 Cải thiện khả năng giao tiếp: CNTT cung cấp các công cụ giao tiếp hiệu quả, như email, tin nhắn tức thì, và các ứng dụng trò chuyện, giúp tăng cường sự liên lạc giữa các thành viên trong tổ chức. Điều này có thể dẫn đến sự hiểu biết và đồng thuận tốt hơn trong tổ chức.
